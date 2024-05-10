@@ -1,0 +1,65 @@
+Planisware PPM Analytics
+
+Data-backed portfolio decisions for organizational efficiency 
+
+
+
+
+
+
+
+Planisware is an integrated solution providing a comprehensive view of budgets, forecasts, resources, and actuals for all your projects. This data holds valuable insights which can help in accurate project and portfolio planning. From identifying patterns to predicting outcomes, Planisware's analytics capabilities empower organizations to derive meaningful insights from their project data.
+
+i2e Consulting is a trusted Planisware partner and can assist tailor Planisware to your specific needs. Our PPM experts can also guide you in creating out-of-the-box functionalities within Planisware to create reports and dashboards that matter.
+
+
+
+Portfolio data analysis
+
+Planisware is an excellent tool to capture and store vast project-related data over time. By leveraging this historical data, decision-makers can understand how various factors influence project outcomes and can guide future decision-making. The platform’s advanced algorithms can identify recurring challenges, optimal resource allocations, or project success factors. These algorithms empower organizations to uncover valuable insights that might go unnoticed in traditional project management approaches. Team i2e can understand business requirements and assist in establishing an advanced analytics pipeline within and around Planisware, to generate real-time insights that are accurate, accessible and aligned with your business goals.
+
+Customized Reporting and Dashboards
+
+Decision-makers can turn insights into decisions using reports and dashboards. Planisware, at its core, offers comprehensive reporting capabilities that allow users to generate detailed reports. These reports are highly customizable within the Planisware platform, enabling users to tailor them to specific project requirements. i2e's expertise ensures that the reporting and dashboards are finely tuned to meet the unique needs of your organization.
+
+Planisware's capabilities include real-time data tracking, allowing users to access up-to-the-minute information on project metrics. When coupled with i2e's expertise, this feature becomes even more powerful, providing a dynamic and accurate overview of project progress and performance metrics. The platform is also known for its user-friendly interface, and i2e can ensure the customized reports and dashboards are intuitive and readily understandable.
+
+Integration with External Data Sources
+
+Planisware stands out with its remarkable capabilities in seamlessly integrating with external data sources, transforming the way organizations access and utilize information. This means your organization can leverage a diverse range of external data, including market trends, industry benchmarks, and relevant insights. Planisware's integration capabilities ensure that the data from external sources seamlessly flows into the system, eliminating silos and promoting efficient data utilization. 
+
+Team i2e carries expertise in building an effective data pipeline around Planisware to ensure Planisware is well integrated within your ecosystem; couple it with our ability to create custom dashboards, and you will have the power of making data-backed decisions.
+
+Predictive Analytics Modelling
+
+Planisware’s predictive analytics can analyze data from previous projects and predict future outcomes. Predictions in tasks such as estimating task durations during planning phase, forecasting project budgets, and predicting resource utilization and workloads, can help organizations plan efficiently. This includes identifying areas where additional resources may be needed, reallocating resources based on predicted demand, and overall improving the efficiency of project operations.
+
+Team i2e can help you achieve an optimized approach to predictive analytics modelling, by tailoring predictive models specific to nuances and intricacies of your projects. This ensures the model captures the intricacies that define your organization's specific challenges and opportunities. As projects evolve and new data becomes available, i2e will ensure the predictive models are updated and refined.
+
+Benchmarking and Comparative Analysis
+
+Gain a competitive edge by benchmarking your projects against industry standards and competitors with Planisware's benchmarking capabilities. This feature allows your organization to measure performance metrics, timelines, resource utilization, and other key indicators against established benchmarks, providing a comprehensive view of your projects' relative performance.
+
+i2e brings analytical prowess by enhancing the depth and sophistication of benchmarking analysis. This involves not only comparing numerical data but also interpreting the results in the context of your organization's specific goals, industry trends, and competitive landscape. This insight is invaluable for refining strategies, optimizing processes, and addressing weaknesses, ultimately enhancing the overall efficiency and effectiveness of your projects.
+
+
+
+<Carousal showcasing sample dashboards>
+
+
+
+Why choose i2e?
+
+Why i2e?
+
+Trusted Planisware Partner
+
+14 years of PPM experience
+
+Planisware certified and trained team
+
+X no. of Planisware projects delivered
+
+
+
+Insights

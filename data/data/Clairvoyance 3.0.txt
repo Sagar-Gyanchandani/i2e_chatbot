@@ -1,0 +1,80 @@
+Clairvoyance: End-to-end analytics
+
+
+
+Make portfolio decisions with confidence with Clairvoyance by your side 
+
+  
+
+Biopharmaceutical R&D operates through a high-risk, 	high-value business model, relying heavily on strategic portfolio management to maximize the potential of inline brands and driving future pipeline growth through R&D investments and targeted business development programs. Long pipeline development lifecycles in the past did not mandate fast and integrated decision tools.  With increasing late-stage failures, focus on life cycle throughput, emergence of more personalized disease therapy modalities affecting the shape, speed, cost, and competition in clinical development, there is an emerging urgency to develop robust pipeline analytics to better understand and manage risk, secure value, and sustain growth.
+
+
+
+Our proprietary project portfolio and forecasting platform, Clairvoyance, generates highly accurate and reliable forecasts that inform strategic decisions throughout your product's lifecycle. Whether choosing the best asset development plan, mapping market entry strategies, navigating access and reimbursement landscapes, or optimizing supply chain operations, Clairvoyance equips you with foresight to drive commercial success.
+
+
+
+
+
+About Clairvoyance
+
+
+
+Clairvoyance is a portfolio integration platform that enables a quick analysis of portfolio performance and trade-offs, guided by best practices in portfolio data architecture and harmonised business practices.  To enable the collection and alignment of portfolio and project data from across the enterprise, pre-built standardised data interfaces are built into Clairvoyance to enable the rapid integration of enterprise source data such as timing, cost, revenue, and risk. This helps in delivering aggregated results and insights via intuitively designed analytic dashboards and visualisations.
+
+
+
+
+
+How can Clairvoyance help you?
+
+Centralize decision making platform for your portfolio at a click.
+
+
+
+One dashboard, many decisions: Clairvoyance offers a consolidated view of the project portfolio, providing senior executives with a powerful tool for data-driven decision-making. Clairvoyance automates project data integration, data aggregation and summarization of crucial portfolio metrics and insights, all in one consolidated dashboard. 
+
+Efficiently managed project data can provide crucial financial and operational metrics such as project delivery milestone dates, development cost forecast, and revenue forecasts, with appropriate risk adjustments based on Probability of Technical and Regulatory Success (PTRS) and potential market events. 
+
+
+
+Risk visibility for informed decisions: Get visibility into aggregate risks (clinical, regulatory, commercial) at each risk gate in your development cycle to understand costs and timing decisions. Clairvoyance aggregates internal and external information (competitive intelligence) at every stage to help you take the right decisions about time-to-market, launch and commercialization that maximize the economic value of your clinical assets.
+
+
+
+Evidence based decisions: Clairvoyance helps portfolio leaders remove bias from decision making, whether it is patient forecast or revenue forecasts. We help therapy area leaders avoid pitfalls such as focus on short term trade-offs that derail long-term organizational growth, concessions arising due to lack of data visibility into the asset pipeline, answering what-if scenarios confidently.
+
+
+
+
+Clairvoyance for Big Pharma
+
+
+
+The traditionally siloed scientific, development and commercial functions in biopharma companies have made it difficult to assemble the pipeline knowledge required to prepare real-time portfolio insight, analysis, and investment options. To enable visibility and transparency, portfolio leaders have looked to either point solutions or custom development.
+
+
+
+Traditional approaches of deploying fragmented point solutions or custom one-off projects simply cannot scale to meet the evolving needs of your organization. Point solutions provide temporary fixes but lack the adaptability for long-term robustness. While custom builds allow for tailored solutions, their static nature cannot persist or flex with your changing priorities and market dynamics. You're forced to compromise - sacrificing control for rapid customizability or vice versa.
+
+
+
+Our fit-for-purpose decision analytics platform has been designed by industry leading practitioners who are highly sought after advisors in strategic portfolio management.  They have architected and developed a portfolio decision platform, configurable to interface with standard enterprise data systems and custom fit to adapt to existing systems.
+
+
+
+As an enterprise-scale R&D dashboard platform, Clairvoyance provides an unparalleled level of visibility into your entire R&D pipeline, enabling you to track and monitor projects across multiple therapeutic areas, phases, and geographies. With real-time data integration from various sources, you can make informed decisions based on accurate and up-to-date information, minimizing risks, and maximizing operational efficiencies. Our solution offers advanced analytics and reporting capabilities, allowing you to identify trends, forecast outcomes, and optimize resource allocation. Customizable dashboards and intuitive visualizations empower cross-functional teams to collaborate seamlessly, facilitating data-driven decision-making and streamlining communication across departments.
+
+
+
+Clairvoyance for small biotech companies
+
+
+
+With numerous companies vying for limited molecule opportunities, as an emerging biotech company, managing the R&D pipeline, while establishing differentiation and demonstrating value proposition is crucial. With multiple projects in various stages of development, it's crucial to have a comprehensive view of your pipeline to make informed decisions and drive success. Our biotech dashboard solution is designed to provide you with the visibility and insights you need to maximize your R&D efforts.
+
+
+
+Our user-friendly dashboard presents a clear and concise overview of your entire pipeline, allowing you to track projects, monitor progress, and identify potential bottlenecks or risks. With customizable reports and real-time data updates, you can stay ahead of the curve and make data-driven decisions that align with your strategic goals.
+
+Our solution seamlessly integrates with your existing systems, ensuring a smooth transition and minimal disruption to your workflow. Our team of experts will work closely with you to understand your unique requirements and tailor the dashboard to meet your specific needs.

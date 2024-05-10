@@ -1,0 +1,41 @@
+Clairvoyance: End-to-end analytics
+
+Our proprietary project portfolio and forecasting platform, Clairvoyance, harnesses cutting-edge predictive analytics to generate highly accurate and reliable forecasts that inform strategic decisions throughout your product's lifecycle. Whether choosing the best asset development plan, mapping market entry strategies, navigating access and reimbursement landscapes, or optimizing supply chain operations, Clairvoyance equips you with foresight to drive commercial success.
+
+About Clairvoyance
+
+Clairvoyance offers a consolidated view of the project portfolio, providing senior executives with a powerful tool for data-driven decision-making. Efficiently managed project data can provide crucial financial and operational metrics such as project delivery milestone dates, development cost forecast, and revenue forecasts, with appropriate risk adjustments based on Probability of Technical and Regulatory Success (PTRS) and potential market events. Clairvoyance automates project data integration, data aggregation and summarizes crucial portfolio metrics and portfolio insights, all in one consolidated dashboard.
+
+Why Clairvoyance?
+
+The biopharmaceutical R&D industry presents a high-risk, high-value business model which depends on solid strategic portfolio management capabilities to fully exploit the near-term potential of inline brands while optimizing future pipeline growth through disciplined R&D investment and targeted business development. Biopharma pipeline development lifecycles have traditionally been long and as a consequence,  fast and integrated decision tools were not a priority for this sector.  With recent breakthrough in scientific discovery and the emergence of more personalized disease therapy modalities affecting the shape, speed, cost and competition in clinical development, there is an emerging urgency to develop robust pipeline analytics to better understand and manage risk, secure value and sustain corporate growth.
+
+The biopharma industry is data rich but their traditionally siloed scientific, development and commercial functions have made it difficult to assemble the pipeline knowledge required to prepare real-time portfolio insight, analysis and investment options. Traditional approaches of deploying fragmented point solutions or custom one-off projects simply cannot scale to meet the evolving needs of your organization. Point solutions provide temporary fixes but lack the adaptability for long-term robustness. While custom builds allow for tailored solutions, their static nature cannot persist or flex with your changing priorities and market dynamics. You're forced to compromise - sacrificing control for rapid customizability or vice versa. Biopharma organizations have now realised the importance of investing in enterprise data architectures and technologies to align essential but disparate data from across the organization to enable data driven decisions to the top of the value stream.  This is a huge step forward for the industry and precisely where Clairvoyance fills the need.  Good decision making is as much an art as it is a science.  The fit-for-purpose decision analytics platform was designed by industry leading practitioners who are battle-hardened in strategic portfolio management.  They have architected and developed a portfolio decision platform,  configurable to interface with standard enterprise data systems and custom fit to adapt to 
+
+Clairvoyance presents a better path forward that doesn't require trading off governance for agility. This enables you to establish a future-proof architecture for comprehensive data integration, advanced analytics, and democratized insights tailored to your unique business processes.
+
+With a unified data and analytics platform purposely built for life sciences, you can maintain full control while empowering ongoing customization aligned to your strategic roadmap. This powerful pairing of enterprise governance and autonomous configuration finally breaks the constraints of past approaches. As a leader driving transformation, you now have a way to truly future-proof your data and analytics investments without compromise.
+
+Centralized and customizable: Clairvoyance has centralized data aggregation from across your project portfolio, removing the challenges of data living in silos. Its comprehensive dashboard view, KPI reporting and interactive controls, customizable alerts and notifications enable you to access on-demand reports and insights. 
+
+Automated real time data synchronization: Real-time data ensures your forecasts are based on the latest information, reducing the risk of basing decisions on outdated or inaccurate data. This can lead to more precise forecasts and a better understanding of trends, enabling you to identify potential issues or opportunities as they arise. This allows for quicker adjustments to strategies and resource allocation, potentially giving you a competitive edge.
+
+Direct access to project performance: You get access to project performance, any time that you want, improving governance, transparency, and accountability.
+
+
+
+
+
+How you can use Clairvoyance to drive better decisions:
+
+Portfolio and Therapeutics area (TA) Strategy: Whether it is dynamic scenario analysis or driving therapeutic innovation, Clairvoyance can accelerate your forecasting accuracy driving growth, value, and revenue. It helps you to predict business risk and optimize R&D portfolio value. Clairvoyance also helps you drive scenario-based portfolio and project planning.
+
+Research and Development: Improve R&D productivity through our Live innovation Benchmarking Bench to Market. You also get insights about market landscape, market dynamics, and R&D pipeline and portfolio analysis. 
+
+Forecasting: Clairvoyance helps you in revenue forecast projections, patient / epidemiology forecasts, indication and asset level forecast. You can drive demand forecasting, oversee sales performance dashboards, right from regional to country level at a click. 
+
+Resourcing: Clairvoyance allows you to drive real time tracking of resource allocation, workload visualization, oversee project progress
+
+Licensing/M&A/Partnering: Assess augmentation opportunities, drive asset prioritization for licensing and other partnering opportunities.
+
+Commercial Strategy: Evaluate market share impact, monitor key competitive threats, assess and augment eNPV and Internal rate of return (IRR).

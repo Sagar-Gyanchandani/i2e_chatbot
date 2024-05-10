@@ -1,0 +1,79 @@
+Resource management
+
+For biopharmaceutical companies managing complex product pipelines, effective resource management is critical to developmental success. However, siloed systems and fragmented visibility make it difficult to plan and deploy resources across global projects. This impacts speed, drives up costs, and hinders strategic execution.
+
+Remove uncertainty and guesswork from your decision making with i2e’s resource management suite. Our resource management offerings harness the power of data analytics, allowing you to identify resource gaps or overallocation across your portfolio. This data-driven approach ensures you're making informed decisions about talent allocation, budget prioritization, and project timelines, ultimately leading to more efficient resource utilization, and maximized ROI.
+
+A well-designed resource management system empowers your team with the tools they need to excel. Real-time dashboards and interactive reports provide transparency into project progress and resource utilization. This fosters collaboration, keeps everyone aligned with goals, and allows team members to focus on their core competencies, accelerating the advancement of your most promising drug candidates.
+
+Here are our resource management offerings:
+
+Planisware 
+
+Our dedicated resource management solution built on Planisware's portfolio management platform provides comprehensive visibility and advanced optimization capabilities specifically tailored for unique resource challenges in life sciences.
+
+At the foundation is a centralized hub consolidating all resource data: skills, roles, capacities, calendars, utilization metrics and more. Robust integration fabrics seamlessly connect this data from downstream HR, finance, and operational systems across your organization.
+
+Planisware’s out-of-box functionalities for resource management overcome the limitations of traditional spreadsheets and disconnected systems. It acts as a central hub, consolidating data on personnel, budgets, and project timelines into a single, unified platform. This holistic view empowers you to make strategic resource allocation decisions based on real-time insights, prioritizing the projects with the highest potential impact.
+
+Why Planisware resource management?
+
+Data driven decision making: Go beyond simply tracking resources. With PEX reporting, resource managers have the provision to forecast allocation by resource/project and also the ability to modify existing allocations, change/swap resources, create new resource allocations. Advanced analytics unlock valuable insights into resource gaps and overallocation across your portfolio. This lets you optimize talent assignments, budget distribution, and project timelines with surgical precision.
+
+More efficient resource utilization: Maximize return on investment, and a clear path towards bringing breakthrough drugs to market faster. Our solutions have helped provide intuitive indicators for resource management, giving resource managers full control over utilization metrices.
+
+Collaboration: Planisware’s PEX reporting feature fosters a collaborative environment where your team can thrive. Real-time dashboards provide complete transparency into project progress and resource utilization. This empowers team members to hold each other accountable, identify potential roadblocks early on, and stay laser-focused on shared goals. Our solution also facilitates knowledge sharing across teams, ensuring everyone has the information they need to drive innovation forward.
+
+By establishing Planisware as a centralized command centre for resource planning, you can maximize workforce agility, balance workloads, accelerate throughput, and drive higher ROI from your existing Planisware investments.
+
+Read more about our resource management case study here.
+
+OneFolio
+
+OneFolio is a centralized platform that connects your portfolio and resource tracking data and presents insights through interactive visualizations and real-time dashboards. OneFolio’s capabilities allow you to integrate data from your PPM tool (project schedules, resource needs) and HR system (employee skills, timesheets), and consolidate it into a single, intuitive platform. You can view global and local resource availability mapped to various product portfolios. Quickly identify upcoming resource gaps/spikes, skills gaps, growth needs, outsourcing requirements, and other constraints.
+
+OneFolio’s advanced scheduling algorithms enable dynamic scenario modeling to evaluate resource allocation trade-offs across any combination of portfolios, pipelines, and therapeutic areas, enabling you to proactively plan for shifting uncertainties and risk factors.
+
+How OneFolio can help you?
+
+Better resourcing decisions: OneFolio acts as a central hub, eliminating manual data entry and ensuring complete transparency into project progress, personnel activity, and resource allocation. This unified data landscape empowers you to make informed decisions about talent deployment and project prioritization.
+
+Transparency: Our integrated activity tracker highlights on the daily tasks and activities involved in each project. By leveraging data from your HR system (timesheets/activities), you gain granular insights into project progress and resource utilization. This allows you to identify potential roadblocks early on, track progress against timelines, and ensure everyone is aligned with project goals. Real-time activity data also facilitates better time management for team members, optimizing their focus on high-impact tasks.
+
+Real time insights: Dynamic dashboards provide a real-time view of project health, resource allocation, and activity status. With these insights at your fingertips, you can proactively address any resource bottlenecks or project deviations. The ability to make data-driven adjustments and optimize workflows leads to improved project timelines, reduced costs, and ultimately, accelerated delivery of life-saving treatments.
+
+Smarter allocations: Beyond data unification, our offering leverages powerful algorithms to match the right talent with the right task at the right time. By considering resource skillsets, project needs, and current workload, it recommends optimal resource allocation strategies. This data-driven approach ensures that critical projects are staffed with the most qualified personnel, fostering efficient utilization of resources, and maximizing project success rates.
+
+
+
+Read more about our OneFolio implementation in a Big Pharma here <insert link>
+
+
+
+
+
+
+
+Reporting bundle [Merck Dashboards]
+
+-Effective resource management requires seamless visibility across all aspects of planning, execution, and actuals. However, fragmented data in disconnected tools and systems obscures this view, leading to inaccurate forecasting and suboptimal resource utilization.
+
+Our integrated reporting bundle solves this by consolidating and harmonizing resource data from your PPM solution and enterprise timesheets into a centralized reporting fabric. This provides a "single source of truth" for complete resource insights spanning forecasted, scheduled, and actual work.
+
+At the core is a robust data integration layer connecting your project management tools like Planisware to timesheet platforms using APIs and web services. Automated ETL pipelines flow resource assignment data, task estimates, and schedule plans from the PPM system.
+
+This information is intelligently mapped to timesheet entries capturing actuals like hours logged per task, earned value metrics, downtime and more. Customizable roll-up structures and data models align with your specific operational hierarchies.
+
+The integrated data repository feeds a portfolio of pre-built reports, dashboards, and analytics tailored for different resource management personas - from workforce managers to financial controllers and executive leadership.
+
+Interactive visualizations provide unified visibility into resource demand vs supply, forecasted vs actual expenditure, project burdens, profitability metrics and more. Drill into root-cause analysis of deviations between planned effort and actuals.
+
+How can you leverage i2e’s reporting bundle?
+
+Customizations: This is a tool agnostic offering, whether you use Planisware or any other PPM tool, we can create a customized dashboard on Spotfire, Tableau or Power BI, helping you drive resource accountability. AI-assisted variance decomposition and anomaly detection rapidly surfaces underutilized resources, skills shortages, projects at risk and other areas requiring attention. Automated alerts and notifications drive timely intervention.
+
+Transparency: Our flexible self-service reporting solution and data blending empower advanced ad-hoc analysis without ongoing IT/BI team dependency.
+
+Better decision making: With a seamless integration of PPM and timesheet data, resource managers finally gain multidimensional insights to optimize resource usage, control costs, enhance productivity and ensure strategic execution across portfolios.
+
+Read more about our implementation of customized reporting bundles in Big Pharma here. <insert link>

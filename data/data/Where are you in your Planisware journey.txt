@@ -1,0 +1,99 @@
+Planisware Partnership Services
+
+Where are you in your Planisware journey?
+
+<Explore our services>
+
+
+
+         Whether you're just beginning to explore Planisware or seeking to maximize its benefits
+
+                                  i2e Consulting – a trusted Planisware partner – is here for you
+
+
+
+Our Services
+
+
+
+Evaluation
+
+Our consultants will work closely with key stakeholders to conduct a thorough audit of your existing processes to determine which tool aligns best with your business goals. Our team will also assist in technical evaluation of vendors to understand the best fit.
+
+Based on the evaluations, our consultants will develop an implementation roadmap to deliver functionalities in a way to maximize the value of the tool, while minimizing implementation risks.
+
+Implementation
+
+We seamlessly align with other vendors and Planisware’s professional services – i2e becomes part of your team. Our team is well-versed in business process needs, industry best practices, and Planisware technicalities. From implementation to user training.
+
+Our experts successfully implemented out-of-the-box features or “Level 1” custom configuration with their business logic, design and data model. Our modus operandi is zero issues / zero regressions. We also cater to non-functional requirements such as data transformation, data migration, and integration with other toolsets.
+
+ Scaling up
+
+From tailoring modules to your business needs, to integrating with external systems, we ensure that Planisware aligns seamlessly with your business processes. 
+
+Adding more modules within Planisware to improve your workflows
+
+Taking advantage of new feature after a recent upgrade
+
+Making sure Planisware remains fit for purpose after reorganizations
+
+Automation of repetitive tasks increase end-user productivity and reduce manual errors
+
+We can be your partner in improving data quality, building data integrity processes and supporting configuration, and ensuring best practices are adhered to. Our experience with such projects is the output received by organizations is increased trust in the Planisware data, stakeholder buy-in and user adoption, thus overall increased value from your PPM processes.
+
+Integration
+
+Whether you're integrating Planisware with your ERP system to synchronize financial data, connecting with CTMS for clinical alignment, or connecting it with your CRM system to streamline customer information, we'll design integrations that optimize data flow and ensure data consistency across systems.
+
+We help global organizations achieve a seamless Planisware integration which enables access to real-time, accurate information from multiple systems.
+
+Analytics & AI
+
+Our analytics specialists will harness the data within Planisware and transform it into actionable insights. Whether it's analyzing project performance metrics, resource utilization trends, or portfolio health indicators, we'll help you gain a deeper understanding of your data and identify opportunities for improvement.
+
+Be it executive dashboards, project status reports, or resource allocation summaries, we'll develop customized reports that provide the insights you need to effectively manage your projects and portfolios.
+
+Our AI experts are proficient in Planisware predictive analytics and can train a model to predict project outcomes such as task durations, budget forecasts, and resource utilization predictions.
+
+
+
+Service management
+
+We will take care of the technical aspects so you can focus on your core business activities.
+
+Our service management services include dedicated end-user support to address any issues, or concerns that may arise during their day-to-day use of Planisware. 
+
+We can assist with
+
+Technical difficulties
+
+Assistance with a specific feature
+
+Performance bottlenecks
+
+Guidance on best practices
+
+Our team can also assist in applying software updates and patches and performing routine system checks and optimizations.
+
+Our services include meticulous management of master data and overseeing data processing. For organizations utilizing on-premises servers, we offer comprehensive assistance in configuration and maintenance.
+
+
+
+Case studies carousal
+
+https://www.i2econsulting.com/efficient-resource-management/
+
+https://www.i2econsulting.com/a-multi-national-company-achieves-labor-law-compliance-in-fte-calculations-using-planisware/
+
+https://www.i2econsulting.com/automation-technology-leader-unlocks-planisware-capabilities-and-achieves-streamlined-resource-management/
+
+https://www.i2econsulting.com/an-automation-company-achieves-automated-data-synchronization-between-planisware-and-salesforce/
+
+
+
+
+
+Insights
+
+<blogs>
