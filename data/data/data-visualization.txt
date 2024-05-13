@@ -1,0 +1,727 @@
+
+
+
+
+
+
+
+
+
+Data Visualization Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Category: Data Visualization
+
+Home
+ Category: Data Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 4, 2022            
+
+Benefits of Embedded Analytics for the Life Sciences Industry                
+
+Analytics always played a pivotal role in the life sciences industry. Owing to the dynamic and complex nature of drug development and marketing, pharma decision-makers rely heavily on data to decide on the future course of action.  According to a Worldwide Health Industry 2020 predictions report, the next decade will be defined by healthcare data […]
+
+
+
+Sanjana Lagudu                    
+
+
+Data Analytics, Data Visualization, Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 27, 2021            
+
+Is There a Need for Digital Innovation for SMB Pharma?                
+
+In recent years, the pharma industry has witnessed a noticeable rise in the number of small and medium-sized pharma companies (SMBs) in drug development. However, many SMBs face operational issues and competitive pressures which are major roadblocks to showcasing their full potential.  Digitalization innovation in SMB pharma could be the answer to some of these issues, as it can help SMBs to achieve not only operational efficiencies but also assist in making informed decisions, better data management, and cost-cutting.   In this blog, we will tell you about the various areas where digital […]
+
+
+
+Sri Kanagala                    
+
+
+Data Visualization, Digital Transformation, IT Managed Services, Office 365, Pharma IT Solutions, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+June 30, 2021            
+
+Power Bi Dashboards and its contribution to Data Visualization and Advanced Analytics                
+
+Business Intelligence has given a whole new meaning to the decision-making process of organizations worldwide. Enterprises across the globe are now leveraging the technology-driven solution to make better decisions by quick data mining, data collection, migration, analysis, and interactive data visualization. And when we talk about the most versatile BI tools, we can’t miss one such leader in Gartner’s Magic Quadrant for Analytics and Business Intelligence Platforms for the past 12 years. Power Bi, a self-service analytics tool that helps businesses make powerful decisions.  […]
+
+
+
+Manali Dev                    
+
+
+Data Visualization, Power BI, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 13, 2020            
+
+All That You Need To Know About Data Lake And Data Warehousing                
+
+Do you know that more than 2.5 quintillion bytes of data are being generated every single day? With the advancement of technology, the rapid increase of social media use, advanced networks, and communication, we are incredibly fueling data creation. There are over 40,000 Google searches every second. Each minute Instagram is sharing 46,500 photos, while […]
+
+
+
+Aman Singh                    
+
+
+Big Data, Data Visualization, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 7, 2020            
+
+Unlocking the Potential of Data Lakes in the Life Sciences Industry                
+
+Data is the new currency in the healthcare and life sciences industry. A huge amount of data is being generated in this industry every day. Each year the volume of data being generated increases at over 45% and would amount to 2314 exabytes of data (1 exabyte = 1 billion gigabytes) by 2020.[1] How to […]
+
+
+
+Aman Singh                    
+
+
+Big Data, Data Visualization, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+December 6, 2019            
+
+Business Intelligence battle ground                
+
+Power BI vs Tableau  If you are looking for a Business Intelligence or data visualization solution, chances are you have come across Power BI and Tableau.   Founded in 2003, Tableau is often regarded as the gold-standard in data visualization and has been so for a long time. With intuitive data exploration capabilities, Tableau makes a […]
+
+
+
+Darshana Barthakur                    
+
+
+Data Visualization, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 22, 2019            
+
+Data Visualization solutions: Exploration and Presentation                
+
+Digitization led to big data which by 2020 will have 44 trillion gigabytes of data. We are in a position where we have access to masses of data, but our ability to effectively use this data for competitive advantage is a constraint. The reason being most of this data is unstructured and scattered across multiple […]
+
+
+
+Darshana Barthakur                    
+
+
+Augmented & Virtual Reality, Data Visualization, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 14, 2017            
+
+New Trends in Data Visualization                
+
+Data visualization has an important role in the field of information management. In order to make good decisions, you have to be able to understand and analyze available data. Sound data visualization techniques will help in achieving the desired results. And to stay ahead of the game, you need to know about the latest tools […]
+
+
+
+Joel Dsouza                    
+
+
+Data Visualization 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 14, 2017            
+
+Data in Sheets vs Visual Data                
+
+There is a vast amount of data available when it comes to collating data about a certain subject. Also, there are many ways in which this data can be presented. Data could be input in a textual form in a spreadsheet or presented visually in the form of a table, pie-chart or infographic. Based on […]
+
+
+
+Sudhir Karanth                    
+
+
+Data Visualization 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53961
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,513 @@
+
+
+
+
+
+
+
+
+
+Data in Sheets vs Visual Data - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data in Sheets vs Visual Data - i2e Consulting                                
+
+April 14, 2017                                
+
+There is a vast amount of data available when it comes to collating data about a certain subject. Also, there are many ways in which this data can be presented. Data could be input in a textual form in a spreadsheet or presented visually in the form of a table, pie-chart or infographic. Based on the needs of the user, a choice can be made between ‘data in sheets’ and ‘visual data’. In this article, we will understand the difference between ‘data in sheets’ and ‘visual data’.
+
+ 
+
+
+ Absorbing information:
+
+While using spreadsheets as a data analysis tool, the challenge that crops up is that the format of spreadsheets can vary widely and are often inconsistent in subtle but problematic ways. When a large quantity of data is presented in some chaotic and incomprehensible form, it mostly becomes useless.
+On the other hand, visual Data is a more efficient tool which data analysts can use to view and understand huge amount of information about various subjects. Visual data is easily comprehensible and thereby helps in absorbing important information. It will assist the decision-makers to view the connection between multi-dimensional data with the help of heat maps, charts and infographics.
+
+ Purpose of presenting data:
+
+Spreadsheets are mostly used to present data in the form of reports or dashboards. This involves filling the required information in the pre-designated fields. Here, data is mostly presented for informational and reporting purpose. On reading and interpreting the data, the executive has to analyze the information and take decisions accordingly. The data in sheets cannot by itself provide any insights.
+Whereas, Visual data provides valuable insights of its own. Irrespective of the purpose of presenting data, visual data helps the user to understand how the day-to-day operations have an impact on the overall business. Here, the data not only has informational capabilities but also intuitive capabilities.
+
+ Historical Data:
+
+Data in sheets may include current and historical data of key performance metrics. However, it may become difficult to read and interpret the data if the information is too huge or encompassing many years. There is a chance that it gives rise to doubts and confusion if the data is not presented properly.
+On the other hand, visual data allows users to view historical data of key performance metrics and understand the trends. This historical data when presented in the form of visual interactive images can give insights to compare current performance with the past. It will help in planning for future growth and improving performance.
+
+ Directly interact with data:
+
+In the case of dashboard and data in spreadsheets, reports and charts can only be viewed. There is no way a user can interact with the information provided therein. However, visual data possesses interactive tools which help users to directly interact with data. Moreover, data in uni-dimensional reports are mostly a couple of days or weeks old, thereby affecting the accuracy and usability of data. While in the case of visual data, visualization tools and predictive analytics can be used to read and interpret real-time data as well.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Benefits of Embedded Analytics for the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Power Bi Dashboards and its contribution to Data Visualization and Advanced Analytics                                    
+
+
+
+
+
+
+
+
+All That You Need To Know About Data Lake And Data Warehousing                                    
+
+
+
+
+
+
+
+
+Unlocking the Potential of Data Lakes in the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+Business Intelligence battle ground                                    
+
+
+
+
+
+
+
+
+Data Visualization solutions: Exploration and Presentation                                    
+
+
+
+
+
+
+
+
+New Trends in Data Visualization                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

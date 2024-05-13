@@ -1,0 +1,761 @@
+
+
+
+
+
+
+
+
+
+Office 365 Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Category: Office 365
+
+Home
+ Category: Office 365
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 27, 2021            
+
+Is There a Need for Digital Innovation for SMB Pharma?                
+
+In recent years, the pharma industry has witnessed a noticeable rise in the number of small and medium-sized pharma companies (SMBs) in drug development. However, many SMBs face operational issues and competitive pressures which are major roadblocks to showcasing their full potential.  Digitalization innovation in SMB pharma could be the answer to some of these issues, as it can help SMBs to achieve not only operational efficiencies but also assist in making informed decisions, better data management, and cost-cutting.   In this blog, we will tell you about the various areas where digital […]
+
+
+
+Sri Kanagala                    
+
+
+Data Visualization, Digital Transformation, IT Managed Services, Office 365, Pharma IT Solutions, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 10, 2020            
+
+Building Modern Workplaces with Microsoft 365                
+
+Modern workplace and its challenges  Flexible, collaborative, agile, remote are a few characteristics of the modern workplaces. We are all trying to fit into these new modern and the on-going pandemic has only changed gears and made us embrace it faster. However, modern workplaces do have their share of challenges too; security, productivity, collaboration, and […]
+
+
+
+Darshana Barthakur                    
+
+
+Microsoft Teams, Office 365 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 23, 2020            
+
+Top 4 cloud migration benefits and infrastructure services                
+
+Benefits of Cloud Migration  Reduced Cost – A cloud-based solution would cost almost 40 – 45% less than a traditional on-premise solution. Cloud systems eliminate the headache of regular maintenance and upgradation.  Scalable and Agile – It is an on-demand, pay as you go model. Companies pay only for the service that they are using. Cloud applications […]
+
+
+
+Vishal Rane                    
+
+
+Latest Blog, Microsoft Azure, Office 365 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 21, 2020            
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model                
+
+Migrating to the cloud platform is no longer an option; it has become a necessity. More and more organizations and companies are migrating to cloud-based, pay as you go model to increase scalability and agility. Cloud-based services completely transform the IT environment of an organization. Today cloud services are not limited to the traditional compute, […]
+
+
+
+Vishal Rane                    
+
+
+Latest Blog, Microsoft Azure, Office 365 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+February 17, 2020            
+
+Latest trends in Microsoft Teams administration                
+
+There has been a lot of new security and compliance features being rolled out in Microsoft Teams administration. It’s important to customize the setting to meet your organization’s security and compliance standards. Microsoft Teams admin center provides multiple options to manage teams, customize message setting at team or org level. Most of these features need […]
+
+
+
+Darshana Barthakur                    
+
+
+Microsoft Teams, Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+February 4, 2020            
+
+Microsoft Project for the Web is here!                
+
+Project for the web, formerly known as Project service, is Microsoft’s most recent offering for cloud-based work and project management. Project for the web provides simple, powerful work management capabilities and can be used by project managers and team members to plan and manage work of any size.  “The new Project is designed to be […]
+
+
+
+Darshana Barthakur                    
+
+
+Office 365, Project Management, Project Online 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 27, 2020            
+
+How to collaborate better with Microsoft Teams and SharePoint?                
+
+There is a lot of fuss around SharePoint vs Teams: should use Teams or SharePoint, is Teams better than SharePoint, where should we store files, etc. I have come across multiple articles that attempt to solve such confusion but, they never really put light on how these two products are better together, or what role […]
+
+
+
+Sri Kanagala                    
+
+
+Document Management System SharePoint, Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 23, 2019            
+
+Must-haves in Document Management System for Pharmaceutical companies                
+
+There is never a one size fits all solution and the same goes for document management system or DMS, especially for the Pharma domain. Document management is a bit tricky in Pharmaceuticals as the industry needs to adhere to strict compliance and regulatory standards. At one side you need collaborative efforts for fast to market release; on the other, the security […]
+
+
+
+Vishal Rane                    
+
+
+Document Management System SharePoint, Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 4, 2019            
+
+Business Process Automation: Work less do more                
+
+Digital workplaces are transforming the way companies run businesses. One of the many ways to stay relevant in these rapidly changing times is business process automation. Use of technology to execute manual routine tasks that consume a major chunk of working hours is business processes automation. It increases efficiency and streamlines processes. Automation is the stepping step to achieving real digital transformation.   Automation with Microsoft Flow and PowerApps  Tools and software that can carry out time consuming tasks on […]
+
+
+
+Vishal Rane                    
+
+
+Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+August 5, 2019            
+
+​SharePoint versus Documentum: Comparing the two heavyweights of Document Management                
+
+There are several Document Management System options in the market. While the services offered are comparable; some products serve the purpose of your organization’s requirements better than the others. Through this blog, we intend to create a comparative study of two of the commonly used platforms for document management- Microsoft SharePoint and OpenText Documentum.  A brief […]
+
+
+
+Vishal Rane                    
+
+
+Document Management System SharePoint, Office 365, SharePoint 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17262
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

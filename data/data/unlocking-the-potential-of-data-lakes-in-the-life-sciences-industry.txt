@@ -1,0 +1,546 @@
+
+
+
+
+
+
+
+
+
+Unlocking the Potential of Data Lakes in the Life Sciences Industry - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Unlocking the Potential of Data Lakes in the Life Sciences Industry - i2e Consulting                                
+
+October 7, 2020                                
+
+Data is the new currency in the healthcare and life sciences industry. A huge amount of data is being generated in this industry every day. Each year the volume of data being generated increases at over 45% and would amount to 2314 exabytes of data (1 exabyte = 1 billion gigabytes) by
+2020.[1]
+How to manage this data effectively and use the information for improving healthcare services? This is the top concern for all pharma and healthcare organizations across the world.
+Here comes Data Lake – a simple data architecture that can store volumes of data and give people the freedom to access, share, and gather insights from them effectively. Before we understand what data lake is and how it is going to transform the life sciences industry, let us look at the nature of data in this industry.
+The 4Vs of healthcare and life sciences industry
+Volume
+The sheer volume of data in the life science/pharma industry makes it difficult to adopt any data management solutions.
+Veracity
+It is crucial to establish trust and accuracy with any data solution for any organization in the pharma domain.
+Velocity
+Time is very crucial here. Slow systems would increase the time taken for data retrieval, dashboard preparations, and real-time analytics. There cannot be a time-consuming solution for this industry.
+Variety
+Data in this industry comes from a plethora of sources – patient data, claim data, clinical data, surgery data, medical records, and the list. Gathering all the data together into a single integrated system poses to be a major challenge.
+What is Data Lake?
+Data Lake is a centralized data repository where you can store data in its raw or natural format. Here you can store any type data, from multiple sources, without having to worry about the structure or schema of the data. A data lake can store structures, semi-structured, and unstructured data. You can run machine learning, dashboard visualizations, and real-time analytics on this data.
+Data lakes vary widely from the Enterprise Data Warehouses (EDW). EDW are being used by a majority of healthcare organizations across the world. Data Lake and Data Warehouse are not interchangeable terms.
+A Data Warehouse can store only structured data whereas Data Lakes gives you the freedom to store any kind of data.For an EDW, you need to model the warehouse before you can store the data in it. There is no such requirement for a Data Lake.It is quite a challenge to modify the underlying schema for a Data Warehouse whereas you can easily configure a Data Lake and it would be ready to go.Data Lake is hosted on a Hadoop platform and is an open source solution, being cheap and more effective then EDW.
+
+Figure 1: Transitioning from EDW to Data Lakes (Perficient, 2020)
+Data from multiple sources
+Data in the healthcare or life science industry can be categorized into two major sources, claim data and clinical data.
+Claim data represents data from the medical insurance companies claiming for patient’s reimbursements. Typically, these data come in a structured format and contains all the information in one place. One challenge here is that the format of the incoming data can vary depending on the insurance company.
+On the other hand, clinical data is hugely unstructured and scattered across systems like data marts, warehouses, transactional systems, and other external data sources. This makes data mining, sharing of data, or even data retrieval a difficult task.
+Role of Data Lakes
+Data Lakes comes with the potential to transform the life sciences industry with its powerful architecture. It allows data scientists and analysts to uncover insights, predict business results, and give scope for data-driven decision making.
+
+Figure 2: Data Lake platform for clinical data (Perficient, 2020)
+
+Figure 3: Data Lake platform for claims data (Perficient, 2020)
+Data inside a Data Lake is assigned unique identifiers using metadata tags. The data is then extracted using ETL (Extract – Transform -Load) frameworks where prescriptive, predictive, and descriptive analytics methods are applied to gather meaningful insights from the data. 
+Benefits of Data Lake for Life sciences
+Reduction in cost by
+Reducing the resources used for gathering and integration data from multiple sourcesEliminating the cost of recruiting experts to manage Data WarehousesAvoiding the expensed relates to maintaining Data Warehouses
+Lowering of risk by
+Eliminating manual or spreadsheet’s errors in data managementAutomating the data access thereby removing manual data reconciliation
+Increase Competitive Advantage by
+Fasten the decision-making process (with more accuracy and precision)Doing resource allocation in a smart mannerCreating a data pool/knowledge base for best practices
+Unlimited Possibilities with Data Lake
+Data Lake is a scalable and flexible singular repository structure for all kinds of structured, unstructured, external, and internal data. It presents countless possibilities for the life sciences and pharma industry.
+Comprehensive Healthcare Management
+Data Lakes brings in a combination of technology and analytics that can be used to create an efficient Health Management Model. This will allow providers to enhance their services, make precise decisions, fasten the healthcare processes, and create the best quality health systems.
+Processing Huge Volumes of Data
+Volume was one of the four V’s that you saw in the initial sections. With Data Lakes, no matter what amount of new data is being generated, it can process them in real-time with ease and accuracy. More so, the raw format data is never lost inside a Data Lake, so you can always use it for more data mining.
+Enhanced Research and Development
+External and internal data in one place and easy access to all records would enhance the research and development of new drugs, healthcare processes, and equipment.
+Increased Speed of Data Access and Query Processing
+You can now access data and perform queries at a lightning-fast speed. Data Lakes provides better concurrency, removes redundancy, integrates all the sources, and improves the query processing.
+Conclusion
+The life sciences industry witnesses huge chunks of unstructured data. With the data growing at 48% each year, you need robust data management architecture to store, access and run analytics. In this article, you saw an overview of the potential of Data Lakes. In its full capacity, it has the potential to increase scalability, improve performance, and make life science/pharma – data-driven industry.
+
+[1]  https://www.statista.com/statistics/1037970/global-healthcare-data-volume/
+
+
+Tags: Data Lakes in Life Sciences, Enterprise Data Warehousing Solution, Potential of Data Lakes 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+Executive Dashboards for Pharmaceutical Companies                                    
+
+
+
+
+
+
+
+
+Benefits of Embedded Analytics for the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+How Big Data Means Big Opportunities For Pharma Industry                                    
+
+
+
+
+
+
+
+
+Digital Journey of SMBs in India and Cloud Adoption                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

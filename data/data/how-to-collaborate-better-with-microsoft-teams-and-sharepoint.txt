@@ -1,0 +1,507 @@
+
+
+
+
+
+
+
+
+
+How to collaborate better with Microsoft Teams and SharePoint?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+How to collaborate better with Microsoft Teams and SharePoint?                                
+
+January 27, 2020                                
+
+There is a lot of fuss around SharePoint vs Teams: should use Teams or SharePoint, is Teams better than SharePoint, where should we store files, etc. I have come across multiple articles that attempt to solve such confusion but, they never really put light on how these two products are better together, or what role to each of them serves in the collaborative working space.  
+Brief about each of the two Products 
+Microsoft Teams, the hub for teamwork in Office 365. A chat-based collaboration space that allows groups to have meaningful conversations in real-time or near time. It integrates with other Microsoft and third-party services, including PowerPoint, OneNote, and SharePoint. It is cloud-based and has provisions to integrate with SharePoint site, webparts etc.  
+SharePoint initially launched as a Document Management system has evolved over the years into a mobile, intelligent intranet. A popular platform among organizations to share and manage content, knowledge and applications that empower teamwork. Additionally, SharePoint offers a team site, a place to work together with a group of people (share of information between colleagues, add events, to-do items, news, etc.). SharePoint is your best platform for storing and managing content in the right way.  
+Why we should use both? 
+While team site is for collaboration in SharePoint, every time you create a new team in Teams, you get a SharePoint team site and the default things (document library, notebooks, etc.) that comes with it. This is probably why people get confused about which one to use or where to store data. One thing to understand here is that Teams access data from SharePoint, there may be a replication from the view perspective but there is no replication of files. They are the same files. SharePoint stores data while Teams consumes that data.  
+Even though the SharePoint team site has been around as a collaborative platform for some time now, it always lacked the social and communication capabilities. A feat very easily achieved by Teams because it is chat-based. SharePoint stores and manages content in the right way with features like co-authoring, versioning, etc.; Teams, on the other hand, bring in the added value of real-time or near-time conversation, collaboration and interaction.
+Few examples where SharePoint and Team are better together 
+SharePoint Document Library within Teams: You add your document libraries in the Teams tab. This gives you access to all the files with full fidelity.   Comment and Converse beyond Office files: Not only can you comment and converse about PowerPoint or Word but also other file types. As a fun fact, Teams is compatible with 270 different file types. It saves a lot of context switching and not to mention collaboration is as good as real.  Rich dashboards: It is often seen teams share periodic charts and graphs in Team tabs. These reports are not that engaging. How about a rich dashboard? Instead of having multiple tabs, you could just build a dashboard in SharePoint and link it. You can have a chat with your team in the specific channel and if you @mention someone, you ask the person to join the meeting. This happens in real-time or near-time and you do not get redirected. You could even use stream to be in a live session. Similarly, there’s the news connector. Better together; isn’t it?  SharePoint List: SharePoint list in Teams is another great example. When you add a SharePoint list to Teams, you get a full working list without the crumb (you only see the list). You can apply filters and all the things you do in SharePoint.  
+Wrapping it up 
+SharePoint can be seen as a content creation platform and Teams a content consumption platform. Former is where you manage content and the latter is where you present and have a conversation around it. Usually, content consumption comprises nearly 70% of any organization. If you maintain SharePoint as a single source of content delivery for various other services within  Office365 suit like Teams, yammer, emails, etc. content management gets easier and so does collaboration. The  SharePoint experience within Teams makes you aware of why SharePoint has been so popular for content and how you don’t have to leave Teams if you don’t want to. Not only are you viewing the content, you are interacting with it and beyond interacting you are engaging with your team.  
+
+
+Tags: collaboration in Sharepoint, Document Management System, Microsoft Teams, SharePoint and Teams Collaboration, SharePoint Collaboration, SharePoint Document Library within teams, SharePoint List 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+SharePoint and Teams in Modern Workplace Collaboration                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+What Is Intelligent Document Processing? And How It Can Help Your Business.                                    
+
+
+
+
+
+
+
+
+Integrating Power BI to SharePoint                                    
+
+
+
+
+
+
+
+
+Building Modern Workplaces with Microsoft 365                                    
+
+
+
+
+
+
+
+
+Top 4 cloud migration benefits and infrastructure services                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

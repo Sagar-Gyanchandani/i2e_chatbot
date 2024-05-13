@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+SharePoint vs Documentum: Comparing the two heavyweights of Document Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SharePoint vs Documentum: Comparing the two heavyweights of Document Management                                
+
+August 5, 2019                                
+
+There are several Document Management System options in the market. While the services offered are comparable; some products serve the purpose of your organization’s requirements better than the others. Through this blog, we intend to create a comparative study of two of the commonly used platforms for document management- Microsoft SharePoint and OpenText Documentum. 
+A brief about each of them. 
+The EMC Documentum platform provides essential capabilities for managing enterprise content and is the foundation for our enterprise content management and intelligent case management offerings.  
+Primarily a document management and storage system, SharePoint has come a long way from its initial release. It comes integrated with Microsoft Office and is highly configurable. 
+Both these platforms offer the Content Management Interoperability Services (CMIS) standard, meaning you can use them to get content from different content management systems. Let’s explore a few key features one-on-one. 
+Security: Both SharePoint and Documentum offer secure repositories with multiple encryptions. The documents can have a different levels of access controls. However, Documentum offers better access controls as you can refine security at an individual level. While OpenText Documentum offers fine-grained authentication, authorization, and auditing; it does not offer security once the information is shared with a third-party. SharePoint, on the other hand, offers options for online security in the form of controlled access. SharePoint online offers encryption of data in transit, automatic virus detection, control access based on a network location, and manage external sharing with some in-built settings.  
+Storage and Scalability: Documentum follows optimized storage management however, it does not offer cloud storage. If you plan to implement OpenText Documentum you must invest in storage infrastructure upfront. However, with Office 365 you pay as per your requirement and can easily scale up in the future. 
+User-Experience: Customer Feedback across major IT sites have suggested that SharePoint is relatively easier to use compared to OpenText Documentum. 
+Pricing: The market share of users for both these two products is highly lopsided towards SharePoint because of the pricing. The high pricing and lack of cloud support make OpenText Documentum suitable for medium to large scale industries, who can afford to maintain different cloud storage. 
+Support: Both these products offer premium technical support.  
+To wrap up, SharePoint offers decent document management, cloud storage and great collaboration. Documentum, on the other hand, offers great functionalities; however, it comes with a bigger price tag. This together with the absence of cloud storage is what makes it a less popular choice between the two. 
+
+
+Tags: Document Management System, Document Management Workflow, Documentum, Online Document Management, SharePoint Document Management, sharepoint document management system, SharePoint Document Vs Documentum, SharePoint Vs Documentum 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+SharePoint and Teams in Modern Workplace Collaboration                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+What Is Intelligent Document Processing? And How It Can Help Your Business.                                    
+
+
+
+
+
+
+
+
+Integrating Power BI to SharePoint                                    
+
+
+
+
+
+
+
+
+Building Modern Workplaces with Microsoft 365                                    
+
+
+
+
+
+
+
+
+Top 4 cloud migration benefits and infrastructure services                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

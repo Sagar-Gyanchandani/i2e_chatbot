@@ -1,0 +1,692 @@
+  Spotlight on Zero Trust: we're fastest and here's the proof                        Get Started Free|Contact Sales|â¼The Cloudflare BlogSubscribe to receive notifications of new posts:SubscribeAll PostsProduct NewsSpeed & ReliabilitySecurityZero TrustDevelopersAIPolicyPartnersLife at CloudflareAll PostsProduct NewsSpeed & ReliabilitySecurityZero TrustDevelopersAIPolicyPartnersLife at CloudflareSpotlight on Zero Trust: we're fastest and here's the proof06/21/2023David Tuber17 min readThis post is also available in ç®ä½ä¸­æ, æ¥æ¬èª, ç¹é«ä¸­æ, íêµ­ì´, Deutsch, FranÃ§ais and  EspaÃ±ol.
+In January and in March we posted blogs outlining how Cloudflare performed against others in Zero Trust. The conclusion in both cases was that Cloudflare was faster than Zscaler and Netskope in a variety of Zero Trust scenarios. For Speed Week, weâre bringing back these tests and upping the ante: weâre testing more providers against more public Internet endpoints in more regions than we have in the past.For these tests, we tested three Zero Trust scenarios: Secure Web Gateway (SWG), Zero Trust Network Access (ZTNA), and Remote Browser Isolation (RBI). We tested against three competitors: Zscaler, Netskope, and Palo Alto Networks. We tested these scenarios from 12 regions around the world, up from the four weâd previously tested with. The results are that Cloudflare is the fastest Secure Web Gateway in 42% of testing scenarios, the most of any provider. Cloudflare is 46% faster than Zscaler, 56% faster than Netskope, and 10% faster than Palo Alto for ZTNA, and 64% faster than Zscaler for RBI scenarios.In this blog, weâll provide a refresher on why performance matters, do a deep dive on how weâre faster for each scenario, and weâll talk about how we measured performance for each product.Performance is a threat vectorPerformance in Zero Trust matters; when Zero Trust performs poorly, users disable it, opening organizations to risk. Zero Trust services should be unobtrusive when the services become noticeable they prevent users from getting their job done.Zero Trust services may have lots of bells and whistles that help protect customers, but none of that matters if employees canât use the services to do their job quickly and efficiently. Fast performance helps drive adoption and makes security feel transparent to the end users. At Cloudflare, we prioritize making our products fast and frictionless, and the results speak for themselves. So now letâs turn it over to the results, starting with our secure web gateway.Cloudflare Gateway: security at the InternetA secure web gateway needs to be fast because it acts as a funnel for all of an organizationâs Internet-bound traffic. If a secure web gateway is slow, then any traffic from users out to the Internet will be slow. If traffic out to the Internet is slow, users may see web pages load slowly, video calls experience jitter or loss, or generally unable to do their jobs. Users may decide to turn off the gateway, putting the organization at risk of attack.In addition to being close to users, a performant web gateway needs to also be well-peered with the rest of the Internet to avoid slow paths out to websites users want to access. Many websites use CDNs to accelerate their content and provide a better experience. These CDNs are often well-peered and embedded in last mile networks. But traffic through a secure web gateway follows a forward proxy path: users connect to the proxy, and the proxy connects to the websites users are trying to access. If that proxy isnât as well-peered as the destination websites are, the user traffic could travel farther to get to the proxy than it would have needed to if it was just going to the website itself, creating a hairpin, as seen in the diagram below:A well-connected proxy ensures that the user traffic travels less distance making it as fast as possible.To compare secure web gateway products, we pitted the Cloudflare Gateway and WARP client against Zscaler, Netskope, and Palo Alto which all have products that perform the same functions. Cloudflare users benefit from Gateway and Cloudflareâs network being embedded deep into last mile networks close to users, being peered with over 12,000 networks. That heightened connectivity shows because Cloudflare Gateway is the fastest network in 42% of tested scenarios:
+
+
+
+Number of testing scenarios where each provider is fastest for 95th percentile HTTP Response time (higher is better)
+
+
+
+
+Provider
+Scenarios where this provider is fastest
+
+
+Cloudflare
+48
+
+
+Zscaler
+14
+
+
+Netskope
+10
+
+
+Palo Alto Networks
+42
+
+
+This data shows that we are faster to more websites from more places than any of our competitors. To measure this, we look at the 95th percentile HTTP response time: how long it takes for a user to go through the proxy, have the proxy make a request to a website on the Internet, and finally return the response. This measurement is important because itâs an accurate representation of what users see. When we look at the 95th percentile across all tests, we see that Cloudflare is 2.5% faster than Palo Alto Networks, 13% faster than Zscaler, and 6.5% faster than Netskope.
+
+
+
+95th percentile HTTP response across all tests
+
+
+
+
+Provider
+95th percentile response (ms)
+
+
+Cloudflare
+515
+
+
+Zscaler
+595
+
+
+Netskope
+550
+
+
+Palo Alto Networks
+529
+
+
+Cloudflare wins out here because Cloudflareâs exceptional peering allows us to succeed in places where others were not able to succeed. We are able to get locally peered in hard-to-reach places on the globe, giving us an edge. For example, take a look at how Cloudflare performs against the others in Australia, where we are 30% faster than the next fastest provider:Cloudflare establishes great peering relationships in countries around the world: in Australia we are locally peered with all of the major Australian Internet providers, and as such we are able to provide a fast experience to many users around the world. Globally, we are peered with over 12,000 networks, getting as close to end users as we can to shorten the time requests spend on the public Internet. This work has previously allowed us to deliver content quickly to users, but in a Zero Trust world, it shortens the path users take to get to their SWG, meaning they can quickly get to the services they need.Previously when we performed these tests, we only tested from a single Azure region to five websites. Existing testing frameworks like Catchpoint are unsuitable for this task because performance testing requires that you run the SWG client on the testing endpoint. We also needed to make sure that all of the tests are running on similar machines in the same places to measure performance as well as possible. This allows us to measure the end-to-end responses coming from the same location where both test environments are running.In our testing configuration for this round of evaluations, we put four VMs in 12 cloud regions side by side: one running Cloudflare WARP connecting to our gateway, one running ZIA, one running Netskope, and one running Palo Alto Networks. These VMs made requests every five minutes to the 11 different websites mentioned below and logged the HTTP browser timings for how long each request took. Based on this, we are able to get a user-facing view of performance that is meaningful. Here is a full matrix of locations that we tested from, what websites we tested against, and which provider was faster:
+
+
+
+
+Endpoints
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SWG Regions
+Shopify
+Walmart
+Zendesk
+ServiceNow
+Azure Site
+Slack
+Zoom
+Box
+M365
+GitHub
+Bitbucket
+
+
+East US
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Cloudflare
+
+
+
+
+
+West US
+Palo Alto Networks
+Palo Alto Networks
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Cloudflare
+
+
+
+
+
+South Central US
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Cloudflare
+
+
+
+
+
+Brazil South
+Cloudflare
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Zscaler
+Zscaler
+Zscaler
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Palo Alto Networks
+
+
+UK South
+Cloudflare
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Cloudflare
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+
+
+Central India
+Cloudflare
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Palo Alto Networks
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+
+
+
+Southeast Asia
+Cloudflare
+Cloudflare
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+
+
+
+Canada Central
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Cloudflare
+Cloudflare
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Zscaler
+Cloudflare
+Zscaler
+
+
+Switzerland North
+netskope
+Zscaler
+Zscaler
+Cloudflare
+netskope
+netskope
+netskope
+netskope
+Cloudflare
+Cloudflare
+netskope
+
+
+Australia East
+Cloudflare
+Cloudflare
+netskope
+Cloudflare
+Cloudflare
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+
+
+
+UAE Dubai
+Zscaler
+Zscaler
+Cloudflare
+Cloudflare
+Zscaler
+netskope
+Palo Alto Networks
+Zscaler
+Zscaler
+netskope
+netskope
+
+
+South Africa North
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Zscaler
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Palo Alto Networks
+Zscaler
+Palo Alto Networks
+Palo Alto Networks
+
+
+Blank cells indicate that tests to that particular website did not report accurate results or experienced failures for over 50% of the testing period. Based on this data, Cloudflare is generally faster, but weâre not as fast as weâd like to be. There are still some areas where we need to improve, specifically in South Africa, UAE, and Brazil. By Birthday Week in September, we want to be the fastest to all of these websites in each of these regions, which will bring our number up from fastest in 54% of tests to fastest in 79% of tests.To summarize, Cloudflareâs Gateway is still the fastest SWG on the Internet. But Zero Trust isnât all about SWG. Letâs talk about how Cloudflare performs in Zero Trust Network Access scenarios.Instant (Zero Trust) accessAccess control needs to be seamless and transparent to the user: the best compliment for a Zero Trust solution is for employees to barely notice itâs there. Services like Cloudflare Access protect applications over the public Internet, allowing for role-based authentication access instead of relying on things like a VPN to restrict and secure applications. This form of access management is more secure, but with a performant ZTNA service, it can even be faster.Cloudflare outperforms our competitors in this space, being 46% faster than Zscaler, 56% faster than Netskope, and 10% faster than Palo Alto Networks:
+
+
+
+Zero Trust Network Access P95 HTTP Response times
+
+
+
+
+Provider
+P95 HTTP response (ms)
+
+
+Cloudflare
+1252
+
+
+Zscaler
+2388
+
+
+Netskope
+2974
+
+
+Palo Alto Networks
+1471
+
+
+For this test, we created applications hosted in three different clouds in 12 different locations: AWS, GCP, and Azure. However, it should be noted that Palo Alto Networks was the exception, as we were only able to measure them using applications hosted in one cloud from two regions due to logistical challenges with setting up testing: US East and Singapore.For each of these applications, we created tests from Catchpoint that accessed the application from 400 locations around the world. Each of these Catchpoint nodes attempted two actions:New Session: log into an application and receive an authentication tokenExisting Session: refresh the page and log in passing the previously obtained credentialsWe like to measure these scenarios separately, because when we look at 95th percentile values, we would almost always be looking at new sessions if we combined new and existing sessions together. For the sake of completeness though, we will also show the 95th percentile latency of both new and existing sessions combined.Cloudflare was faster in both US East and Singapore, but letâs spotlight a couple of regions to delve into. Letâs take a look at a region where resources are heavily interconnected equally across competitors: US East, specifically Ashburn, Virginia.In Ashburn, Virginia, Cloudflare handily beats Zscaler and Netskope for ZTNA 95th percentile HTTP Response:
+
+
+
+95th percentile HTTP Response times (ms) for applications hosted in Ashburn, VA
+
+
+
+
+AWS East US
+Total (ms)
+New Sessions (ms)
+Existing Sessions (ms)
+
+
+Cloudflare
+2849
+1749
+1353
+
+
+Zscaler
+5340
+2953
+2491
+
+
+Netskope
+6513
+3748
+2897
+
+
+Palo Alto Networks
+
+
+
+
+
+Azure East US
+
+
+
+
+
+Cloudflare
+1692
+989
+1169
+
+
+Zscaler
+5403
+2951
+2412
+
+
+Netskope
+6601
+3805
+2964
+
+
+Palo Alto Networks
+
+
+
+
+
+GCP East US
+
+
+
+
+
+Cloudflare
+2811
+1615
+1320
+
+
+Zscaler
+
+
+
+
+
+Netskope
+6694
+3819
+3023
+
+
+Palo Alto Networks
+2258
+894
+1464
+
+
+You might notice that Palo Alto Networks looks to come out ahead of Cloudflare for existing sessions (and therefore for overall 95th percentile). But these numbers are misleading because Palo Alto Networksâ ZTNA behavior is slightly different than ours, Zscalerâs, or Netskopeâs. When they perform a new session, it does a full connection intercept and returns a response from its processors instead of directing users to the login page of the application they are trying to access.This means that Palo Alto Networks' new session response times donât actually measure the end-to-end latency weâre looking for. Because of this, their numbers for new session latency and total session latency are misleading, meaning we can only meaningfully compare ourselves to them for existing session latency. When we look at existing sessions, when Palo Alto Networks acts as a pass-through, Cloudflare still comes out ahead by 10%.This is true in Singapore as well, where Cloudflare is 50% faster than Zscaler and Netskope, and also 10% faster than Palo Alto Networks for Existing Sessions:
+
+
+
+95th percentile HTTP Response times (ms) for applications hosted in Singapore
+
+
+
+
+AWS Singapore
+Total (ms)
+New Sessions (ms)
+Existing Sessions (ms)
+
+
+Cloudflare
+2748
+1568
+1310
+
+
+Zscaler
+5349
+3033
+2500
+
+
+Netskope
+6402
+3598
+2990
+
+
+Palo Alto Networks
+
+
+
+
+
+Azure Singapore
+
+
+
+
+
+Cloudflare
+1831
+1022
+1181
+
+
+Zscaler
+5699
+3037
+2577
+
+
+Netskope
+6722
+3834
+3040
+
+
+Palo Alto Networks
+
+
+
+
+
+GCP Singapore
+
+
+
+
+
+Cloudflare
+2820
+1641
+1355
+
+
+Zscaler
+5499
+3037
+2412
+
+
+Netskope
+6525
+3713
+2992
+
+
+Palo Alto Networks
+2293
+922
+1476
+
+
+One critique of this data could be that weâre aggregating the times of all Catchpoint nodes together at P95, and weâre not looking at the 95th percentile of Catchpoint nodes in the same region as the application. We looked at that, too, and Cloudflareâs ZTNA performance is still better. Looking at only North America-based Catchpoint nodes, Cloudflare performs 50% better than Netskope, 40% better than Zscaler, and 10% better than Palo Alto Networks at P95 for warm connections:
+
+
+
+Zero Trust Network Access 95th percentile HTTP Response times for warm connections with testing locations in North America
+
+
+
+
+Provider
+P95 HTTP response (ms)
+
+
+Cloudflare
+810
+
+
+Zscaler
+1290
+
+
+Netskope
+1351
+
+
+Palo Alto Networks
+871
+
+
+Finally, one thing we wanted to show about our ZTNA performance was how well Cloudflare performed per cloud per region. This below chart shows the matrix of cloud providers and tested regions:
+
+
+
+Fastest ZTNA provider in each cloud provider and region by 95th percentile HTTP Response
+
+
+
+
+
+AWS
+Azure
+GCP
+
+
+Australia East
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Brazil South
+Cloudflare
+Cloudflare
+N/A
+
+
+Canada Central
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Central India
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+East US
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+South Africa North
+Cloudflare
+Cloudflare
+N/A
+
+
+South Central US
+N/A
+Cloudflare
+Zscaler
+
+
+Southeast Asia
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Switzerland North
+N/A
+N/A
+Cloudflare
+
+
+UAE Dubai
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+UK South
+Cloudflare
+Cloudflare
+netskope
+
+
+West US
+Cloudflare
+Cloudflare
+N/A
+
+
+There were some VMs in some clouds that malfunctioned and didnât report accurate data. But out of 30 available cloud regions where we had accurate data, Cloudflare was the fastest ZT provider in 28 of them, meaning we were faster in 93% of tested cloud regions.To summarize, Cloudflare also provides the best experience when evaluating Zero Trust Network Access. But what about another piece of the puzzle: Remote Browser Isolation (RBI)?Remote Browser Isolation: a secure browser hosted in the cloudRemote browser isolation products have a very strong dependency on the public Internet: if your connection to your browser isolation product isnât good, then your browser experience will feel weird and slow. Remote browser isolation is extraordinarily dependent on performance to feel smooth and seamless to the users: if everything is fast as it should be, then users shouldnât even notice that theyâre using browser isolation.For this test, weâre again pitting Cloudflare against Zscaler. While Netskope does have an RBI product, we were unable to test it due to it requiring a SWG client, meaning we would be unable to get full fidelity of testing locations like we would when testing Cloudflare and Zscaler. Our tests showed that Cloudflare is 64% faster than Zscaler for remote browsing scenarios: Hereâs a matrix of fastest provider per cloud per region for our RBI tests:
+
+
+
+Fastest RBI provider in each cloud provider and region by 95th percentile HTTP Response
+
+
+
+
+
+AWS
+Azure
+GCP
+
+
+Australia East
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Brazil South
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Canada Central
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Central India
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+East US
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+South Africa North
+Cloudflare
+Cloudflare
+
+
+
+South Central US
+
+Cloudflare
+Cloudflare
+
+
+Southeast Asia
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+Switzerland North
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+UAE Dubai
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+UK South
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+West US
+Cloudflare
+Cloudflare
+Cloudflare
+
+
+This chart shows the results of all of the tests run against Cloudflare and Zscaler to applications hosted on three different clouds in 12 different locations from the same 400 Catchpoint nodes as the ZTNA tests. In every scenario, Cloudflare was faster. In fact, no test against a Cloudflare-protected endpoint had a 95th percentile HTTP Response of above 2105 ms, while no Zscaler-protected endpoint had a 95th percentile HTTP response of below 5000 ms.To get this data, we leveraged the same VMs to host applications accessed through RBI services. Each Catchpoint node would attempt to log into the application through RBI, receive authentication credentials, and then try to access the page by passing the credentials. We look at the same new and existing sessions that we do for ZTNA, and Cloudflare is faster in both new sessions and existing session scenarios as well.Gotta go fast(er)Our Zero Trust customers want us to be fast not because they want the fastest Internet access, but because they want to know that employee productivity wonât be impacted by switching to Cloudflare. That doesnât necessarily mean that the most important thing for us is being faster than our competitors, although we are. The most important thing for us is improving our experience so that our users feel comfortable knowing we take their experience seriously. When we put out new numbers for Birthday Week in September and weâre faster than we were before, it wonât mean that we just made the numbers go up: it means that we are constantly evaluating and improving our service to provide the best experience for our customers. We care more that our customers in UAE have an improved experience with Office365 as opposed to beating a competitor in a test. We show these numbers so that we can show you that we take performance seriously, and weâre committed to providing the best experience for you, wherever you are.We protect entire corporate networks, help customers build Internet-scale applications efficiently, accelerate any website or Internet application, ward off DDoS attacks, keep hackers at bay, and can help you on your journey to Zero Trust.Visit 1.1.1.1 from any device to get started with our free app that makes your Internet faster and safer.To learn more about our mission to help build a better Internet, start here. If you're looking for a new career direction, check out our open positions.Discuss on Hacker NewsSpeed WeekSpeedZero TrustPerformanceNetwork Performance UpdateCloudflare GatewayFollow on XDavid Tuber|@tubes__Cloudflare|@cloudflareRelated postsJune 26, 2023  1:00 PMRecapping Speed Week 2023Recapping all the announcements made during Speed Week 2023...ByÂ Sam MarshSpeed WeekÂ June 23, 2023  1:01 PMAll the way up to 11: Serve Brotli from origin and Introducing Compression RulesToday, we're enhancing our support for Brotli compression, enabling end-to-end Brotli compression for web content. Compression plays a vital role in reducing bytes during transfers, ensuring quicker downloads and seamless browsing...ByÂ Matt BullockSpeed Week,Â CompressionÂ June 23, 2023  1:00 PMHow we scaled and protected Eurovision 2023 voting with Pages and TurnstileMore than 162 million fans tuned in to the 2023 Eurovision Song Contest, the first year that non-participating countries could also vote. Cloudflare helped scale and protect the voting application based.io, built by once.net using our rapid DNS infrastructure, CDN, Cloudflare Pages and Turnstile...ByÂ Dirk-Jan van Helmond,Â Michiel Appelman,Â Jim de Beer (Guest Author)Speed Week,Â Cloudflare Pages,Â Turnstile,Â Customers,Â Customer Success,Â DNS,Â Speed,Â ReliabilityÂ June 23, 2023  1:00 PMMaking Cloudflare Pages the fastest way to serve your sitesPages is now the fastest way to serve your sites across Netlify, Vercel and many others and weâre so proud...ByÂ Sid Chatterjee,Â Daniel Walsh,Â Nevi ShahSpeed Week,Â Cloudflare Pages,Â PerformanceÂ Getting StartedFree plansFor enterprisesCompare plansGet a recommendationRequest a demoContact SalesResourcesLearning CenterAnalyst reportsCloudflare RadarCloudflare TVCase StudiesWebinarsWhite PapersDeveloper docstheNetSolutionsConnectivity cloudSSE and SASE servicesApplication servicesNetwork servicesDeveloper servicesCommunityCommunity HubProject GalileoAthenian ProjectCloudflare for CampaignsCritical Infrastructure Defense ProjectConnect 2024SupportHelp centerCloudflare StatusComplianceGDPRTrust & SafetyCompanyAbout CloudflareOur teamInvestor relationsPressCareersDiversity, equity & inclusionImpact/ESGNetwork MapLogos & press kitBecome a partnerÂ© 2024 Cloudflare, Inc. | Privacy Policy | Terms of Use | Report Security Issues |Cookie Preferences | Trademark 

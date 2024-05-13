@@ -1,0 +1,762 @@
+
+
+
+
+
+
+
+
+
+Vishal Rane, Author at i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Home
+ i2e Consulting goes virtual first.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 5, 2021            
+
+i2e Consulting goes virtual first.                
+
+Remote work will be the primary experience for all employees at i2e consulting globally. The company has decided against adopting a hybrid model to keep things fair with respect to performance or career trajectory.  “Work wherever it makes sense to you. Two of our team members have followed their passion for organic farming, and one has mastered baking, then there are others, […]
+
+
+
+Vishal Rane                    
+
+
+News 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+May 8, 2020            
+
+Emerging Trends in IT Outsourcing Services                
+
+Any disruption in the business environment can lead to significant loss of revenue and adversely impact future plans. Isn’t it? For example, we have now experienced that traditional business continuity plans are just not enough to prepare for a pandemic!  Remote working model existed for a long time in the world of business. The market […]
+
+
+
+Vishal Rane                    
+
+
+IT Outsourcing, Staff Augmentation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 23, 2020            
+
+Top 4 cloud migration benefits and infrastructure services                
+
+Benefits of Cloud Migration  Reduced Cost – A cloud-based solution would cost almost 40 – 45% less than a traditional on-premise solution. Cloud systems eliminate the headache of regular maintenance and upgradation.  Scalable and Agile – It is an on-demand, pay as you go model. Companies pay only for the service that they are using. Cloud applications […]
+
+
+
+Vishal Rane                    
+
+
+Latest Blog, Microsoft Azure, Office 365 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 21, 2020            
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model                
+
+Migrating to the cloud platform is no longer an option; it has become a necessity. More and more organizations and companies are migrating to cloud-based, pay as you go model to increase scalability and agility. Cloud-based services completely transform the IT environment of an organization. Today cloud services are not limited to the traditional compute, […]
+
+
+
+Vishal Rane                    
+
+
+Latest Blog, Microsoft Azure, Office 365 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+February 19, 2020            
+
+Modernize your infrastructure and future-proof  your technology                
+
+Prepare for Windows Server 2008 and SQL Server 2008 end of support With end of support for Windows Server 2008 and SQL Server 2008 fast approaching, now is the time to start thinking about modernizing your infrastructure. Extended Support for SQL Server 2008/2008 R2 ends July 9, 2019 Extended Support for Windows Server 2008/2008 R2 […]
+
+
+
+Vishal Rane                    
+
+
+Digital Transformation, Microsoft Azure, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 14, 2019            
+
+Top Pharma IT solution trends you should practice                
+
+The end of last century witnessed Industrial revolution 3 popularly known as the digital revolution and now industries are gearing for industrial revolution 4.0 or IR 4.0 For those who are not aware of this, Technology writer, Alasdair Gilchrist, describes Industry 4.0 as the convergence of people, physical systems, and data within an industrial process to increase […]
+
+
+
+Vishal Rane                    
+
+
+Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 23, 2019            
+
+Must-haves in Document Management System for Pharmaceutical companies                
+
+There is never a one size fits all solution and the same goes for document management system or DMS, especially for the Pharma domain. Document management is a bit tricky in Pharmaceuticals as the industry needs to adhere to strict compliance and regulatory standards. At one side you need collaborative efforts for fast to market release; on the other, the security […]
+
+
+
+Vishal Rane                    
+
+
+Document Management System SharePoint, Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 23, 2019            
+
+Robotic Process Automation in pharmaceuticals                
+
+Robotic Process Automation (RPA) is the technology that enables us to configure computer software, or a ‘robot’ to emulate and integrate the actions of a human interacting within digital systems to execute a business process.   In contrast to traditional technology implementations, Robotic Process Automation allows an organization to incorporate automation at a fraction of the cost and time. RPA implementation offers cost efficiency and consistency without disrupting existing infrastructure systems. Thus, there […]
+
+
+
+Vishal Rane                    
+
+
+Robotic Process Automation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 4, 2019            
+
+Business Process Automation: Work less do more                
+
+Digital workplaces are transforming the way companies run businesses. One of the many ways to stay relevant in these rapidly changing times is business process automation. Use of technology to execute manual routine tasks that consume a major chunk of working hours is business processes automation. It increases efficiency and streamlines processes. Automation is the stepping step to achieving real digital transformation.   Automation with Microsoft Flow and PowerApps  Tools and software that can carry out time consuming tasks on […]
+
+
+
+Vishal Rane                    
+
+
+Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+August 5, 2019            
+
+​SharePoint versus Documentum: Comparing the two heavyweights of Document Management                
+
+There are several Document Management System options in the market. While the services offered are comparable; some products serve the purpose of your organization’s requirements better than the others. Through this blog, we intend to create a comparative study of two of the commonly used platforms for document management- Microsoft SharePoint and OpenText Documentum.  A brief […]
+
+
+
+Vishal Rane                    
+
+
+Document Management System SharePoint, Office 365, SharePoint 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+86393
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

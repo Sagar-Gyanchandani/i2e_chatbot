@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+Enterprise Resource Allocation with Microsoft Project Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Enterprise Resource Allocation with Microsoft Project Online                                
+
+January 12, 2022                                
+
+
+Resource management is crucial to ensure the allocation of resources to the right projects- projects that are aligned with your company’s goals. Portfolio managers must balance capacity while keeping in mind business needs to prioritize, plan and schedule tasks for the right teams, people, and skillsets. 
+
+
+With the advent of Microsoft Project Online, portfolio managers can now effectively manage work, cost, and material resources. Read on, as we tell you how Project Online resource management is packed with many exciting features. 
+
+
+What Project Online Offers for Resource Management. 
+
+
+The powerful Microsoft Project Online helps portfolio managers to  
+
+
+
+
+
+Manage resource engagement requests 
+
+
+
+
+
+
+
+
+Effectively plan resource management 
+
+
+
+
+
+
+
+
+Planning resource capacity 
+
+
+
+
+
+
+
+
+Build teams in line with the demand. 
+
+
+
+
+
+
+Next, let us look in detail at how productive this cloud-based PPM (Project Portfolio Management) tool can be when it comes to resource management. 
+
+
+Overview of Resource Engagement Requests 
+
+
+Project Online gives the portfolio manager a bird’s eye view of a resource which allows them to make an informed decision whether to accept, reject or modify any resource engagement requests. 
+
+
+All the resource requests submitted by your project managers will be displayed in the Resource Center section. Here you can view the request along with the fields like name of the resource, project name, percentage capacity, start and end date of engagement. 
+
+
+
+
+
+If everything looks fine, you can click on the accept button, and the resource will be released back to the project manager. One of the best features of Project Online is you can swap generic resources for a specific one, and edit the fields related to the resource. You can also reject a resource engagement request so that the project manager can revise and submit it again. Thus, ensuring all the resources are utilized optimally. 
+
+
+Manage the Vast Resource Pool 
+
+
+When you have a vast resource pool managing them can be tough. Microsoft Project Online has an enterprise resource pool to streamline resource management individually or in bulk. You can easily add a resource to your project and assign multiple attributes such as the need of approval for assignments, base calendar, and start and end dates to it. 
+
+
+If there are many resources, you can run an automatic import using an external data file. 
+
+
+
+
+
+The file formats supported by Project Online are  
+
+
+
+
+
+.mpp, and .mpt for project files 
+
+
+
+
+
+
+
+
+.xlsx, .xlsb, and .xls for excel files; and . 
+
+
+
+
+
+
+
+
+.txt, csv, and .xml 
+
+
+
+
+
+
+Estimate Resource Capacity 
+
+
+Another crucial part of resource management is knowing a resource’s availability. This prevents over or underutilization of resources. By using Project Online, you can easily view the availability and allocation of a resource. 
+
+
+All you have to do is select any resource in the resource center, click on ‘Capacity Planning.’ Then, under the view tab, select ‘Capacity and Engagement Heatmap.’ This gives you a quick visual of that resource’s availability and allocation.  
+
+
+Project Online also gives color codes for quick understanding. For example, if a resource is optimally utilized between their engagement and overall capacity, then their hourly capacity will be highlighted in green. If they are underused then, it will be highlighted in blue, and if overused then the hourly capacity will be in red. 
+
+
+
+
+
+If you need to drill down more into the under and over-utilized resources, then simply click on ‘Resource Assignments.’ This will give a detailed view of all the tasks associated with that resource, along with the dates and percentage of work done. These details can help you not only in resource forecasting, but also make informed decisions to reassign workload. 
+
+
+Build Teams 
+
+
+Building a team for a project is quick and simple with Project Online. Go to the ‘Quick Launch menu,’ select the project for which you need to build a team. Next, click on ‘Build Team,’ under Navigate. Once all the possible resources load as a list on the left side of the screen, select the resource you want and transfer it to the project team. You can also view a summary of the type, cost center, and earliest availability of each resource. 
+
+
+Once you have created your team, click save and close and now your team is ready to assign tasks.  
+
+
+
+
+
+Microsoft ecosystem advantage 
+
+
+Another advantage of Microsoft Project online is its seamless integration with other Microsoft tools. Since Project Online is built on Microsoft 365 Groups, it can be easily integrated with collaboration and data visualization tools such as Teams and Power BI. 
+
+
+Microsoft teams: Communicating with other resources is simplified through Project Online. If you need to talk to any resource, simply hover over a name and start instant messaging or a video call through Teams. 
+
+
+
+
+
+Power BI: With the help of the Resource Center and Power BI content pack, you can create dashboards with several resource management-focused views. This will help you to assess demand vs capacity and view other insights without the need to perform any manual work. 
+
+
+Microsoft Project Online is a powerful PPM solution for resource management. Bid goodbye to excel sheets and hours of manual work to sort out resources. With Project Online you can manage, plan and allocate resources with just a few clicks. 
+
+
+Interested to know more about Project Online, then visit www.i2econsulting.com or write to us at [email protected]
+
+ 
+
+Tags: Project online, Resource Management in Pharmaceutical Industry, Resource Management in Project Online, Resource Management Solution 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                                    
+
+
+
+
+
+
+
+
+Mastering Enterprise Project Portfolio Management: The Planisware Enterprise Advantage                                     
+
+
+
+
+
+
+
+
+Why Planisware Orchestra is a one-stop solution for SMEs in Project Portfolio Management?                                    
+
+
+
+
+
+
+
+
+Organizing data for Portfolio Decision Making                                    
+
+
+
+
+
+
+
+
+Why You Should Use PPM (Project Portfolio Management) Software for Project Collaboration                                    
+
+
+
+
+
+
+
+
+Planisware Orchestra and its role in New Product Development (NPD), from Strategy to execution                                    
+
+
+
+
+
+
+
+
+6 Project Management Tasks and How You Can Manage Them Using Planisware.                                    
+
+
+
+
+
+
+
+
+Project Online and Power BI- A Dynamic Duo for Making Reports That Matter.                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

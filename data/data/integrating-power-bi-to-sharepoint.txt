@@ -1,0 +1,514 @@
+
+
+
+
+
+
+
+
+
+Integrating Power BI to SharePoint - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Integrating Power BI to SharePoint - i2e Consulting                                
+
+September 14, 2020                                
+
+Are you a SharePoint user? Do you use Power BI? Ever thought of leveraging Power BI to SharePoint? Well, if you fall into any or all the above categories, you have come to the right place.  
+In this blog I will briefly discuss about Power BI (you can skip this part if you are already familiar with the platform), why integrate Power BI with SharePoint, and benefits of the integration. 
+What is Power BI? 
+Power BI is a data visualization tool that provides cloud-based business intelligence (BI) services. You can integrate your data and build reports and dashboards with custom visualization. Its UI is remarkably simple and user friendly and it is especially helpful if you are an excel user. It is available free from your Microsoft account; you also have a pro version available for extended data presentation. A few clicks to build reports and sharing them has never been easier. Share with Office 365 groups, individuals or even guest members.  
+Why integrate? 
+SharePoint—or for that matter the entire Microsoft 365 suite of productivity tools—is a collaborative platform; they way you use it defines its usefulness. SharePoint is a critical part of most company’s data communication and distribution strategy. As such, using Power BI with SharePoint reporting data allows for a quick and efficient comprehension of data analysis. As organizations build modern intranet on SharePoint in Microsoft 365, it is convenient to create reports on its usage, and to store the later Power BI reports there. 
+How integration works? 
+Integrating Power BI is simple, you can get it done by your developer team or use the expertise of someone like us for customized one-click experiences. Power BI’s new report web part for SharePoint Online, let us you easily embed interactive Power BI reports in SharePoint Online pages. The embedded reports respect all item permissions and data security so you can easily create internal portals.  
+ I am not going to go over the steps you need to follow to achieve it as there are many resources over the internet which can help you with that. I would like to discuss other things you can achieve through a customized integration.  
+Once you integrate the two, you can share your Power BI reports with everyone and in any way you like.  
+
+Real-time updates: Any change you make on Power BI will reflect live to your SharePoint site 
+Customize Permission: You choose what data is visible to who and where i.e. group and device permission. 
+Choose your SharePoint: You can use any SharePoint experience (classic/modern) and any SharePoint platform (Online / On-premise). 
+Integrate data sources: You can integrate your data and connect it to Power BI, for an elevated intranet experience.  
+Choose your reports: You choose what you want to embed into your SharePoint site. Whether, it be a full dashboard or a single report.  
+
+Wrapping it up, get a single view of your critical business data with Power BI Integration. You can go step further and configure Microsoft’s Power Automate to automatically send data to Power BI. That way you could fully automate the entire reporting, as they say it is always better together.  
+Just drop in your queries or call us for a free consultation today.  
+
+
+Tags: Integrating Power BI, Power BI, Power Bi to SharePoint 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+SharePoint and Teams in Modern Workplace Collaboration                                    
+
+
+
+
+
+
+
+
+Power Bi Dashboards and its contribution to Data Visualization and Advanced Analytics                                    
+
+
+
+
+
+
+
+
+Project Online and Power BI- A Dynamic Duo for Making Reports That Matter.                                    
+
+
+
+
+
+
+
+
+Latest trends in Microsoft Teams administration                                    
+
+
+
+
+
+
+
+
+How to collaborate better with Microsoft Teams and SharePoint?                                    
+
+
+
+
+
+
+
+
+Must-haves in Document Management System for Pharmaceutical companies                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

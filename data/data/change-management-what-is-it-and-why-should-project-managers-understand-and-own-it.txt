@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it                                 
+
+May 2, 2024                                
+
+Change management is a critical component for organizations and projects undergoing transformations be it process or technological. Not addressing changes can lead to disengagement, decreased productivity, wasted resources, ultimately leading to project delays. A well-structured change management plan enables organizations to navigate change smoothly, minimizing disruptions and increasing the likelihood of achieving desired outcomes. 
+In this blog we will present a change management guide and explain why it is important for project managers to also become change managers with a realistic example. 
+Before knowing how to master change management, lets know more about it. 
+According to the Harvard Business School, “Change Management refers broadly to the actions a business takes to change or adjust a significant component of its organization. This may include company culture, internal processes, underlying technology or infrastructure, corporate hierarchy, or another critical aspect.” (1) 
+If you are a project manager, you may need to play a dual role of the project manager and a change manager. As change management deals with people’s adoption towards the new process or technology, there is no better person a team trusts than the project manager. 
+So, first let’s understand how different change management and project management are, as this will help you to effectively shift gears whenever necessary. 
+Are Project Management and Change Management the Same Thing? 
+Though there are overlaps between project management and change management, they are two different processes as the former deals with what people are doing and the latter is how the people are doing it – and each of them requires separate approaches.   
+So, how different are change management and project management? Let’s find out. 
+
+
+By treating change management and project management as separate but complementary disciplines, companies can effectively address both the human and technical aspects of organizational initiatives. 
+Change management is often associated with challenges such as resistance to change, unforeseen risks, data standardization, change fatigue etc., 
+So, how can project managers navigate through these challenges and achieve successful change management? Read the next section as we illustrate change management with the help of a real-time example.
+Change Management Example: Migrating and Adopting Planisware 
+A global organization recognized the necessity of transitioning its fragmented Project management systems, including Microsoft Project, Smartsheet and Excel, to a unified platform such as Planisware. This is a huge change that the company planned to go with a big-bang approach rather than opting for a pilot project first. Navigating such a change to new technology presents challenges. A robust plan and effective change management by the project managers is required to ensure a smooth transition. 
+Let’s begin by looking at the organization’s key objectives the company was looking to achieve with this change. 
+
+Achieve one tool approach: Different project groups were using both MS Project and Smartsheet. These users loved their tools; however, each project manager utilized them in their own way, with their own tricks and without harmonization in how the data was being collected, structured, and shared. Reports were ad-hoc and as-needed. The MS Project users didn’t coordinate with the Smartsheet users, even though some of the same takes and milestones were represented in each. The company aimed to bring all the projects under Planisware and achieve data synergy between teams. 
+Increase data timeliness: Organization wanted to streamline data collection and reporting processes with the help of advanced capabilities of Planisware. They also aimed to reduce the time required to gather and analyze data, ensuring that decision-makers had access to timely and relevant information.   
+Break down silos: Planisware will also foster collaboration and alignment between teams. So, the organization sought to break down silos and promote knowledge sharing. They also wanted to have enhanced visibility into resource allocation and project milestones would facilitate cross-team synergies and alignment with global planning objectives.  
+AI integration: They wanted to get data ready for AI use by centralizing all project data in one repository and standardizing data. Thus, enabling the organization to leverage AI generated advanced analytics for decision-making and forecasting. 
+Resource management: They also wanted to centralize processes for resource management by replacing the offline method. The agenda behind doing this was to enhance visibility, facilitate collaboration and align with global planning objectives. Now let’s see how a change management plan can be made for this scenario. 
+
+
+
+Change Management Best Practices for Project Managers  
+In the above example, the company may engage a technology partner to implement Planisware. This partner will take care of the implementation and drive change management. However, there are some crucial aspects where project managers need to switch roles and become change managers as well. Let’s explore more of these aspects. 
+
+Executive push to use data: It is imperative to start including Planisware in the day-to-day activities of the project management. Coach the team members to let go of the previous practices and get data from Planisware only. If there are discrepancies in the data, instruct the team on how to fix them. 
+
+
+Practice data driven decision making: Establish data quality control mechanisms to make sure the data is of high quality. Communicate to your team with evidence of how the decision makers are using the data for decision-making, and how the data quality is getting reflected in the reports. 
+
+
+Communicate improvements: Gather statistics which can be used to quantitatively show improvement after the change. e.g., number of hours spent on each annual operating cycle, resource utilization, number of projects’ gate reviews performed per quarter. 
+
+
+Include in the bigger picture: Communicate to the highest-level executive to include updates on the implementation project in all-hands meetings, so that end-users realize that this project is a big deal, and their annoyances are a part of a corporate improvement. 
+
+
+Strive to provide material value to your team: Project managers should meticulously plan and work with the Planisware implementation partner to provide material value to each end-user, be it a specific report that will address a challenge or building RPA (Robotic Process Automation) to save them time. For example, building templates for roadmaps for the project managers, so that you can have a one-button operation to output their Gantts into ‘pretty’ views which can be shared throughout the organization. 
+
+
+Meticulous data migration: Rather than lifting-and-shifting all pre-existing data, have the users re-created it in the new tool with the new processes (especially if there are any material changes to the processes, such as new templates, new resource structures, new levels of details expected in their planning). While this seems tedious and users will have some resistance, it is the best form of training and will ensure that they are bought in to the data that is in the new tool (instead of an automated migration process resulting in data that they own but don’t trust). 
+
+
+Build a data dictionary/glossary: Work with the implementation partner and other stake holders to ensure harmonization or alignment of terms. For instance, in the pharma world, “FPI” sometimes means first subject screened and other teams means first patient first dose. If your organization grew via acquisition, different team members may have different interpretations of the same thing and a data glossary can help establish harmonization. 
+
+
+Define resource management terms: Make sure the crucial metrics pertaining to resource management are defined before implementing the module. For example, when the definition of FTE is not clear, then, it’s impact is seen when a report says, “2 FTE are needed for this time period” does it mean that you need 2 humans, or does it mean you need more people because of vacation and trainings and other overhead;  can it mean 4 humans working halftime each is ok? etc. And how will finance monetize the estimate for their budget reporting. 
+
+
+Identify change agents: Find and enlist change agents, these can be your biggest supporters, but it can also be those most resistant to the change. Maybe it’s the admin from the old tool, who is subconsciously fearful for their job. By having them included in the implementation, they can see the value and possibility. Make sure the change agents receive more communication about the change, and be involved in some decision making, so that they are better equipped to support their teams. 
+
+
+Setup one functionality at a time: Start implementing Planisware module by module within your team, so you can hold their hand and give them the attention that they need. Similarly, roll out project by project and not a big-bang approach. 
+
+
+Conduct “What’s in it for me” training: As a trusted source for your team, the project managers should highlight the benefits of the new tool and process. This requires digging deep into existing ways of working and finding frustrations that people are used to. For example: MS Project has a limited number of baselines.  Or double entry was required from a CTMS tool into MS Project (and triple entry then into a reporting tool). Communicate and demonstrate how Planisware can effectively solve this. 
+
+
+Prioritize ongoing training: Make sure along with initial training, your team also gets ongoing launch & learn sessions for continued training. Include advanced tips and tricks beyond what is included in the standard training, quick reference guides, like FAQs, are best to support the end users effectively. 
+
+Introducing a new tool or a process comes with a promise of enhancing the existing processes and eliminating challenges; however, to reap the benefits, change management should be done effectively. Engaging a technology partner for the Planisware implementation makes it smooth and 100% fool proof. At the same time, it is equally important to appoint an experienced team to help with the change management both from the perspective of the tool and the people involved.  
+i2e Consulting has over a decade of experience in PPM and Planisware. We have successfully configured Planisware and aligned the tool to their specific requirements and workflows. Our team also worked closely with the Planisware team and the stakeholders to help with the change management aspect. 
+
+References 
+
+5 critical steps in the change management process; Business Insights; Havard Business School Online 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Planisware Orchestra and its role in New Product Development (NPD), from Strategy to execution                                    
+
+
+
+
+
+
+
+
+6 Project Management Tasks and How You Can Manage Them Using Planisware.                                    
+
+
+
+
+
+
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                                      
+
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                                    
+
+
+
+
+
+
+
+
+Mastering Enterprise Project Portfolio Management: The Planisware Enterprise Advantage                                     
+
+
+
+
+
+
+
+
+Why Planisware Orchestra is a one-stop solution for SMEs in Project Portfolio Management?                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

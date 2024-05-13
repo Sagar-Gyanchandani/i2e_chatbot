@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+Organizing data for Portfolio Decision Making
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Organizing data for Portfolio Decision Making                                
+
+June 1, 2022                                
+
+Did you know that 60 – 73% data of an organization are categorized as Dark Data, which goes to waste1? 2020, Gartner survey on portfolio decision-making finds that 78%2 of R&D leaders say the pressure to make faster decisions has increased. All you need is harness your data for insights and make decisions faster. If only it were that easy; or is it?  
+In today’s blog we will discuss business problems in the life science space, technical hurdles, and how with a good approach and even better execution you could master quicker decision making.  
+Business and technology challenges 
+Businesses are rapidly evolving; the amount of data volume is exponentially increasing yet; companies are still spending hours and hours in PowerPoint report generation? There has been an increase in scrutiny in portfolio decision-making by leaders. A lack of agility and transparency is imperative. The multi-country, multi-vendor Pharma environment is not helping either. If you zoom in to these problems, often it is observed that a common set of system challenges are present in most organizations struggling with portfolio decision-making. (While there are change and process issues; however, for this blog we will limit ourselves to technical problems.) 
+Disparate data sources and systems are a major concern which hinders business collaboration, leaving room for inefficiencies, vulnerability, and overspending. This siloed information and a lack of visibility for BI (Business Intelligence) and analytics lead to poor decision-making.  
+Companies have been aggressively increasing data collection and analysis over the years; however, most of it suffers from data quality issues such as inaccurate, incomplete, inconsistent, and duplicated information. This unstructured or raw data is called bad data, it is bad news for any company, and it does more harm than good. Not only does bad data lead to flawed insights, but it also creates bottlenecks in digital transformation, many migration projects have failed owing to bad data. It also affects operational efficiencies. Sadly, most companies think it is a minor issue until it becomes a major bottleneck for them to deal with. 
+The ability to react to the market depends on how quickly you have access to the latest insights. However, most companies work on week- or month-old data. How is someone to make faster decisions when the analysis is based on such old data? This also puts them at a disadvantage against their competitors.  
+Your approach matters 
+No problem is big enough with the right approach. Identifying loopholes that affect your performance is key here. A thorough evaluation with cross-functional stakeholders and subject matter experts is the first step. Once you have run the analysis you are to define the problems and work towards finding solutions. It is advisable to have clear quantifiable goals. That is where consultants come in place. Once you have the plan ready you can move to prototype stage followed by the actual solution implementation.  
+Let us consider a case, the race to the cloud has left many a system scattered in on-premises, hybrid, and cloud-based environments. Costing heavily on operation efficiencies and at times poses serious threats to data integrity. How to take informed decisions with multiple selections from a set of alternatives while taking account of relevant constraints, preferences, and uncertainties? 
+Approach to this can be: 
+Define the problem at hand with a thorough assessment. System review and identifying data sources form part of this step.  
+Once we are aware of the problem at hand, we work towards enlisting solutions. In this case, Unifying data across organizations by connecting these disparate systems would be a smart way forward.  
+Next up is the implementation. Once solutions have been finalized, with a comprehensive set of frameworks, technical solution, and analytics we build portfolio decision making capability. 
+In the recently concluded Planisware Exchange22, i2e presented working solution to make decision making faster. If you are an existing Planisware customer or planning to invest in Planisware these solutions could be just the thing you need. 
+Real-time data exchange Planisware supports OData from version V6.2 onwards; however, you do need a separate license for it. In a survey independently conducted by i2e Consulting it was found that few users were aware of it. OData or SQL of the web as it is popularly known, allows organizations to extract Realtime Planisware data. This is useful to integrate Planisware with other systems or perform additional analysis of Planisware data. It is easy to use even for business users and requires no external application.  
+
+Planisware Data Extractor facilitates users to retrieve real-time data from applications, so one need not go to a report every time they need information. Everything happens in Excel, so it is easy to customize the charts, do additional calculations and combine data from other sources.  
+
+Automating portfolio reporting with RPA (Robotic Process Automation) to generate and distribute portfolio reports. The solution assists project teams to deliver actionable portfolio data to leaders efficiently. With just a few clicks, select the data you need to build your presentations or Gantt charts and get the report delivered to your email address. No need to waste time manually exporting data into slide decks and Gantt chart templates. 
+Explore possibilities in portfolio decision-making for clinical development. The good assessment exercise sets clear understanding of business pain points and expectations. This helps develop KPIs, data sets for reporting, and dashboards. Forecasting and demand planning for resources. Listed are a few portfolio decision dashboards. 
+
+
+
+
+
+
+
+
+
+
+
+Budgeting analysis by site and spending by vendor and CRO Operational KPI (key performance indicators) tracking of numerous studies.  Areas of under-utilization and over-utilization of resources Milestone tracking and predicting deviations from timeline Compliance with regulatory requirements for time reporting  Talent upskilling and management  
+To conclude, the right approach with proper planning is half the battle won. The ancient wisdom of haste makes waste stand valid even today. As Planisware integration partner, i2e Consulting helps organisations gain project visibility with unified view of portfolio. Slice and dice information to discover trends, practical solutions and prioritize demand. To learn more about our Planisware offerings visit our service page, or fill in the form below. Think PPM, think i2e Consulting.  
+References 
+Harnessing Dark Data - themedicinemaker.com/business-regulation/harnessing-dark-data  2020 Gartner portfolio decision making during disruption survey 
+
+
+Tags: Project Management, Project Management in Pharma Manufacturing, Project Portfolio Management Solution 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                                    
+
+
+
+
+
+
+
+
+Mastering Enterprise Project Portfolio Management: The Planisware Enterprise Advantage                                     
+
+
+
+
+
+
+
+
+Why Planisware Orchestra is a one-stop solution for SMEs in Project Portfolio Management?                                    
+
+
+
+
+
+
+
+
+Executive Dashboards for Pharmaceutical Companies                                    
+
+
+
+
+
+
+
+
+How Executive Dashboards Drive Strategic Decision Making in Pharma Portfolio Management                                    
+
+
+
+
+
+
+
+
+5 Pharma Resourcing Challenges and How Insights and Dashboards Can Solve Them.                                    
+
+
+
+
+
+
+
+
+Why You Should Use PPM (Project Portfolio Management) Software for Project Collaboration                                    
+
+
+
+
+
+
+
+
+Resource Management Made Easy with Microsoft Project Online                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

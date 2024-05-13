@@ -1,0 +1,524 @@
+
+
+
+
+
+
+
+
+
+Building Modern Workplaces with Microsoft 365
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Building Modern Workplaces with Microsoft 365                                
+
+September 10, 2020                                
+
+Modern workplace and its challenges 
+Flexible, collaborative, agile, remote are a few characteristics of the modern workplaces. We are all trying to fit into these new modern and the on-going pandemic has only changed gears and made us embrace it faster. However, modern workplaces do have their share of challenges too; security, productivity, collaboration, and in certain cases lack of control are common. Thankfully, today we have different enterprise collaborative tools which keep our concerns at bay. Today, we are going to discuss Microsoft 365 (previously Office 365) and how it is helping modern work place culture for over 258 Million users worldwide. 
+How enterprise Microsoft 365 helps resolve modern workplace challenges 
+Microsoft 365 is a cloud-based platform that comprises of various apps such as industry-leading apps. Security, Collaboration, Productivity, Analytics, Compliance. This platform has everything an enterprise would need to run a modern workforce. Through this section we will discuss how the apps in Microsoft 365 help deal with security, collaboration, and productivity in modern workplaces. The focus of this blog is to acquaint you with services and features you may consider while going for a Microsoft 365 subscription plan.  
+Security  
+Microsoft 365 offers best in class security options that can be categorized into Compliance, Identity and access management, Information Protection, Device and app management, and Threat Protection. Let us look into the apps in each of these categories. The availability of the app is subjected to your subscription plan.  
+Security Management: Security management help you build advanced analytics to gain visibility to your apps, and control how your data travels.  
+Microsoft Secure Score is  a measurement of an organization’s security posture refers to the  overall security status of your software and hardware assets, networks,  services, and information.  Microsoft Security and Compliance Center is  designed to help you manage compliance features across Microsoft 365  for your organization. Currently, these features are also available with  Exchange Admin Center (EAC); however, it is likely to change in the future with addition of service independent features.  
+Identity and access management: Whether you are working remotely or on-site, you can secure connections between people, apps, and your data with a comprehensive identity solutions.  
+Azure Active Directory (Azure AD) enterprise identity service provides single sign-on and multi-factor authentication to help protect your users from 99.9 percent of cybersecurity attacks. Windows Hello is a secure way to get instant access to your Windows 10 devices using fingerprint, facial recognition, or a secure PIN  Direct Access allows connectivity for remote users to organization network resources without the need for a traditional Virtual Private Network (VPN). This helps client remote client computers are always connected to your organization and thus, always managed. 
+Information Protection: Microsoft 365 offers a holistic information protection solution to gain visibility, control and most importantly, protect your data everywhere.  
+Azure Information Protection helps control and secure email, documents, and sensitive data for collaboration outside your organization. Classify your data based on sensitivity, collaborate securely with features such as view and edit files, but not print or forward.  Cloud App Security gives deep visibility, strong data controls, and threat protection to your cloud apps. With this service, you can gain visibility into Shadow IT (tools which are used by teams, within an organization but are not installed or supported by the central IT department) by discovering cloud apps in use. In addition to Cloud App Security, you also have Office  365 Cloud App Security is a subset of Microsoft Cloud App Security that includes threat detection based on user activity logs. 
+Device and app management: Microsoft 365 enables users to productive wherever they on any device without compromising corporate information. Best in class security solutions anytime anywhere.  
+Microsoft 365 Admin Center is for managing business in the cloud. It is one stop destination to manage your users, add or remove them, change licenses, or reset password and so on.  Microsoft Intune app lets users to work in their choice of device while protecting your data. It provides for mobile device and operating system management with Unified Endpoint Management of both corporate and BYOD (Bring your Own Device) devices in a way that protects corporate data. It simplifies modern workplace management and transforms IT service delivery. 
+Threat Protection: Detect and investigate threats, compromised identities, and suspicious actions in advance with adaptive built-in intelligence. Protect your on-premise and cloud environments with Microsoft 365 threat protection. 
+Advanced threat Analytics: ATA  takes information from multiple data-sources, such as logs and events in your network, to learn the behavior of users and other entities in the organization and builds a behavioral profile about them. Office 365 Advanced Threat Protection offers comprehensive protection by using trillions of signals from the Microsoft Intelligent Security Graph and analyzing billions of emails daily. Protect your organization against phishing and zero-day malware and automatically investigate and remediate attacks. Advanced automated response options, including tools such as security playbooks and investigation graphs, help investigate and remediate attacks faster and save time, budget, and resources. Azure Advanced Threat Protection is a powerful tool that uses intelligence to help you get cloud powered insights. The security operations team can protect on-premise finds and correlate signals with Microsoft 365 using Azure Advanced Threat Protection (ATP). 
+Advanced Compliance: Microsoft 365 enterprise subscriptions offer simplified tools to assess compliance risks, govern and protect sensitive data, and respond to regulatory requirements across devices, apps, and clouds. The  Microsoft 365 E5 Compliance suite is available only to customers currently licensed for Microsoft 365 E3 or for both Office 365 E3 and  Enterprise Mobility + Security E3. You may check the subscription plan on the Microsoft 365 website or contact us to learn about it.  
+Collaboration: Microsoft 365 offers modern ways of working together. No matter where you are working from you have the tools. You can collaborate in real-time with peer or your entire team. One Drive, SharePoint which are great for sharing files, folders, and documents. 
+Microsoft Teams facilitates, chat, meet, call, and collaborate all in one place. You can collaborate in real-time on documents, presentations, BI (Business Intelligence) analytics and more on Teams. You can integrate Planner, Tasks, and several other apps to your Microsoft Teams. It is marketed as the hub for teamwork and very rightly so. Did you know, the number of daily active users of Microsoft Teams have more than doubled in recent months, increasing from 32 million users (about twice the population of New York) in March 12, 2019 to 75 million as of April 30, 2020.  
+Microsoft Steam lets you share video content such as training videos, team meeting recordings easily across apps you use. Video collaboration creates compelling communication. Increase engagement and knowledge retention, contribute with peer-to-peer information sharing.  
+Productivity: The world’s productivity cloud- Microsoft 365 offer several of apps to let you stay productive on personal, team and organizational level. Of course, you get email and calendar, that goes without saying, however with Microsoft 365 you get a lot more to manage your time efficiently with security.  
+Power Automate helps you build workflows to automate manual and repetitive tasks. These workflows can be from individual tasks to large-scale systems. Build a seamless eco-system for all your business processes.  Planner helps you organize teamwork with intuitive, collaborative, visual task management. Everyone in a team, no matter their roles can better manage their tasks with Planner.  
+Microsoft List app is the simple, smart, flexible way to track information and organize work. List can be easily created and shared across any device. Track issues, assets, routines, contacts, inventory and more using customizable views and smart rules and alerts to keep everyone in sync. Microsoft Sway is the easiest way to create engaging newsletter, presentations, and communications. It is easy to use drag and drop features lets you use create content with a few clicks. Captivate your audiences with Sway and collaborate with a simple link. Please note, Sway may not be available in certain geographies currently.  
+Wrapping it up, Microsoft 365 helps you stay connected and get things done on the go with enterprise security. In the modern workplace, security is paramount and so we have tried to be as informative about it. There are a few additional apps you may want to explore for productivity; however, the once we have mentioned should be enough to achieve your goals. Microsoft 36 comes with different subscription plans for home, business, and enterprise. Contact us if you need more clarity while going for a subscription, we would be happy to help.  
+ References 
+Link 1
+Link 2
+Link 3
+
+
+
+Tags: Microsoft 365, Microsoft Teams 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+SharePoint and Teams in Modern Workplace Collaboration                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Top 4 cloud migration benefits and infrastructure services                                    
+
+
+
+
+
+
+
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model                                    
+
+
+
+
+
+
+
+
+Latest trends in Microsoft Teams administration                                    
+
+
+
+
+
+
+
+
+Microsoft Project for the Web is here!                                    
+
+
+
+
+
+
+
+
+How to collaborate better with Microsoft Teams and SharePoint?                                    
+
+
+
+
+
+
+
+
+Must-haves in Document Management System for Pharmaceutical companies                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

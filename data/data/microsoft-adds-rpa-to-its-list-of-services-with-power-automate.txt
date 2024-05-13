@@ -1,0 +1,507 @@
+
+
+
+
+
+
+
+
+
+Microsoft adds RPA to its list of services with Power Automate - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Microsoft adds RPA to its list of services with Power Automate - i2e Consulting                                
+
+January 19, 2020                                
+
+Microsoft is heavily invested in empowering the average business users and is pushing for anyone can develop. In this context, Power  Platform, first introduced in 2018 shows tremendous promise especially with the newly revamped Power Automate (previously Microsoft Flow) and  Power Agents. The latest edition of Microsoft Ignite declared that the company will be a provider for RPA. This feature is now in public preview is surely path-breaking. Read on to find out why.  
+James Phillips, corporate vice president of business applications at Microsoft writes, 
+“One of the biggest challenges organizations face is scaling and automating business processes—from digitizing pen and paper processes to automating complex processes that span legacy and modern applications.  Robotic process automation has rapidly become a key technology to  address many of these scenarios but generally requires a patchwork of  automation services that need integration and management before the real  work can get done.” 
+For those not aware, Robotic Process  Automation (RPA) is the technology that enables us to configure computer software, or a ‘robot’ to emulate and integrate the actions of a  human interacting within digital systems to execute a business process.  For RPA to work as pointed out by James Phillips, we need automation services and connectors to other services. This is where Power  Automation plays a crucial role and stands out among the existing RPA.  
+The newly added RPA capability is called UI flows. It is a simple point and click, low code experience that can record and playback human interactions with software systems and turn them into automated workflows for repetitive mundane tasks. UI flows combined with the capabilities of Power Automate connectors provide an end-to-end automation platform. Power Automate has roughly 275+ connectors to widely used apps and services that support API automation. In the past,  the only way to connect API to a legacy system is to ask your developer team to do it for you. But now, with Power Automate Microsoft is expanding horizons for things that can be automated.  
+To further elaborate on this and make things simple Microsoft offers an example of an insurance claims processing company. 
+For example, let’s say you work for an insurance claims processing company,  where clients fill out digital forms, paper forms, or communicate through email. The claim is processed on modern cloud services while staff also maintain cumbersome paper records and legacy applications.  With Power Automate, this entire process can be automated.  Digitized data from scanned paper forms are processed with AI that recognizes forms, and old legacy systems can be automated with RPA—one platform that brings both worlds together seamlessly.  
+The evolution of Microsoft Flows into power automate to align more with the  Power platform along with the RPA feature was expected if not this soon.  This together with the Power Virtual agent and new security updates for  Power BI only makes the platform stronger.  
+Power Platform is the combined strength of four major services namely Power BI, Power  Apps, Power Automate and Power Virtual Agent. Microsoft claims that with power platform you can analyze data, build solutions, automate processes, and create virtual agents. These no-code/low code services are sure of keeping productivity soaring together with the ROI.  
+Resources:
+https://cloudblogs.microsoft.com/dynamics365/bdm/2019/11/04/announcing-rpa-enhanced-security-no-code-virtual-agents-and-more-for-microsoft-power-platform/
+
+
+
+Tags: Power automate, power automate services, Robotic Process Automation, RPA 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Benefits of Embedded Analytics for the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Pandemic Lessons: Why Healthcare Industry Should Engage Managed IT Services Provider.                                    
+
+
+
+
+
+
+
+
+5 Practical Examples of How Power Automate (MS Flow) Can Help the Health Care Industry                                    
+
+
+
+
+
+
+
+
+Analytics for Resourcing Decision Making.                                    
+
+
+
+
+
+
+
+
+RPA Strategy and Approach                                    
+
+
+
+
+
+
+
+
+RPA is the Future of Clinical Trials                                    
+
+
+
+
+
+
+
+
+Make Supply Chains Smarter with Robotic Process Automation                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7296 @@
+
+
+
+
+
+
+Cloudflare Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+Log in
+Sign up
+
+
+
+
+Cloudflare System Status
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          x
+        
+
+
+
+            Visit our support site.
+          
+
+            Get the Atom Feed or RSS Feed.
+          
+
+
+
+
+
+
+
+
+
+Billing Errors - managing payment methods, subscriptions, paying invoices & inaccurate unpaid balances
+
+
+
+Update - Missing invoices are in the process of being restored for viewing/downloading via the dashboard.Root cause for customers having difficulties with updating their payment method has been identified and a fix is in progress.Investigation is ongoing for customers that are having difficulties managing/canceling their subscriptions.If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+May 01, 2024 - 12:52 UTC
+
+
+Monitoring - A fix has been implemented and we are monitoring the results.
+
+Apr 29, 2024 - 11:08 UTC
+
+
+Update - Remediation for customers with missing invoices is ongoing.  We anticipate it to complete by the end of day Monday, April 29.If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 26, 2024 - 23:06 UTC
+
+
+Update - Remediation for customers with missing invoices is in progress.  We anticipate it to complete by the end of day Friday, April 26.If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 25, 2024 - 23:29 UTC
+
+
+Update - The team has removed the maintenance hold on all accounts.Work to address difficulties paying off old balances has been completed.Our work to resolve missing invoices for some customers is continuing and expected to be resolved by early next week.  Customers that were seeing unknown charges on invoices or have been incorrectly downgraded will have credits applied on their accounts in the next few days and will be notified via email when it is completed.If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 19, 2024 - 15:43 UTC
+
+
+Update - The team has removed the maintenance hold on all accounts. Work to address difficulties paying off old balances has also now been completed. Our work to find long term solutions for cases where customers are missing invoices, seeing unknown charges on invoices or have been incorrectly downgraded plans is continuing. If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 12, 2024 - 07:47 UTC
+
+
+Update - The team is currently removing maintenance hold on all accounts. Separately, our work to find long term solutions for customers who are experiencing difficulties paying off old balances, seeing unknown charges on invoices or have been incorrectly downgraded plans are in progress. If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 10, 2024 - 01:19 UTC
+
+
+Update - The team is currently removing maintenance holds on all accounts. Separately, our work to find long term solutions for customers who are experiencing difficulties seeing unknown charges on invoices or have had incorrectly downgraded plans are in progress. If you require URGENT assistance, please raise a Support ticket or amend your existing ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 09, 2024 - 16:08 UTC
+
+
+Update - We have identified separate root causes for some of the issues. The team are now 80% through clearing the list of accounts blocked under maintenance hold. Accounts released from maintenance hold will return to having full billing and upgrading/downgrading functionality.We are working, in parallel, to a solution for customers who are experiencing issues such as being incorrectly labeled as banned or bad debt, have missing or inaccurate invoices or have been incorrectly downgraded plans. As we complete this work, impacted customers may continue to be unable to make changes to their billing account profile, including updating payment methods, billing addresses, or adding/upgrading/downgrading subscription plans. Additionally, they may face challenges in paying invoices and may see erroneous warnings about unpaid invoices. No other functionality of the Cloudflare platform is impacted, and our team is working on resolving this as soon as possible.If you require URGENT assistance, please raise a Support ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 05, 2024 - 16:04 UTC
+
+
+Update - The team are now working through each impacted account and removing any holds or blocks.As we complete this work, impacted customers may continue to be unable to make changes to their billing account profile, including updating payment methods, billing addresses, or adding/upgrading/downgrading subscription plans. Additionally, they may face challenges in paying invoices and may see erroneous warnings about unpaid invoices. No other functionality of the Cloudflare platform is impacted and our team is working on resolving this as soon as possible.If you require URGENT assistance, please raise a Support ticket via the Cloudflare Dashboard, and we can help look into your account specific details.
+
+Apr 03, 2024 - 16:31 UTC
+
+
+Identified - The issue with the billing system has been identified, and our billing team is working on a permanent resolution.Impacted customers may temporarily be unable to make changes to their billing account profile, including updating payment methods, billing addresses, or adding/upgrading/downgrading subscription plans. Additionally, they may face challenges in paying invoices and may see erroneous warnings about unpaid invoices. No other functionality of the Cloudflare platform is impacted, and our team is working on resolving this as soon as possible.If you are impacted by this, we can help. Please raise a Support ticket via the Cloudflare Dashboard if you require urgent assistance with any billing or subscription related matter.
+
+Mar 28, 2024 - 21:15 UTC
+
+
+Update - We are continuing to investigate this issue.
+
+Mar 28, 2024 - 15:53 UTC
+
+
+Update - We are continuing to investigate this issue.
+
+Mar 27, 2024 - 19:35 UTC
+
+
+Update - We are continuing to investigate this issue.
+
+Mar 25, 2024 - 00:02 UTC
+
+
+Update - We are continuing to investigate this issue.
+
+Mar 24, 2024 - 08:07 UTC
+
+
+Update - We are continuing to investigate this issue.
+
+Mar 23, 2024 - 15:34 UTC
+
+
+Update - We are continuing to investigate this issue.
+
+Mar 23, 2024 - 04:25 UTC
+
+
+Update - Work continues on-track towards a resolution
+
+Mar 21, 2024 - 08:05 UTC
+
+
+Investigating - Some customers may not be able to make changes to their billing account profile, including updating payment methods, billing addresses, or adding/upgrading/downgrading subscription plans. Additionally, they may face challenges in paying invoices, and may see erroneous warnings about unpaid invoices. These customer accounts may also be downgraded temporarily, unable to add new sites, and unable to purchase/transfer/renew domains.No action is required for customers facing these issues for the time beingAn automated clean-up process will take place to correct any incorrect categorisation.
+
+Mar 21, 2024 - 00:46 UTC
+
+
+
+
+
+
+
+×
+ Subscribe to Incident 
+
+
+
+          Subscribe to updates for Billing Errors - managing payment methods, subscriptions, paying invoices & inaccurate unpaid balances via email and/or text message. You'll receive email notifications when incidents are updated, and text message notifications whenever Cloudflare creates or resolves an incident.
+        
+
+VIA EMAIL:
+
+
+
+
+
+VIA SMS:
+
+
+
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1)
+Antigua and Barbuda (+1)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Australia/Cocos/Christmas Island (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1)
+Bolivia (+591)
+Bosnia and Herzegovina (+387)
+Botswana (+267)
+Brazil (+55)
+Brunei (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+Canada (+1)
+Cape Verde (+238)
+Cayman Islands (+1)
+Central Africa (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo (+242)
+Congo, Dem Rep (+243)
+Costa Rica (+506)
+Croatia (+385)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1)
+Dominican Republic (+1)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Estonia (+372)
+Ethiopia (+251)
+Faroe Islands (+298)
+Fiji (+679)
+Finland/Aland Islands (+358)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1)
+Guadeloupe (+590)
+Guam (+1)
+Guatemala (+502)
+Guinea (+224)
+Guyana (+592)
+Haiti (+509)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iraq (+964)
+Ireland (+353)
+Israel (+972)
+Italy (+39)
+Jamaica (+1)
+Japan (+81)
+Jordan (+962)
+Kenya (+254)
+Korea, Republic of (+82)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Laos (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Mexico (+52)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1)
+Morocco/Western Sahara (+212)
+Mozambique (+258)
+Namibia (+264)
+Nepal (+977)
+Netherlands (+31)
+New Zealand (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Norway (+47)
+Oman (+968)
+Pakistan (+92)
+Palestinian Territory (+970)
+Panama (+507)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1)
+Qatar (+974)
+Reunion/Mayotte (+262)
+Romania (+40)
+Russia/Kazakhstan (+7)
+Rwanda (+250)
+Samoa (+685)
+San Marino (+378)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (+421)
+Slovenia (+386)
+South Africa (+27)
+Spain (+34)
+Sri Lanka (+94)
+St Kitts and Nevis (+1)
+St Lucia (+1)
+St Vincent Grenadines (+1)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania (+255)
+Thailand (+66)
+Togo (+228)
+Tonga (+676)
+Trinidad and Tobago (+1)
+Tunisia (+216)
+Turkey (+90)
+Turks and Caicos Islands (+1)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+United States (+1)
+Uruguay (+598)
+Uzbekistan (+998)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands, British (+1)
+Virgin Islands, U.S. (+1)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+
+
+
+Enter mobile number
+
+
+
+
+
+                  Edit number
+ 
+                  Send OTP
+ 
+
+
+
+Enter the OTP sent
+
+
+
+                  Resend OTP
+  in 30 seconds
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To receive SMS updates, please verify your number. To proceed with just email click ‘Subscribe’ 
+
+
+
+
+
+
+Subscribe to Incident
+
+
+Message and data rates may apply. By subscribing you agree to our Privacy Policy, the Atlassian Terms of Service, and the Atlassian Privacy Policy. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+ 
+
+
+
+
+About This Site
+
+
+            Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management. Status information is also available through Cloudflare Status API here: https://www.cloudflarestatus.com/api.
+          
+
+
+
+
+
+
+
+
+         Cloudflare Sites and Services
+       
+
+?
+
+
+    Degraded Performance
+
+  
+
+
+
+
+
+
+      Abuse Reports
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Access
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Always Online
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Analytics
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      API
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      API Shield
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Apps Marketplace
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Argo Smart Routing
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Audit Logs
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Authoritative DNS
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Billing
+   
+?
+
+
+    Degraded Performance
+
+  
+
+
+
+
+      Blog
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bring Your Own IP (BYOIP)
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Browser Isolation
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bot Management
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Cache Reserve
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Calls
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      CDN/Cache
+   
+
+
+    Operational
+
+  
+
+
+
+
+      CDN Cache Purge
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Challenge Platform
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Cloud Access Security Broker (CASB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Cloudforce One Reports
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Community Site
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Custom Pages
+   
+?
+
+
+    Degraded Performance
+
+  
+
+
+
+
+      D1
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Data Localization Suite
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Data Loss Prevention (DLP)
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Dashboard
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Developer's Site
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Digital Experience Monitoring (DEX)
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Distributed Web Gateway
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      DNS Root Servers
+   
+
+
+    Operational
+
+  
+
+
+
+
+      DNS Updates
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Durable Objects
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Email Routing
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Ethereum Gateway
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Firewall
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Gateway
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Geo-Key Manager
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Health Checks
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Hyperdrive
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Image Resizing
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Images
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Infrastructure
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Load Balancing and Monitoring
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Lists
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Logs
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Magic Firewall
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Magic Transit
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Magic WAN
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Magic WAN Connector
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Marketing Site
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Mirage
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Network
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Notifications
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Observatory
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Page Shield
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Pages
+   
+
+
+    Operational
+
+  
+
+
+
+
+      R2
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Radar
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Randomness Beacon
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Recursive DNS
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Registrar
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Registration Data Access Protocol (RDAP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Rules
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Secondary DNS
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Security Center
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Snippets
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Spectrum
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Speed Optimizations
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Stream
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      SSL Certificate Provisioning
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      SSL for SaaS Provisioning
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Subscriptions
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Support Site
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Time Services
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Trace
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Tunnel
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Turnstile
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      User Profiles
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Waiting Room
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      WARP
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Web Analytics
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Workers
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Workers AI
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Workers Preview
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Workers KV
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Zaraz
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Zero Trust
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Zero Trust Dashboard
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+      Zone Versioning
+   
+?
+
+
+    Operational
+
+  
+
+
+
+
+
+
+
+
+
+         Africa
+       
+
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+      Accra, Ghana - (ACC)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Algiers, Algeria - (ALG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Annaba, Algeria - (AAE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Antananarivo, Madagascar - (TNR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Cape Town, South Africa - (CPT)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Casablanca, Morocco - (CMN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dakar, Senegal - (DKR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dar Es Salaam, Tanzania - (DAR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Djibouti City, Djibouti - (JIB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Durban, South Africa - (DUR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Gaborone, Botswana - (GBE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Harare, Zimbabwe - (HRE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Johannesburg, South Africa - (JNB)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Kigali, Rwanda - (KGL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Lagos, Nigeria - (LOS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Luanda, Angola - (LAD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Maputo, Mozambique - (MPM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Mombasa, Kenya - (MBA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Nairobi, Kenya - (NBO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Oran, Algeria - (ORN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Ouagadougou, Burkina Faso   - (OUA)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Port Louis, Mauritius - (MRU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Réunion, France - (RUN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tunis, Tunisia - (TUN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kinshasa, DR Congo - (FIH)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Cairo, Egypt - (CAI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+
+
+
+
+
+         Asia
+       
+
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+      Ahmedabad, India - (AMD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Almaty, Kazakhstan - (ALA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bangalore, India - (BLR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bangkok, Thailand - (BKK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bandar Seri Begawan, Brunei - (BWN)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Bhubaneswar, India - (BBI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Cebu, Philippines - (CEB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chandigarh, India - (IXC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Changde, China - (CGD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chennai, India - (MAA)
+   
+
+
+    Under Maintenance
+
+  
+
+
+
+
+      Chittagong, Bangladesh - (CGP)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Colombo, Sri Lanka - (CMB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dhaka, Bangladesh - (DAC)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Foshan, China - (FUO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Fukuoka, Japan - (FUK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Fuzhou, China - (FOC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Guangzhou, China - (CAN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Haikou, China - (HAK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Hanoi, Vietnam - (HAN)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Hengshui, China - (SJW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Ho Chi Minh City, Vietnam - (SGN)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Hong Kong - (HKG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Hyderabad, India - (HYD)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Islamabad, Pakistan - (ISB)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Jakarta, Indonesia - (CGK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Jashore, Bangladesh - (JSR)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Jinan, China - (TNA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Johor Bahru, Malaysia - (JHB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kanpur, India - (KNU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kaohsiung City, Taiwan - (KHH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Karachi, Pakistan - (KHI)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Kathmandu, Nepal - (KTM)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Kolkata, India - (CCU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Krasnoyarsk, Russia - (KJA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kuala Lumpur, Malaysia - (KUL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Lahore, Pakistan - (LHE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Langfang, China - (PKX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Lanzhou, China - (LHW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Macau - (MFM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Malé, Maldives - (MLE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Mandalay, Myanmar - (MDL)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Manila, Philippines - (MNL)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Mumbai, India - (BOM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Nagpur, India - (NAG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Naha, Japan  - (OKA)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      New Delhi, India - (DEL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Osaka, Japan - (KIX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Patna, India - (PAT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Phnom Penh, Cambodia - (PNH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Qingdao, China - (TAO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Seoul, South Korea - (ICN)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Shanghai, China - (SHA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Singapore, Singapore - (SIN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Surat Thani, Thailand - (URT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Taipei, Taiwan - (TPE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tashkent, Uzbekistan - (TAS)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Thimphu, Bhutan - (PBH)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Tianjin, China - (TSN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tokyo, Japan - (NRT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Ulaanbaatar, Mongolia - (ULN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Vientiane, Laos - (VTE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Xinyu, China - (KHN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Yangon, Myanmar - (RGN)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Yerevan, Armenia - (EVN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Yogyakarta, Indonesia - (JOG)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Zhongshan, China - (ZGN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Cagayan de Oro, Philippines - (CGY)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Wuhu, China - (WHU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Taizhou, China - (HYN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kochi, India - (COK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Denpasar, Indonesia - (DPS)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Kannur, India - (CNN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Shenzhen, China - (SZX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Guiyang, China - (KWE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Shaoxing, China - (HGH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Changzhou, China - (CZX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kunming, China - (KMG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chiang Mai, Thailand - (CNX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Zhengzhou, China - (CGO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Yangquan, China - (TYN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Changsha, China - (CSX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dalian, China - (DLC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Beihai, China - (BHY)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chongqing, China - (CKG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Huainan, China - (HFE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Xiangyang, China - (XFN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Xining, China - (XNN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Shiyan, China - (WDS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Da Nang, Vietnam - (DAD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+
+
+
+
+
+         Europe
+       
+
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+      Amsterdam, Netherlands - (AMS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Athens, Greece - (ATH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Barcelona, Spain - (BCN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Belgrade, Serbia - (BEG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Berlin, Germany - (TXL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bratislava, Slovakia   - (BTS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Brussels, Belgium - (BRU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bucharest, Romania - (OTP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Budapest, Hungary - (BUD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chișinău, Moldova - (KIV)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Copenhagen, Denmark - (CPH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Cork, Ireland -  (ORK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dublin, Ireland - (DUB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Düsseldorf, Germany - (DUS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Edinburgh, United Kingdom - (EDI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Frankfurt, Germany - (FRA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Geneva, Switzerland - (GVA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Gothenburg, Sweden - (GOT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Hamburg, Germany - (HAM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Helsinki, Finland - (HEL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Istanbul, Turkey - (IST)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Izmir, Turkey - (ADB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kyiv, Ukraine - (KBP)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Lisbon, Portugal - (LIS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      London, United Kingdom - (LHR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Luxembourg City, Luxembourg - (LUX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Madrid, Spain - (MAD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Manchester, United Kingdom - (MAN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Marseille, France - (MRS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Milan, Italy - (MXP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Minsk, Belarus - (MSQ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Moscow, Russia - (DME)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Munich, Germany - (MUC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Nicosia, Cyprus - (LCA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Oslo, Norway - (OSL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Palermo, Italy - (PMO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Paris, France - (CDG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Prague, Czech Republic - (PRG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Reykjavík, Iceland - (KEF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Riga, Latvia - (RIX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Rome, Italy - (FCO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Saint Petersburg, Russia - (LED)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Sofia, Bulgaria - (SOF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Stockholm, Sweden - (ARN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Stuttgart, Germany   - (STR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tallinn, Estonia - (TLL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tbilisi, Georgia - (TBS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Thessaloniki, Greece - (SKG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tirana, Albania - (TIA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tver, Russian Federation - (KLD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Vienna, Austria - (VIE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Vilnius, Lithuania - (VNO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Warsaw, Poland - (WAW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Yekaterinburg, Russia - (SVX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Zagreb, Croatia - (ZAG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Zürich, Switzerland - (ZRH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Lyon, France - (LYS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bordeaux, France - (BOD)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Skopje, North Macedonia - (SKP)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+
+
+
+         Latin America & the Caribbean
+       
+
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+      Americana, Brazil - (QWJ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Arica, Chile - (ARI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Asunción, Paraguay - (ASU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Belém, Brazil - (BEL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Belo Horizonte, Brazil - (CNF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Blumenau, Brazil - (BNU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bogotá, Colombia - (BOG)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Brasilia, Brazil - (BSB)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Buenos Aires, Argentina - (EZE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Caçador, Brazil - (CFC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Campinas, Brazil - (VCP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Córdoba, Argentina - (COR)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Cuiabá, Brazil - (CGB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Curitiba, Brazil - (CWB)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Florianopolis, Brazil - (FLN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Fortaleza, Brazil - (FOR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Georgetown, Guyana - (GEO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Goiânia, Brazil - (GYN)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Guatemala City, Guatemala - (GUA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Guayaquil, Ecuador - (GYE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Itajaí, Brazil - (ITJ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Joinville, Brazil - (JOI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Juazeiro do Norte, Brazil - (JDO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Lima, Peru - (LIM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Manaus, Brazil - (MAO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Medellín, Colombia - (MDE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Neuquén, Argentina - (NQN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Panama City, Panama - (PTY)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Paramaribo, Suriname - (PBM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Porto Alegre, Brazil - (POA)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Quito, Ecuador - (UIO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Recife, Brazil - (REC)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Ribeirao Preto, Brazil - (RAO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Rio de Janeiro, Brazil - (GIG)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Salvador, Brazil - (SSA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      San José, Costa Rica - (SJO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Santiago, Chile - (SCL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Santo Domingo, Dominican Republic - (SDQ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      São José do Rio Preto, Brazil - (SJP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      São José dos Campos, Brazil - (SJK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      São Paulo, Brazil - (GRU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Sorocaba, Brazil - (SOD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tegucigalpa, Honduras - (TGU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Timbó, Brazil - (NVT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Uberlândia, Brazil - (UDI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Vitoria, Brazil - (VIX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Campos dos Goytacazes, Brazil - (CAW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chapeco, Brazil - (XAP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bridgetown, Barbados - (BGI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      St. George's, Grenada - (GND)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Santiago de los Caballeros, Dominican Republic - (STI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      La Paz, Bolivia - (LPB)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      San Juan, Puerto Rico - (SJU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Barranquilla, Colombia - (BAQ)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Palmas, Brazil - (PMW)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+
+
+
+         Middle East
+       
+
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+      Amman, Jordan - (AMM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Astara, Azerbaijan - (LLK)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Baghdad, Iraq - (BGW)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Baku, Azerbaijan - (GYD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Basra, Iraq - (BSR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Beirut, Lebanon - (BEY)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dammam, Saudi Arabia - (DMM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Doha, Qatar - (DOH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dubai, United Arab Emirates - (DXB)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Erbil, Iraq - (EBL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Haifa, Israel - (HFA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Jeddah, Saudi Arabia - (JED)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kuwait City, Kuwait - (KWI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Manama, Bahrain - (BAH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Muscat, Oman - (MCT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Najaf, Iraq - (NJF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Nasiriyah, Iraq - (XNH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Ramallah - (ZDM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Riyadh, Saudi Arabia - (RUH)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Sulaymaniyah, Iraq - (ISU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tel Aviv, Israel - (TLV)
+   
+
+
+    Operational
+
+  
+
+
+
+
+
+
+
+
+
+         North America
+       
+
+
+
+    Partial Outage
+
+  
+
+
+
+
+
+
+      Ashburn, VA, United States - (IAD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Atlanta, GA, United States - (ATL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Boston, MA, United States - (BOS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Buffalo, NY, United States - (BUF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Calgary, AB, Canada - (YYC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Charlotte, NC, United States - (CLT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Chicago, IL, United States - (ORD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Columbus, OH, United States - (CMH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Dallas, TX, United States - (DFW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Denver, CO, United States - (DEN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Detroit, MI, United States - (DTW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Honolulu, HI, United States - (HNL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Houston, TX, United States - (IAH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Indianapolis, IN, United States - (IND)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Jacksonville, FL, United States - (JAX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kansas City, MO, United States - (MCI)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Las Vegas, NV, United States - (LAS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Los Angeles, CA, United States - (LAX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      McAllen, TX, United States - (MFE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Memphis, TN, United States - (MEM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Mexico City, Mexico - (MEX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Miami, FL, United States - (MIA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Minneapolis, MN, United States - (MSP)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Montgomery, AL, United States - (MGM)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Montréal, QC, Canada - (YUL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Nashville, United States - (BNA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Newark, NJ, United States - (EWR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Norfolk, VA, United States - (ORF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Omaha, NE, United States - (OMA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Ottawa, Canada - (YOW)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Philadelphia, United States - (PHL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Phoenix, AZ, United States - (PHX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Pittsburgh, PA, United States - (PIT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Portland, OR, United States - (PDX)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Queretaro, MX, Mexico - (QRO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Richmond, VA, United States - (RIC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Sacramento, CA, United States - (SMF)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Salt Lake City, UT, United States - (SLC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      San Diego, CA, United States - (SAN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      San Jose, CA, United States - (SJC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Saskatoon, SK, Canada - (YXE)
+   
+
+
+    Partial Outage
+
+  
+
+
+
+
+      Seattle, WA, United States - (SEA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Sioux Falls, South Dakota - (FSD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      St. Louis, MO, United States - (STL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tallahassee, FL, United States - (TLH)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Toronto, ON, Canada - (YYZ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Vancouver, BC, Canada - (YVR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Winnipeg, MB, Canada - (YWG)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      San Francisco, United States - (SFO)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Kingston, Jamaica - (KIN)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Bangor, United States - (BGR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Austin, United States - (AUS)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Albuquerque, United States - (ABQ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Guadalajara, Mexico - (GDL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      San Antonio, United States - (SAT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Cleveland, United States - (CLE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Durham, United States - (RDU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Oklahoma City, United States - (OKC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tampa, United States - (TPA)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Anchorage, United States - (ANC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Halifax, Canada - (YHZ)
+   
+
+
+    Operational
+
+  
+
+
+
+
+
+
+
+
+
+         Oceania
+       
+
+
+
+    Operational
+
+  
+
+
+
+
+
+
+      Adelaide, SA, Australia - (ADL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Auckland, New Zealand - (AKL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Brisbane, QLD, Australia - (BNE)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Canberra, ACT, Australia - (CBR)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Christchurch, New Zealand - (CHC)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Hagatna, Guam - (GUM)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Melbourne, VIC, Australia - (MEL)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Noumea, New Caledonia - (NOU)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Perth, WA, Australia - (PER)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Sydney, NSW, Australia - (SYD)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Tahiti, French Polynesia - (PPT)
+   
+
+
+    Operational
+
+  
+
+
+
+
+      Suva, Fiji - (SUV)
+   
+
+
+    Operational
+
+  
+
+
+
+
+
+
+
+
+    Operational
+  
+
+
+    Degraded Performance
+  
+
+
+    Partial Outage
+  
+
+
+
+    Major Outage
+  
+
+
+    Maintenance
+  
+
+
+
+Scheduled Maintenance
+
+
+
+GIG (Rio de Janeiro) on 2024-05-09
+
+
+                  May  9, 2024 08:00-12:00 UTC
+                
+
+
+
+We will be performing scheduled maintenance in GIG (Rio de Janeiro) datacenter on 2024-05-09 between 08:00 and 12:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+Posted on
+May 08, 2024 - 16:36 UTC
+                    
+
+
+
+
+
+
+LIM (Lima) on 2024-05-09
+
+
+                  May  9, 2024 13:00 - May 10, 2024 00:00 UTC
+                
+
+
+
+We will be performing scheduled maintenance in LIM (Lima) datacenter between 2024-05-09 13:00 and 2024-05-10 00:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+Posted on
+May 08, 2024 - 21:58 UTC
+                    
+
+
+
+
+
+
+MSP (Minneapolis) on 2024-05-09
+
+
+                  May  9, 2024 15:00-22:00 UTC
+                
+
+
+
+We will be performing scheduled maintenance in MSP (Minneapolis) datacenter on 2024-05-09 between 15:00 and 22:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+Posted on
+May 08, 2024 - 21:36 UTC
+                    
+
+
+
+
+
+
+CPT (Cape Town) on 2024-05-09
+
+
+                  May  9, 2024 23:00 - May 10, 2024 05:00 UTC
+                
+
+
+
+We will be performing scheduled maintenance in CPT (Cape Town) datacenter between 2024-05-09 23:00 and 2024-05-10 05:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+Posted on
+May 08, 2024 - 23:06 UTC
+                    
+
+
+
+
+
+
+CPH (Copenhagen) on 2024-05-09
+
+
+                  May  9, 2024 23:00 - May 10, 2024 06:00 UTC
+                
+
+
+
+We will be performing scheduled maintenance in CPH (Copenhagen) datacenter between 2024-05-09 23:00 and 2024-05-10 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+Posted on
+May 07, 2024 - 10:24 UTC
+                    
+
+
+
+
+
+
+WAW (Warsaw) on 2024-05-10
+
+
+                  May 10, 2024 00:00-06:00 UTC
+                
+
+
+
+We will be performing scheduled maintenance in WAW (Warsaw) datacenter on 2024-05-10 between 00:00 and 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+Posted on
+May 03, 2024 - 07:32 UTC
+                    
+
+
+
+
+
+Past Incidents
+
+May  9, 2024
+
+
+MEX (Mexico City) on 2024-05-08
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  9, 00:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  8, 16:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in MEX (Mexico City) datacenter between 2024-05-08 16:00 and 2024-05-09 00:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  7, 15:58 UTC
+        
+
+
+
+
+
+May  8, 2024
+
+
+Issues with IPSec tunnels in Magic WAN
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  8, 22:48 UTC
+        
+
+
+Monitoring -
+      	We've addressed the issue and customers should no longer see any impact. We'll continue to monitor our dashboards to see if anything pops up.
+
+
+            May  8, 21:16 UTC
+        
+
+
+Identified -
+      	Cloudflare has identified issues related to IPSec tunnels in Magic WAN products. Some Magic WAN IPsec tunnels may be impacted, restarting the tunnel will resolve the issue
+
+
+            May  8, 20:44 UTC
+        
+
+
+
+
+
+Cloudflare Pages deployment failures
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  8, 16:17 UTC
+        
+
+
+Update -
+      	We are continuing to investigate this issue.
+
+
+            May  8, 15:06 UTC
+        
+
+
+Update -
+      	We are continuing to investigate this issue.
+
+
+            May  8, 15:06 UTC
+        
+
+
+Investigating -
+      	Cloudflare is aware of and investigating an issue with Cloudflare Pages deployment failures which potentially impacts multiple customers. Further detail will be provided as more information becomes available.
+
+
+            May  8, 15:02 UTC
+        
+
+
+
+
+
+Cloudflare API services temporary availability issues
+
+
+
+
+
+Resolved -
+      	Between 16:18 UTC and 16:38 UTC several Cloudflare API services experienced temporary availability issues. The issue has now been resolved.
+
+
+            May  8, 16:00 UTC
+        
+
+
+
+
+
+AUS (Austin) on 2024-05-08
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  8, 12:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  8, 10:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in AUS (Austin) datacenter on 2024-05-08 between 10:00 and 12:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  7, 09:28 UTC
+        
+
+
+
+
+
+Durable Objects and R2 elevated error rates in APAC Region
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  8, 04:03 UTC
+        
+
+
+Monitoring -
+      	The error rate is decreasing, and we're actively monitoring the situation
+
+
+            May  8, 03:31 UTC
+        
+
+
+Investigating -
+      	We are investigating elevated error rates for Durable Objects and R2 buckets in the Asia-Pacific region. We are working to analyze and mitigate this problem. More updates will follow shortly.
+
+
+            May  8, 03:16 UTC
+        
+
+
+
+
+
+SOF (Sofia) on 2024-05-07
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  8, 03:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  7, 23:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in SOF (Sofia) datacenter between 2024-05-07 23:00 and 2024-05-08 03:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+Performance degradation for some traffic served by Cloudflare network
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  8, 00:03 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            May  7, 23:56 UTC
+        
+
+
+Identified -
+      	Cloudflare is rolling out a fix to address an issue that was causing performance degradation which potentially impacts some traffic.We will update the status once we implement the fix.
+
+
+            May  7, 23:18 UTC
+        
+
+
+
+
+
+May  7, 2024
+
+
+SCL (Santiago) on 2024-05-07
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  7, 22:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  7, 13:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2024-05-07 between 13:00 and 22:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  3, 21:34 UTC
+        
+
+
+
+
+
+LIM (Lima) on 2024-05-07
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  7, 22:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  7, 13:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in LIM (Lima) datacenter on 2024-05-07 between 13:00 and 22:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  6, 22:32 UTC
+        
+
+
+
+
+
+WARP client for Windows and MacOS requires login
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  7, 15:52 UTC
+        
+
+
+Investigating -
+      	Downloading the WARP client for Windows and MacOS currently requires an account to download from Microsoft App Center. An account should not be required. This is currently under investigation.While we work to resolve this issue, downloads of the latest release for Windows and macOS continue to be available from https://one.one.one.one
+
+
+            May  7, 13:50 UTC
+        
+
+
+
+
+
+ZRH (Zurich) on 2024-05-07
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  7, 06:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  7, 00:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in ZRH (Zurich) datacenter on 2024-05-07 between 00:00 and 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  2, 17:00 UTC
+        
+
+
+
+
+
+WAW (Warsaw) on 2024-05-06
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  7, 06:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  6, 22:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in WAW (Warsaw) datacenter between 2024-05-06 22:00 and 2024-05-07 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+May  6, 2024
+
+
+LIM (Lima) on 2024-05-06
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  6, 23:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  6, 13:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in LIM (Lima) datacenter on 2024-05-06 between 13:00 and 23:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  3, 21:30 UTC
+        
+
+
+
+
+
+Cache Purging Delays
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  6, 22:10 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            May  6, 20:39 UTC
+        
+
+
+Investigating -
+      	Cloudflare single-file cache purging (purge by URL) called via the Dashboard/API is running up to 20 minutes behind. This also affects the "Always Online" feature.We are working to resolve this issue as soon as possible. Until then you may use the Purge Everything feature but do be aware it may cause a surge in traffic to your origin server(s). More updates to follow.
+
+
+            May  6, 20:14 UTC
+        
+
+
+
+
+
+SCL (Santiago) on 2024-05-06
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  6, 22:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  6, 13:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2024-05-06 between 13:00 and 22:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacenter may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  3, 21:34 UTC
+        
+
+
+
+
+
+May  5, 2024
+No incidents reported.
+
+
+May  4, 2024
+No incidents reported.
+
+
+May  3, 2024
+
+
+Cloudflare Images degraded availability
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  3, 16:04 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            May  3, 15:49 UTC
+        
+
+
+Investigating -
+      	Cloudflare is investigating availability issues with Images that may impact some customers.We are working to understand the full impact and mitigate this problem. More updates to follow shortly.
+
+
+            May  3, 15:19 UTC
+        
+
+
+
+
+
+LAS (Las Vegas) on 2024-05-03
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  3, 12:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  3, 09:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in LAS (Las Vegas) datacenter on 2024-05-03 between 09:00 and 12:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  2, 21:48 UTC
+        
+
+
+
+
+
+CGK (Jakarta) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  3, 10:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 19:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in CGK (Jakarta) datacenter between 2024-05-02 19:00 and 2024-05-03 10:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+FRA (Frankfurt) on 2024-05-03
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  3, 03:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  3, 00:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in FRA (Frankfurt) datacenter on 2024-05-03 between 00:00 and 03:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 13:04 UTC
+        
+
+
+
+
+
+Workers AI image generation models returning improperly formatted results
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  3, 02:51 UTC
+        
+
+
+Investigating -
+      	Cloudflare is investigating Workers AI image generation models returning improperly formatted results, resulting in unparseable images.
+
+
+            May  3, 02:03 UTC
+        
+
+
+
+
+
+May  2, 2024
+
+
+CMB (Colombo) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 23:01 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 21:01 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in CMB (Colombo) datacenter on 2024-05-02 between 21:00 and 23:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  2, 20:42 UTC
+        
+
+
+
+
+
+SCL (Santiago) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 23:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 13:30 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2024-05-02 between 13:30 and 23:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+DDoS Attack Protection configuration errors
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  2, 18:56 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            May  2, 18:38 UTC
+        
+
+
+Identified -
+      	The issue has been identified and a fix is being implemented.
+
+
+            May  2, 15:55 UTC
+        
+
+
+Investigating -
+      	Cloudflare is investigating an issue whereby errors are presented in the dashboard for some customers when attempting to configure new DDoS L4 overrides.Existing overrides and configuration via API are unaffected.
+
+
+            May  2, 15:24 UTC
+        
+
+
+
+
+
+KIX (Osaka) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 18:01 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 16:01 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in KIX (Osaka) datacenter on 2024-05-02 between 16:00 and 18:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  2, 15:06 UTC
+        
+
+
+
+
+
+Cloudflare Workers AI Issues
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  2, 17:38 UTC
+        
+
+
+Investigating -
+      	Customers may be experiencing increased error rate in requests to Workers AI
+
+
+            May  2, 16:13 UTC
+        
+
+
+
+
+
+HNL (Honolulu) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 16:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 12:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in HNL (Honolulu) datacenter on 2024-05-02 between 12:00 and 16:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 14:24 UTC
+        
+
+
+
+
+
+IAD (Ashburn) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 11:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 08:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2024-05-02 between 08:00 and 11:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+PHL (Philadelphia) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 10:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 03:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in PHL (Philadelphia) datacenter on 2024-05-02 between 03:00 and 10:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+YYZ (Toronto) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 10:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 08:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in YYZ (Toronto) datacenter on 2024-05-02 between 08:00 and 10:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 16:52 UTC
+        
+
+
+
+
+
+LHR (London) on 2024-05-02
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  2, 06:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  2, 01:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in LHR (London) datacenter on 2024-05-02 between 01:00 and 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            May  1, 14:12 UTC
+        
+
+
+
+
+
+May  1, 2024
+
+
+SCL (Santiago) on 2024-05-01
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            May  1, 23:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            May  1, 13:30 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2024-05-01 between 13:30 and 23:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+IP addresses incorrectly geolocated in the Asia Pacific region
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            May  1, 03:30 UTC
+        
+
+
+Update -
+      	We are continuing to work on a fix for this issue.
+
+
+            May  1, 03:29 UTC
+        
+
+
+Identified -
+      	The issue has been identified and a fix is being implemented.
+
+
+            Apr 30, 16:35 UTC
+        
+
+
+Update -
+      	We are continuing to investigate this issue.
+
+
+            Apr 30, 10:38 UTC
+        
+
+
+Update -
+      	We are continuing to investigate this issue.
+
+
+            Apr 30, 10:35 UTC
+        
+
+
+Update -
+      	We are continuing to investigate this issue.
+
+
+            Apr 30, 10:31 UTC
+        
+
+
+Investigating -
+      	Cloudflare is investigating a limited amount of IP addresses that are incorrectly geolocated in the Asia Pacific region. We are working to analyse and mitigate this problem. More updates to follow shortly.
+
+
+            Apr 30, 08:11 UTC
+        
+
+
+
+
+
+Apr 30, 2024
+
+
+SCL (Santiago) on 2024-04-30
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 30, 23:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 30, 13:30 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2024-04-30 between 13:30 and 23:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+OMA (Omaha) on 2024-04-30
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 30, 18:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 30, 14:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in OMA (Omaha) datacenter on 2024-04-30 between 14:00 and 18:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of       a slight increase in latency during this maintenance window for end-users in the affected       region. For PNI / CNI customers connecting with us in this location, please make sure you are       expecting this traffic to fail over elsewhere during this maintenance window as network       interfaces in this datacenter may become temporarily unavailable.You can now subscribe       to these notifications via Cloudflare dashboard and receive these updates directly via email,       PagerDuty and webhooks (based on your plan):       https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 30, 12:44 UTC
+        
+
+
+
+
+
+Issues passing Challenge Pages and Turnstile
+
+
+
+
+
+Resolved -
+      	Between 4:14PM UTC and 4:30PM UTC, visitors experienced issues passing Challenge Pages and Turnstile challenges. Users may have experienced elevated 403 status codes around this time.
+
+
+            Apr 30, 16:00 UTC
+        
+
+
+
+
+
+Duplicate notifications of scheduled maintenance.
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 30, 01:25 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            Apr 30, 00:52 UTC
+        
+
+
+Identified -
+      	There are multiple reports of duplicated scheduled maintenance notifications.Impacted services: cloudflarestatus.com and notifications via email.
+
+
+            Apr 29, 21:45 UTC
+        
+
+
+
+
+
+Apr 29, 2024
+
+
+Durable Objects and R2 elevated error rates in APAC Region
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 29, 15:29 UTC
+        
+
+
+Update -
+      	Impact for Durable Objects is resolved, we are continuing to mitigate impact with R2.
+
+
+            Apr 29, 15:13 UTC
+        
+
+
+Investigating -
+      	We are investigating elevated error rates for Durable Objects and R2 buckets in the Asia-Pacific region.We are working to analyse and mitigate this problem. More updates to follow shortly.
+
+
+            Apr 29, 13:53 UTC
+        
+
+
+
+
+
+GraphQL Issues
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 29, 13:02 UTC
+        
+
+
+Identified -
+      	The issue has been identified and a fix is being implemented.
+
+
+            Apr 29, 11:58 UTC
+        
+
+
+Investigating -
+      	Customers querying the GraphQL API may experience errors querying data.We are currently investigating this issue.
+
+
+            Apr 29, 11:33 UTC
+        
+
+
+
+
+
+Customers querying GraphQL API may experience errors querying data
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 29, 02:03 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            Apr 29, 01:44 UTC
+        
+
+
+Investigating -
+      	We are currently investigating this issue.
+
+
+            Apr 29, 01:24 UTC
+        
+
+
+
+
+
+Apr 28, 2024
+No incidents reported.
+
+
+Apr 27, 2024
+
+
+Elevated errors for durable objects in Oceania region
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 27, 20:31 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            Apr 27, 20:22 UTC
+        
+
+
+Identified -
+      	The issue has been identified and a fix is being implemented.
+
+
+            Apr 27, 20:21 UTC
+        
+
+
+Investigating -
+      	Customers accessing durable objects in our Oceania(OC) region may observe elevated error rates. We are currently investigating the issue.
+
+
+            Apr 27, 19:38 UTC
+        
+
+
+
+
+
+Increased HTTP 500 Errors in Ashburn (IAD)
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 27, 01:46 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            Apr 27, 01:32 UTC
+        
+
+
+Investigating -
+      	Cloudflare is investigating an increased level of HTTP 500 errors in Ashburn. We are working to analyse and mitigate this problem.  More updates to follow shortly.
+
+
+            Apr 27, 00:54 UTC
+        
+
+
+
+
+
+Apr 26, 2024
+
+
+DUS (Düsseldorf) on 2024-04-26
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 26, 16:30 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 26, 06:30 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in DUS (Düsseldorf) datacenter on 2024-04-26 between 06:30 and 16:30 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 25, 10:40 UTC
+        
+
+
+
+
+
+Network Issues in Australia
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 26, 13:45 UTC
+        
+
+
+Monitoring -
+      	A fix has been implemented and we are monitoring the results.
+
+
+            Apr 26, 12:48 UTC
+        
+
+
+Investigating -
+      	Cloudflare is experiencing network issues for Regional Services traffic directing into Australia. Customers who use the Australia region may experiencing performance issues.
+
+
+            Apr 26, 12:26 UTC
+        
+
+
+
+
+
+ATL (Atlanta) on 2024-04-26
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 26, 12:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 26, 04:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2024-04-26 between 04:00 and 12:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 25, 10:10 UTC
+        
+
+
+
+
+
+ORD (Chicago) on 2024-04-26
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 26, 12:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 26, 06:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in ORD (Chicago) datacenter on 2024-04-26 between 06:00 and 12:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 22, 19:18 UTC
+        
+
+
+
+
+
+WAW (Warsaw) on 2024-04-26
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 26, 06:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 26, 00:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in WAW (Warsaw) datacenter on 2024-04-26 between 00:00 and 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 17, 02:40 UTC
+        
+
+
+
+
+
+CDG (Paris) on 2024-04-26
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 26, 03:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 26, 00:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in CDG (Paris) datacenter on 2024-04-26 between 00:00 and 03:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 17, 09:00 UTC
+        
+
+
+
+
+
+Apr 25, 2024
+
+
+YXE (Saskatoon) on 2024-04-25
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 25, 19:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 25, 15:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in YXE (Saskatoon) datacenter on 2024-04-25 between 15:00 and 19:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 23, 14:26 UTC
+        
+
+
+
+
+
+ATL (Atlanta) on 2024-04-25
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 25, 12:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 25, 06:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2024-04-25 between 06:00 and 12:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 19, 16:04 UTC
+        
+
+
+
+
+
+MSP (Minneapolis) on 2024-04-25
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 25, 08:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 25, 06:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in MSP (Minneapolis) datacenter on 2024-04-25 between 06:00 and 08:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 25, 01:35 UTC
+        
+
+
+
+
+
+WAW (Warsaw) on 2024-04-25
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 25, 06:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 25, 00:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in WAW (Warsaw) datacenter on 2024-04-25 between 00:00 and 06:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 17, 02:38 UTC
+        
+
+
+
+
+
+Network Performance Issues in Chicago (ORD)
+
+
+
+
+
+Resolved -
+      	This incident has been resolved.
+
+
+            Apr 25, 05:17 UTC
+        
+
+
+Monitoring -
+      	Cloudflare has identifed Network Performance issues in Chicago (ORD)We are working to analyze and mitigate this problem. More updates to follow shortly.
+
+
+            Apr 25, 03:12 UTC
+        
+
+
+
+
+
+CDG (Paris) on 2024-04-25
+
+
+
+
+
+Completed -
+      	The scheduled maintenance has been completed.
+
+
+            Apr 25, 03:00 UTC
+        
+
+
+In progress -
+      	Scheduled maintenance is currently in progress. We will provide updates as necessary.
+
+
+            Apr 25, 00:00 UTC
+        
+
+
+Scheduled -
+      	We will be performing scheduled maintenance in CDG (Paris) datacenter on 2024-04-25 between 00:00 and 03:00 UTC.Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+
+
+            Apr 17, 08:58 UTC
+        
+
+
+
+
+
+
+← Incident History
+Powered by Atlassian Statuspage
+
+
+
+
+
+
+
+What We Do
+
+Plans
+About Us
+App Services
+Network
+
+
+
+Community
+
+Case Studies
+Blog
+Partners
+Developers
+
+
+
+Support
+
+Help Center
+Community
+Contact Us
+
+
+
+About Us
+
+Team
+Careers
+Press
+Legal
+
+
+
+Connect
+
+TwitterFacebookLinkedIn Instagram 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

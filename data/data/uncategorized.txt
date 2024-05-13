@@ -1,0 +1,769 @@
+
+
+
+
+
+
+
+
+
+Uncategorized Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Category: Uncategorized
+
+Home
+ Category: Uncategorized
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 10, 2024            
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                 
+
+On average, it takes over 10 years and costs upwards of $2.6 billion to get a new drug from initial discovery to approval by regulatory bodies like the FDA. Moreover, processes like clinical trials are long, complex, and expensive that pharmaceutical companies must undertake to test the safety and efficacy of new medical treatments.  A […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+November 21, 2023            
+
+Executive Dashboards for Pharmaceutical Companies                
+
+What is an Executive Dashboard?  Executive dashboards are business monitoring tools used to track performance across Research & Development, Commercialization, and Sales & Marketing. They provide a single visual representation of KPIs and critical metrics relevant to business. These dashboards serve as a centralized hub, aggregating data from various departments such as sales, research and […]
+
+
+
+Carlos Nunes                    
+
+
+Project Portfolio Management, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+June 18, 2021            
+
+5 Ways Microsoft PowerApps Can Transform Your Business.                
+
+Apps changed the way the world functions. One app made it easy to shop online, and another helped us to stay connected with friends and family. But these apps are not just for everyday nuances, thanks to Artificial Intelligence (AI) you can now build apps that can manage business data and make informed decisions, all this without writing a single code. How? One word ‘Power Apps.’ Read on as we explain how this […]
+
+
+
+Sanjana Lagudu                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+December 29, 2020            
+
+Technological Positives of 2020                
+
+Looking back as the curtains fall for 2020, we can only say this has been one challenging year. So much that the TIME’s December 14th cover crosses out the bane of the year that is 2020 itself with a red “X”. However, there is some good in all this, nature is thriving, humanity is still alive, OTT platforms have soared, and remote work is the new […]
+
+
+
+Darshana Barthakur                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 7, 2020            
+
+Unlocking the Potential of Data Lakes in the Life Sciences Industry                
+
+Data is the new currency in the healthcare and life sciences industry. A huge amount of data is being generated in this industry every day. Each year the volume of data being generated increases at over 45% and would amount to 2314 exabytes of data (1 exabyte = 1 billion gigabytes) by 2020.[1] How to […]
+
+
+
+Aman Singh                    
+
+
+Big Data, Data Visualization, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+February 19, 2020            
+
+Modernize your infrastructure and future-proof  your technology                
+
+Prepare for Windows Server 2008 and SQL Server 2008 end of support With end of support for Windows Server 2008 and SQL Server 2008 fast approaching, now is the time to start thinking about modernizing your infrastructure. Extended Support for SQL Server 2008/2008 R2 ends July 9, 2019 Extended Support for Windows Server 2008/2008 R2 […]
+
+
+
+Vishal Rane                    
+
+
+Digital Transformation, Microsoft Azure, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+June 25, 2019            
+
+Why the pharmaceutical industry is investing in Cloud Computing now more than ever?                
+
+Pharmaceutical companies deal with a vast amount of sensitive and intellectual data daily, this together with compliance and regulatory guidelines holds them from adopting cloud technology. While their reservations could not be nullified a few years back but today cloud technology has evolved and provides improved privacy, security, and compliance. This is evident as the Healthcare Information and Management Systems Society analytics survey reports that over 83% of pharmaceutical companies are already […]
+
+
+
+Vishal Rane                    
+
+
+Microsoft Azure, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+May 14, 2019            
+
+Customer story: Lilly envisions a workplace where collaboration enables innovation                
+
+#Pharmaceutical company, Lilly, uses teamwork to discover new therapies and accelerate time to market. They use Microsoft 365 to track projects, communicate in real time, and foster innovations at scale.
+At i2e Consulting, we know the power of teamwork and tech to improve communication, increase productivity, and accelerate time to market. Contact us today to learn more about unlocking your business possibilities.
+
+
+
+Sri Kanagala                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+May 9, 2019            
+
+Democratizing AI to Improve Citizen Health                
+
+Artificial intelligence is helping organizations all over the world to expand their capabilities. Just ask the Cochrane Transform Project. At i2e Consulting, we want you to have the best tools to increase your abilities.  
+With Azure, the Cochrane Transform Project–and more than 5,000 citizen scientists around the world–are using artificial intelligence to analyze hundreds of thousands of reports and clinical trials, speeding up the research for cures. All thanks to Azure. 
+We want you to maximize your data’s potential. Contact us for more.
+
+
+
+Sri Kanagala                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 9, 2019            
+
+Project Emma: This invention helped me write again                
+
+At i2e Consulting, we know that AI and machine learning are powerful tools that can help organizations control their destiny. Just look at how Microsoft technology is helping Dr. Haiyan Zhang to stabilize tremors in Parkinson’s patients.  
+With Microsoft technology, Haiyan created a device that analyzes a patient’s biometrics and produces vibrations to stabilize the patient’s hand. With Azure, businesses have access to AI that can provide their organization with actionable insights, giving users better control of their company.  
+We can help your business integrate this data-maximizing technology and make your ideas come to life. Contact us to find out how.
+
+
+
+Sudhir Karanth                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+3
+…
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+97846
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

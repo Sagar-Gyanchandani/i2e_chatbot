@@ -1,0 +1,63 @@
+
+
+Cloudflare Registrar | New Domain Registration | CloudflareSolutions By topicBy needBy industryPublic interestContact salesProductsOur productsFor your employeesFor apps and infrastructureFor developersConsumer servicesNeed help choosing?View What's NewContact salesPricingOur plans & pricingEnterprise planCompare all plansNeed help choosing?View FAQsContact salesResourcesDocumentationGetting StartedApplication SecurityApplication ServicesZero Trust ServicesDeveloper PlatformNetwork ServicesInsightsAPIAIResource hubLearningTrends & insightsBlogCloudflare TVCommunity forumGet helpContact salesPartnersPartner networkTechnology partnersPeering portalCloudflare Agency ProgramPartner NetworkWhy CloudflareWhy choose CloudflareLearn about CloudflareComparisonsWhy trust CloudflareResource hubBlogEnterprise level servicesExplore case studiesContact salesSign upSign upContact salesContact salesLog inLog inSupportCommunity SupportHelp CenterContact CloudflareLost account access?Log inLog inskip to contentSales: +1 (650) 319 8930+1 (650) 319 8930SupportLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upSign upContact salesLog inLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upCloudflare RegistrarDomain registrar with no-markup pricingSecurely register new domains, transfer existing domains, and effortlessly consolidate and manage all your domain portfolios, with transparent, no-markup pricing. Eliminate surprise renewal fees and hidden add-on charges.
+You pay what we pay — you won’t find better value.Register Now
+WHOIS Data Access Request
+
+
+
+
+
+Top level domain
+.com
+.net
+.info
+.org
+
+
+Wholesale registry fee (new registrations)
+$9.59
+$11.66
+$17.50
+$7.32
+
+
+ICANN fee
+$0.18
+$0.18
+$0.18
+$0.18
+
+
+Cloudflare fee
+$0.00
+$0.00
+$0.00
+$0.00
+
+
+Your cost
+$9.77
+$11.84
+$17.68
+$7.50
+
+
+
+
+ At-cost pricing for registration and renewal
+Domain name registration is dominated by companies offering large discounts on the initial domain name purchase and then later surprising customers with incremental add-on fees and inflated renewal costs.
+Cloudflare Registrar will only ever charge you what we pay to the registry for your domain. No markup and no surprise fees. Security features like two-factor authentication, multi-user support, and a security-focused customer support team gives you peace of mind that your domain is safe.
+
+Hundreds of top level domains supportedCloudflare Registrar supports common top level domains (TLDs) including .com, .net, .org, as well as hundreds more. In some cases, registration of certain top-level domains may be subject to the registrant meeting additional requirements or regulations. See the full list of supported TLDs.Custom Domain Protection for EnterpriseCustom Domain Protection, a Cloudflare Registrar feature available on the Enterprise Plan, is the highest level of registrar security. It protects your organization from domain hijacking with high-touch, on and offline verification of any changes to your Registrar account. Cloudflare is an ICANN accredited registrar providing secure domain registration for high-profile domains.Learn more about custom domain protectionKey FeaturesSupport for hundreds of TLDsTwo-factor authenticationMulti-user supportWHOIS managementAutomatic domain renewalRegistrar LockingDNSSEC (free)Bulk Domain TransfersDeveloper-friendly APITransfer your domain to Cloudflare Registrar todayTransfer now
+
+
+
+Policies and data access requests
+Cloudflare Registrar offers secure domain name registration and management services. To report abuse of a domain name or other concerns about our registrar services, please select one of the 'Registrar -' options on Cloudflare’s abuse form.
+If you believe you have a legitimate interest to access the registration data for a domain registered with Cloudflare Registrar, send an email to whoisrequest@cloudflare.com, including your name, the entity you represent, the domain name(s) for which access is requested and an explanation of need for access.
+
+
+
+
+Getting StartedFree plansFor enterprisesCompare plansGet a recommendationRequest a demoContact salesResourcesLearning centerAnalyst reportsCloudflare RadarCloudflare TVCase studiesWebinarsWhite PapersDeveloper docsArchitecture CentertheNETBlogSolutionsConnectivity cloudSSE and SASE servicesApplication servicesNetwork servicesDeveloper servicesCommunityCommunity hubProject GalileoAthenian ProjectCloudflare for CampaignsCritical Infrastructure Defense ProjectConnect 2024SupportHelp centerCloudflare statusComplianceGDPRTrust & safetyCompanyAbout CloudflareOur teamInvestor relationsPressCareersDiversity, equity, & inclusionImpact/ESGNetwork mapLogos & press kitBecome a partner© 2024 Cloudflare, Inc.Privacy PolicyTerms of UseReport Security IssuesCookie PreferencesTrademark

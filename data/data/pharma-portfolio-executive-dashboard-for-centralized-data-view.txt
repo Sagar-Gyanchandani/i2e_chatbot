@@ -1,0 +1,426 @@
+
+
+
+
+
+
+
+
+
+Maximizing Portfolio Value: Pharma’s Centralized Portfolio View
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CASE STUDY
+
+
+
+Pharma Company Achieved a Centralized Portfolio View which Maximized Portfolio Value and Minimized Business Risk.
+
+
+ 
+
+
+Business Case
+
+Data-driven decision making is crucial to minimizing business risk and maximizing portfolio value. A global pharmaceutical company was struggling to access timely and accurate operational and financial project metrics such project delivery milestone dates, development cost forecast, revenue forecasts, Probability of Technical and Regulatory Success (PTRS). The decision makers also needed value metrics such as estimated Net Present Value (eNPV) and estimated Internal Rate of Return (eIRR).
+Assessing these projects metrics across project development scenarios and in the context of the whole portfolio is essential for portfolio directors and decision-makers to inform consequential portfolio investment decisions.
+Resolving data trust issues caused by data silos, data disparity and data misalignment; and the need to centralize the comparison and visualization of project data against the broader portfolio were the key challenges that prompted improvement in their decision-making capabilities. The client needed a way to access timely and accurate portfolio data all in one place.
+Key  Challenges
+ 
+
+
+Change management in establishing uniform standards for maintaining project data
+
+
+ 
+
+
+Visualizing and comparing portfolio project investment options in a common framework
+
+
+ 
+
+
+Aggregating and integrating data from various projects within the portfolio
+
+Resolution
+Team i2e engineered Clairvoyance- a custom Executive Dashboard Application tailored specifically for the pharmaceutical industry. This application offers a consolidated view of the client’s project portfolio, providing executives with a powerful interactive tool for data-driven decision-making. This custom solution delivers a robust data quality verification platform and offers the analysis and visualization features needed to tackle the various problems the client was experiencing.
+
+Centralized Data Aggregation:The application seamlessly integrates with the client's existing project management, research, clinical and financial systems, pulling real-time data from various sources. This automation eliminates manual data entry and ensures that reporting is both accurate and consistent. Additionally, our data experts re-engineered the data and established uniform data standards across all the projects. 
+
+Comprehensive Dashboard View:The dashboard provides a holistic view of the entire project portfolio, filterable across relevant project attributes, presenting cost and revenue forecasts as well as eNPV, eIRR, PTRS, and other vital metrics, in an intuitive and visually appealing format. Key performance indicators are displayed through charts, graphs, and tables, enabling executives to quickly assess portfolio status, risk considerations and investment opportunities.
+
+Project Drill-Down Capabilities:Executives can delve deeper into individual projects for a more detailed analysis. They have direct access to project-specific reports, research findings, competitive intelligence, risk assessments and financial forecasts, allowing them to gain a comprehensive understanding of each project's performance and potential.
+
+Customizable Alerts and Notifications:The application features a robust notification system that promptly alerts executives to significant project value changes in the portfolio. This functionality ensures that leaders are informed of critical portfolio developments with associated portfolio value impacts and supportive rationales for the risk, opportunity and value change. Timely, rules-based risk monitoring has led to more informed and effective risk mitigation and subsequent value creation. 
+
+Scenario Assessment and Sensitivity Analysis: Executives can conduct scenario assessment and sensitivity tests within the dashboard. This empowers them to evaluate the impact of various scenarios on key metrics, facilitating greater focus in critical business operations, and driving increased value creation potential.
+
+
+Benefits
+
+Decision-makers empowered to interactively monitor and evaluate portfolio performance. 
+
+
+Automating data aggregation and report generation saved time and resources. 
+
+
+Timely alerts and access to detailed project-level information led to timely risk mitigation.
+
+
+Access to real-time project data fosters a culture of accountability and transparency.
+
+Scalable and customizable solution accommodates growing portfolio needs.
+
+Results
+
+ 
+ 
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

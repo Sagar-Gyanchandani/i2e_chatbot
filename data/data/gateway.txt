@@ -1,0 +1,21 @@
+
+
+Secure Web Gateway | Threat Protection | CloudflareSolutions By topicBy needBy industryPublic interestContact salesProductsOur productsFor your employeesFor apps and infrastructureFor developersConsumer servicesNeed help choosing?View What's NewContact salesPricingOur plans & pricingEnterprise planCompare all plansNeed help choosing?View FAQsContact salesResourcesDocumentationGetting StartedApplication SecurityApplication ServicesZero Trust ServicesDeveloper PlatformNetwork ServicesInsightsAPIAIResource hubLearningTrends & insightsBlogCloudflare TVCommunity forumGet helpContact salesPartnersPartner networkTechnology partnersPeering portalCloudflare Agency ProgramPartner NetworkWhy CloudflareWhy choose CloudflareLearn about CloudflareComparisonsWhy trust CloudflareResource hubBlogEnterprise level servicesExplore case studiesContact salesContact salesContact salesLog inLog inSupportCommunity SupportHelp CenterContact CloudflareLost account access?Log inLog inskip to contentSales: +1 (650) 319 8930+1 (650) 319 8930SupportLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportContact salesContact salesLog inLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportContact sales
+
+
+Cloudflare named in Gartner® Magic Quadrant™ for SSE for 2nd year. 
+ Announcement >
+
+SSE & SASEOverviewPricingProductsSolutionsAnalyst reportsResourcesLearnWhat is a Secure Web Gateway (SWG) and what does it do? Read more in our Learning Center. What is a SWG? Cloudflare GatewayInternet-native Secure Web Gateway (SWG)
+Defend against ransomware, phishing, and other threats for faster, safer Internet browsing
+Reduce cyber risk by tapping into Cloudflare's massive Internet traffic visibility and threat intelligence pool
+Build custom HTTP, DNS, and network filtering policies across remote and office users
+Talk to an ExpertCompare All PlansTry it out today and get started with our Free plan!Secure hybrid workTop use cases for Gateway
+Protect against phishing and ransomware - Thwart attacks with proactive filtering and inspection policies across comprehensive security categories.
+Secure distributed remote offices - Protect office users first with DNS filtering and later, more comprehensive inspections across all locations.
+Upgrade struggling SWG hardware - Send L4-L7 traffic through Cloudflare's global network and replace legacy appliances that fail to scale.
+Explore hybrid work use casesCompare all platform featuresTackle Zero Trust one step at a timeTalk to an ExpertCompare All PlansDefend against Internet threatsHow it works
+Securely route traffic from individual devices or branch routers to Cloudflare
+Inspect traffic against massive threat intelligence and customized filtering
+Apply other in-line services like data loss prevention or remote browser isolation for additional controls to protect your organization's exposure to the open Internet
+Helping organizations worldwide progress towards Zero TrustView case studiesTackle Zero Trust one step at a timeTalk to an ExpertCompare All PlansGetting StartedFree plansFor enterprisesCompare plansGet a recommendationRequest a demoContact salesResourcesLearning centerAnalyst reportsCloudflare RadarCloudflare TVCase studiesWebinarsWhite PapersDeveloper docsArchitecture CentertheNETBlogSolutionsConnectivity cloudSSE and SASE servicesApplication servicesNetwork servicesDeveloper servicesCommunityCommunity hubProject GalileoAthenian ProjectCloudflare for CampaignsCritical Infrastructure Defense ProjectConnect 2024SupportHelp centerCloudflare statusComplianceGDPRTrust & safetyCompanyAbout CloudflareOur teamInvestor relationsPressCareersDiversity, equity, & inclusionImpact/ESGNetwork mapLogos & press kitBecome a partner© 2024 Cloudflare, Inc.Privacy PolicyTerms of UseReport Security IssuesCookie PreferencesTrademark

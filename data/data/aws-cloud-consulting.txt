@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+
+
+AWS cloud Consulting Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Tag: AWS cloud Consulting
+
+Home
+ What are the Essential Practices of DevOps and How AWS Supports Them?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August 5, 2021            
+
+What are the Essential Practices of DevOps and How AWS Supports Them?                
+
+DevOps is a software development practice of blending two critical IT departments-development and operations which are otherwise siloed.   Over time, organizations adopted certain essential practices while adopting DevOps, these practices increased their capacity to deliver applications at high velocity and better quality. Amazon Web Services (AWS) is one of the many players who provide the platform and service to leverage and […]
+
+
+
+Sri Kanagala                    
+
+
+AWS RedShift, Cloud 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16200
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

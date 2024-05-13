@@ -1,0 +1,526 @@
+
+
+
+
+
+
+
+
+
+What are the Essential Practices of DevOps and How AWS Supports Them? - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+What are the Essential Practices of DevOps and How AWS Supports Them? - i2e Consulting                                
+
+August 5, 2021                                
+
+DevOps is a software development practice of blending two critical IT departments-development and operations which are otherwise siloed.  
+Over time, organizations adopted certain essential practices while adopting DevOps, these practices increased their capacity to deliver applications at high velocity and better quality. Amazon Web Services (AWS) is one of the many players who provide the platform and service to leverage and adopt these DevOps practices. 
+In this blog, we will tell you how empowering DevOps through AWS can be achieved. 
+Let us look in detail at how AWS facilitates the implementation of some crucial DevOps practices. 
+Continuous Integration 
+This is a software development practice where developers regularly merge their code changes into a central repository, from here automated builds and tests are run. This helps address bugs quickly and improve the software quality. It also reduces the time taken to validate and release new updates. 
+AWS has three services to facilitate continuous integration. 
+AWS CodeCommit: It is a secure, scalable, managed source control service that hosts private Git repositories. It also eliminates the need for an own source control system. CodeCommit can be used to store many things from code to binaries, it also supports the standard functionality of Git, and seamlessly works with existing Git-based tools. AWS CodeBuild: This is a fully managed continuous integration service that compiles the source code, runs tests, and produces software packages that are ready to deploy. CodeBuild can scale and process multiple builds concurrently. It not only brings customized build environments as docker containers but also integrates with open-source tools such as Jenkins and Spinnaker.   
+AWS CodeArtifact: It is a fully managed artifact repository service that can help companies securely store, publish, and share software packages used in their software development process. CodeArtifact can be configured to automatically fetch software packages from public artifact repositories. It also allows developers to set up controls on a particular version of open-source software. 
+Continuous Delivery: In this practice, the code changes are automatically prepared for release to production. When implemented properly, developers will have a deployment- ready artifact that has passed a standardized test process. 
+AWS offers three services to ensure continuous delivery. 
+AWS CodeBuild, AWS CodeDeploy, and AWS CodePipeline 
+AWS CodeDeploy: This fully managed deployment service automates software deployments to compute services such as Amazon Elastic Compute Cloud, AWS Fargate, AWS Lambda, and on-premises servers. Using AWS CodeDeploy your DevOps engineers can enjoy benefits like automated deployment, centralized control, minimized downtime, and easy adoption to existing systems. AWS CodePipeline: It is a continuous delivery service that helps the developer to model, visualize and automate the steps required to release software. Using AWS CodePipeline, you can model the full release process from building code to releasing to production. It also builds, tests, and deploys the application as per the defined workflows every time there is a change in the code. 
+Deployment Strategies: This is a strategy to define how the software needs to be delivered. Deployment strategies differ from company to company based on their business model. Here is a table on the development strategies AWS supports. 
+Deployment Strategy Amazon ECS AWS Lambda Amazon EC2 In- place Yes  Yes  Yes  Blue-Greeb Yes  Yes  Yes  Canary  Yes  Yes  No  Linear Yes  Yes  No  Linear Yes  Yes  No  All-at-once Yes  Yes  No    
+Infrastructure as Code: Practicing infrastructure means applying the same thoughtfulness of coding towards infrastructure provisioning.  AWS provides a DevOps-focused way of creating and maintaining infrastructure. It provides services that enable the creation, deployment, and maintenance of infrastructure programmatically.  
+AWS offers three services to define infrastructure as code. 
+AWS CloudFormation: This AWS service allows developers to create AWS resources in an orderly fashion. All you need to do is write your resource in JSON or YAML with any code editor, check it into a version control system and the AWS CloudFormation builds the services in a safe, and repeatable manner. AWS Cloud Development Kit: Also known as AWS CDK, it is an open-source software development framework that helps to model and provision of your cloud application resources using familiar programming languages. 
+AWS Cloud Development Kit for Kubernetes: It is an open-source software development framework for defining Kubernetes applications. 
+Automation: Using automation, developers can set up environments rapidly in a standardized and repeatable manner. AWS facilitates DevOps automation through the following services. 
+AWS OpsWorks: This service provides a level of automation with features like integration with configuration management software and application lifecycle management.  
+AWS Elastic Beanstalk: It is a service that rapidly deploys, and scales web applications developed with Java, .NET, PHP, Node js, Python, Ruby, Go, and Docker. 
+Monitoring and Logging: Amazon CloudWatch provides robust monitoring, alerting, and auditing infrastructure. This helps the developing and operations teams to work closely and transparently. 
+AWS provides the following services for monitoring and logging. 
+Amazon CloudWatch Metrics: These automatically collect data from Amazon EC2 instances, Amazon EBS volumes, and Amazon RDS DB instances. The metrics can then be presented as dashboards or create events to trigger auto-scaling options. 
+Amazon CloudWatch Alarms: Alarms can be set based on the Amazon CloudWatch metrics; this alarm can initiate Auto Scaling actions. Amazon CloudWatch Logs: These logs can integrate with AWS CodeBuild, CodeCommit, CodeDeploy, and CodePipeline, thus providing centralized monitoring of all the logs. Amazon CloudWatch Logs Insights: You can scan your logs and perform interactive queries and visualizations. Amazon CloudWatch Events: It delivers a near real-time stream of system events that describe the changes in the AWS resources. 
+Security: When it comes to security AWS follows a shared responsibility model which includes the following parts. 
+AWS responsibility ‘Security of the cloud”– It is AWS’s responsibility to protect the infrastructure that runs all the services offered in the AWS cloud. Customer responsibility ‘Security in the cloud”- Depending on the AWS Cloud service a customer selects, the customer should perform a certain amount of configuration work. AWS Identity and Access Management: Using this you can create controls and policies that can be used to manage access to the various resources of AWS. 
+The above-stated practices are vital to make your DevOps journey smooth and efficient. AWS has all these principles embedded in the platform which makes it an ideal choice to begin your DevOps Journey. DevOps is a process that requires expertise and proficiency. However, if you do not have the required expertise, you can always outsource it to an AWS DevOps consulting services provider 
+Being an AWS partner, i2e has hands-on experience in DevOps consulting. Whether you want to develop DevOps in-house or looking to outsource it, we can guide you towards the right path. 
+Why wait? Give us a call and our team is here to help you.  
+
+
+Tags: AWS cloud Consulting, AWS DevOps, DevOps, DevOps consulting, Security of the cloud 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Digital Journey of SMBs in India and Cloud Adoption                                    
+
+
+
+
+
+
+
+
+What Is Intelligent Document Processing? And How It Can Help Your Business.                                    
+
+
+
+
+
+
+
+
+8 ways AWS Redshift is optimizing Business Intelligence in the Healthcare and Life Science industry                                    
+
+
+
+
+
+
+
+
+Cloud approach to 2021                                    
+
+
+
+
+
+
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                                      
+
+
+
+
+
+
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it                                     
+
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

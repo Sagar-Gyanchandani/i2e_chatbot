@@ -1,0 +1,761 @@
+
+
+
+
+
+
+
+
+
+Darshana Barthakur, Author at i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Home
+ Organizing data for Portfolio Decision Making
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+June 1, 2022            
+
+Organizing data for Portfolio Decision Making                
+
+Did you know that 60 – 73% data of an organization are categorized as Dark Data, which goes to waste1? 2020, Gartner survey on portfolio decision-making finds that 78%2 of R&D leaders say the pressure to make faster decisions has increased. All you need is harness your data for insights and make decisions faster. If only it were that […]
+
+
+
+Darshana Barthakur                    
+
+
+Project Management, Project Portfolio Management 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 11, 2022            
+
+SharePoint and Teams in Modern Workplace Collaboration                
+
+
+
+
+Darshana Barthakur                    
+
+
+Microsoft Teams, SharePoint 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+December 9, 2021            
+
+i2e Consulting: Platinum Sponsors of the Project Management Virtual Conference 2021                
+
+Project Portfolio Management is at the core of i2e Consulting, and we put all our passion and energy into unlocking its value. It is only natural that we are more than delighted to sponsor the project management conference this year.    We live to make a difference in the world of project management and aim to […]
+
+
+
+Darshana Barthakur                    
+
+
+News 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+November 16, 2021            
+
+i2e Consulting partners with Dataiku – a synergy partnership towards AI for all                
+
+Dataiku world’s leading platform for Everyday AI, systemizing the use of data for exceptional business results. Named a 2x Gartner Magic Quadrant Leader for Data Science & Machine Learning Platforms, Dataiku systemizes the use of data and AI to unlock individual creativity.  i2e Consulting has been helping organizations make informed decisions for over a decade now. This technology and service partnership will further help create and deliver data and […]
+
+
+
+Darshana Barthakur                    
+
+
+News 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+August 20, 2021            
+
+Planisware® partners with i2e Consulting to promote innovative PPM solutions.                
+
+Planisware®, a market leader of software solutions for project portfolio management, and i2e Consulting with over 12+ years of helping businesses with informed business decisions and increased portfolio value, today announced a strategic partnership.  As a Consulting and Implementation partner, i2e Consulting will help with Planisware system integration, portfolio decisions, and better visibility into your data so you can accelerate execution and deliver projects without delays and budget overruns.  “i2e Consulting has been providing Planisware services and system integration […]
+
+
+
+Darshana Barthakur                    
+
+
+News 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+December 29, 2020            
+
+Technological Positives of 2020                
+
+Looking back as the curtains fall for 2020, we can only say this has been one challenging year. So much that the TIME’s December 14th cover crosses out the bane of the year that is 2020 itself with a red “X”. However, there is some good in all this, nature is thriving, humanity is still alive, OTT platforms have soared, and remote work is the new […]
+
+
+
+Darshana Barthakur                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 19, 2020            
+
+i2e signs agreement with Aramco for support and configuration services for Planisware®  tool of its R&D department                
+
+ i2e Consulting, amongst the few companies to provide Planisware® maintenance and support services globally, have signed an agreement with Aramco for Planisware® support.  The demand for Planisware® support is showing growth, and i2e is happy to offer it expertise in the area. Daily support and maintenance of Planisware® tool, server configuration and maintenance, and on-demand custom […]
+
+
+
+Darshana Barthakur                    
+
+
+News 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 14, 2020            
+
+Integrating Power BI to SharePoint                
+
+Are you a SharePoint user? Do you use Power BI? Ever thought of leveraging Power BI to SharePoint? Well, if you fall into any or all the above categories, you have come to the right place.   In this blog I will briefly discuss about Power BI (you can skip this part if you are already familiar with the platform), why integrate Power BI with SharePoint, and benefits of the integration.  What is Power […]
+
+
+
+Darshana Barthakur                    
+
+
+Power BI, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 10, 2020            
+
+Building Modern Workplaces with Microsoft 365                
+
+Modern workplace and its challenges  Flexible, collaborative, agile, remote are a few characteristics of the modern workplaces. We are all trying to fit into these new modern and the on-going pandemic has only changed gears and made us embrace it faster. However, modern workplaces do have their share of challenges too; security, productivity, collaboration, and […]
+
+
+
+Darshana Barthakur                    
+
+
+Microsoft Teams, Office 365 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 2, 2020            
+
+Analytics for Resourcing Decision Making.                
+
+R&D funds in pharmaceuticals are scares, it is important that they be allocated wisely. Companies often find it difficult to decide on which resources to pursue or, at times even more significant which resources to retire or discontinue.   Are you making these common mistakes?  Guesstimates: Your next project or project phase is about to start, you hold a team meeting, and based […]
+
+
+
+Darshana Barthakur                    
+
+
+Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42999
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,513 @@
+
+
+
+
+
+
+
+
+
+Application Migration and Modernization with Azure -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Application Migration and Modernization with Azure -                                
+
+March 5, 2020                                
+
+Cloud cuts cost, shifts your infra expenditure from capital to operational, provides development agility, improves security and scalability, and provides for new scenarios like bigdata, machine learning, IoT. The business value of the cloud is huge. Sooner or later everyone will move to cloud to maintain the competitive advantage. It’s not if or when to move to the cloud, the bigger question is how?  
+At a higher level the migration process can be divided into 3-steps: 
+
+The assessment phase is where the migration team uses a mixture of software tools and consultancy best practices to discover applications that can be migrated, what their current configurations are, the people within an organization that will be impacted by the migration, as well as identify the dependencies these applications have. 
+The migration phase is when the recommendations of the assessment plan are put into place. 
+Lastly, the optimization phase, is where you use Azure security and management resources to govern, secure, and monitor your cloud applications in Azure. This is also the time for you to look for opportunities to optimize spending. 
+Each of these steps are equally important; however, this blog as the name suggests will focus on migrating workloads to cloud with Microsoft Azure and modernizing legacy applications to the cloud.  
+As mentioned previously, the bigger question is how to migrate. When designing a migration, we have a few common migration approaches: 
+Retire: There are certain application within an organization which do not serve any greater purpose. They are better retired than migrated.  
+Replace: Business workloads like Exchange, SharePoint, etc. have equivalent SaaS offerings. Instead of running such applications in the cloud a better option is to migrate to SaaS. They offer higher availability and lesser Total Cost of Ownership (TCO). Rehost: Also known as ‘lift and shift’ is migrating applications to Azure using Infrastructure as a Service (IaaS). This often the quickest way to move applications to Azure with a high level of compatibility with existing software. Rearchitect: Modernizing Applications with Azure is one of the of the most effective ways to realize the benefits of migrating applications and system architectures to the cloud is to utilize PaaS (Platform as a Service) services.  However, converting to PaaS may take longer and require greater technical skills, and the level of change—from minor refactoring to a complete application rewrite. As a result, while some applications may be converted to PaaS services as part of a migration project; more commonly they are first rehosted to IaaS and then evolved to take advantage of PaaS. Retain on-premises: For some applications, continuing to run on-premises may be the only realistic option, for example where regulatory requirements require data to reside within national borders and no local Azure region is available. 
+Let’s discuss lift and shift or rehosting and app modernization or app rearchitecting in detail.  
+Lift and shift: Migrating applications to Azure using Infrastructure-as-a-Service is the quickest way to move applications to cloud. It requires less effort and presents lesser risks. Depending on requirements and budget, some organization prefer to rehost their application in the cloud. For such clients, the end goal is migrating to Azure infrastructure. The application continues to run like previously, the resources involved in maintaining the application remains the same. They do get significant of using the cloud-like lower capital cost, added security, increased scalability; however, they do not get the advantage of everything the cloud has to offer. Virtual machines still need to be patched, services cannot scale automatically based on usage, software updates must be managed, and many of the higher-level services offered by the cloud are not available. 
+What works: Quickest and minimum risk infrastructure migration 
+Caution: Limited cloud benefits, only infrastructure change 
+App modernization: Modernizing Applications with Azure is one of the of the most effective ways to realize the benefits of migrating applications and system architectures to the cloud. To take full advantage of the cloud requires rearchitecting the app by migrating to Azure platform services. Platform as a Service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable the delivery of everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications Here, the full benefits of the cloud can be realized: patching and many other maintenance tasks are handled automatically by the platform, streamlined workflows support rapid software updates, services can auto-scale based on usage, and the full power of all Azure services is available.  
+What works: Full advantage of cloud benefit 
+Caution: Takes longer and requires greater technical skills, and the level of change 
+In conclusion, it is always easier to build cloud-native applications from scratch; however, significant investments in legacy applications make it cost-prohibit. For such reasons, it is very important to have a thorough assessment of existing applications and infrastructure investment. It is not, ‘all or nothing’. You could life and shift some apps while refractor others or simply retire them. There is not a one-size-fits-all approach to migrating to the cloud. The migration team at i2e has developed a robust methodology for creating tailored solution that aligns with your organizational goals. If you are looking for app modernization or migration to Azure, just leave in your details below. 
+
+
+Tags: app modernization with azure, Application Modernization, Azure migration services, Azure Services 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Top 4 cloud migration benefits and infrastructure services                                    
+
+
+
+
+
+
+
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model                                    
+
+
+
+
+
+
+
+
+Modernize your infrastructure and future-proof  your technology                                    
+
+
+
+
+
+
+
+
+Why the pharmaceutical industry is investing in Cloud Computing now more than ever?                                    
+
+
+
+
+
+
+
+
+Achieve more with Microsoft Azure                                    
+
+
+
+
+
+
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                                      
+
+
+
+
+
+
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it                                     
+
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

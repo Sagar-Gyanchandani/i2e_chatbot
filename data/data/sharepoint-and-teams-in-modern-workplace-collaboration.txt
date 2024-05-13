@@ -1,0 +1,549 @@
+
+
+
+
+
+
+
+
+
+How to Collaborate Better with SharePoint and Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+How to Collaborate Better with SharePoint and Teams                                
+
+April 11, 2022                                
+
+The events of 2020 have accelerated cloud adoption by many folds, and we are moving towards a future where cloud is not a good to have but rather the default solution. 
+
+
+When it comes to online collaboration tolls, people often get confused with SharePoint and Teams or how SharePoint fits into the modern collaboration space of Microsoft with Teams’ popularity. To use a product efficiently, it’s important to understand a minimum about it. In this blog we will try to explain some behind the scenes of Microsoft Teams and SharePoint, and how these two enable productivity and collaboration. 
+
+
+What is SharePoint Online? 
+
+
+SharePoint is a collaborative and communication platform used to build intranets. It comes with a build in cloud storage that helps share and manage content, knowledge, and applications anytime anywhere. It also powers file collaboration across the entire Microsoft 365 ecosystem. 
+
+
+What is Microsoft Teams? 
+
+
+Microsoft Teams is a chat-based collaboration platform. It brings everyday workplace tools, apps, and services to one place. Collaborate on documents, plan on projects, or get data insights. Teams is the hub for teamwork for you. It’s not a place to store files. 
+
+
+Since its inception in 2021, SharePoint has been Microsoft’s gold standard for collaboration in the workplace, and continued it’s run for over two decades. However, with pandemic accelerated digital adoption, the rage has been all about Teams.  
+
+
+This popularity is only going to increase because Teams has achieved what SharePoint could not all these years. It’s simple and user-friendly. 
+
+
+Teams has achieved what SharePoint could not achieve on all these years. It’s  
+
+
+simple and user-friendly. 
+
+
+The number of active users of Teams jumped from 75 million in April 2020 to 115 million in October 2020 to 145 million in April 2021, which has also influenced the increase in SharePoint usage. Microsoft says that SharePoint Online now has 200 million monthly active users. Wonder how? Let’s go behind the scenes. 
+
+
+Behind the scenes: Teams and SharePoint 
+
+
+Let’s understand how Microsoft Teams and SharePoint interact with each other. 
+
+
+Let’s say we create a Marketing Team in Teams, to better discuss, communicate and plan campaigns with co-workers. As we do so, a SharePoint site name Marketing Team automatically gets created. For those you aren’t familiar with the concept of SharePoint site, consider it as a container within which all your files and document libraries are stored. For every channel we create in Teams, a folder within the SharePoint document library gets created automatically.  
+
+
+The documents we access in Teams aren’t stored within Teams they are stored in SharePoint site by the name of your team (in our case Marketing Team). We can access, edit, review these SharePoint files from the “Files tab” within a channel in Teams. This eliminates re-uploads every time edits are made. Same goes for Projects created within Teams. SharePoint is the centralized place where all the content and files that users share within the team are stored. In a way, it powers the collaboration within Teams.  
+
+
+SharePoint powers collaboration within Teams 
+
+
+Thus, SharePoint brings in content storage and Teams is where things get done. Microsoft Teams and SharePoint Online are in essence a dynamic duo for virtual collaboration. It’s not if we should go for SharePoint or Teams, if you are using Teams, we are capitalizing on SharePoint storage. Hope this blog helped clear some confusion on SharePoint and Teams. 
+
+
+ Next up, we will discuss SharePoint Governance. Whether you are looking for SharePoint migration, a complete newbie to the Microsoft universe or exploring online collaboration tools in general- a good governance policy is paramount. 
+
+ 
+
+Tags: SharePoint Consulting Services, Sharepoint in modern workplace collaboration 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+Integrating Power BI to SharePoint                                    
+
+
+
+
+
+
+
+
+Building Modern Workplaces with Microsoft 365                                    
+
+
+
+
+
+
+
+
+Latest trends in Microsoft Teams administration                                    
+
+
+
+
+
+
+
+
+How to collaborate better with Microsoft Teams and SharePoint?                                    
+
+
+
+
+
+
+
+
+Must-haves in Document Management System for Pharmaceutical companies                                    
+
+
+
+
+
+
+
+
+Business Process Automation: Work less do more                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

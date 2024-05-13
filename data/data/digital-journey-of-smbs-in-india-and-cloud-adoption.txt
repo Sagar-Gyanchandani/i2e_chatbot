@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+SMB cloud adoption brings new opportunities to grow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+SMB cloud adoption brings new opportunities to grow                                
+
+December 7, 2021                                
+
+SMBs is the engine that drives the Indian Economy. It shares 34% of the GDP in FY-19 and employed 110 million people, ranking second after agriculture. It was evident that the CoVID-19 pandemic has hurt this sector the most, crippling the economy itself. However, according to a NASSCOM report, SMBs with an online presence are more resilient and have greater revenue growth potential. 
+The pandemic has induced a digital transformation among businesses. There has been a rise in demand of tools for collaboration, communication, customer relationship management (CRM), business intelligence, marketing, security, etc to counter disruptions and increase global competitiveness. Cloud computing, Cyber Security, and Big Data Analytics are the three fundamental technologies in this shift. 
+
+
+Cloud computing, Cyber Security and Big Data Analytics are the 
+three fundamental technologies in this shift. 
+
+
+The adoption of cloud computing technology particularly can have a significant impact in the cost efficiency and thereby play a major role in growth and prosperity of the SMBs. Cloud technology allows solutions such as CRM, ERP, web servers, enterprise applications, IoT solutions, etc. hosted as SaaS-based applications by an online service provider charged on a pay as you go basis.  
+The public cloud market of India expected to grow at a CAGR of 30% to Rs 630 billion by FY25 from Rs 170 billion as of FY20. SMBs have the potential to constitute 28-30% of this market as per NASSCOM. It has been reported that 63% of the 1000 responding SMBs were using cloud already with a varying maturity levels. Although, half (47%) are at a nascent stage.  
+Apart from the IT and ITES, BFSI, media & entertainment, retail, automotive, healthcare and manufacturing are emerging verticals for adoption in India. 
+Cloud technologies, which seemed too enterprisy earlier, is the new norm. According to Salesforce yearly report, here are the major business reasons for strong online presence.  
+
+Figure: Cloud adoption among SMBs  
+Source: Nasscom 
+Top 5 Reasons SMBs Have Moved Operations Online over the Past Year Globally 
+Serve customers safely  43% Cater to customer convenience   37% Enable safer work arrangements for employees  32% Increase productivity   30% Stay competitive   29% 
+Generating awareness among non-IT businesses about the benefits of going digital and cloud adoption is the need of the hour. 
+The lack of necessary knowledge and education in adopting cloud technologies has been a major challenge in adoption of cloud technology. Traditionally, SMBs consider technology adoption as an expense over investment.  More than 50 per cent of respondents cited lack of management support, talent and capital as key constraints for cloud adoption, the survey. 
+Possibilities 
+SMBs that adopted cloud have been able to drive 25-30 per cent productivity improvement and 15-20 per cent reduction in operational costs. There is a need to understand that, in order to improve cost-efficiency, drive productivity, and respond to market changes quickly cloud is the most economical way forward thus making it an investment rather than an additional expense. 
+Cloud adoption beyond IT 
+Cloud is the way forward, while the pandemic has accelerated the cloud adoption, we need to be careful with the process. Midsize enterprises accelerated their digital initiatives in response to a sudden demand for remote work. However, they are hindered by the existing division of responsibilities, decision-making processes, and ways of working. For midsize enterprises to develop their digital needs with limited resources, they must apply practices from the new IT charter such as: 
+Implementing a distributed leadership across the enterprise Creating adaptive decision making Building an autonomous way of working 
+
+More than 50 percent of respondents cited lack of management support, talent, and capital as key constraints for cloud adoption 
+
+Wrapping it up, embracing technology is the way forward, to stay competitive. As an SMB you may have the migration advantage (lesser tech debt, faster migration). It’s advisable to have a holistic approach. Operational and customer excellence along with improved employee productivity are gaining traction in the SMB segment. You might consider them in your next budget.  
+Get insights and more, we at i2e Consulting help companies go digital and operate smoother. Get in touch to learn more. 
+
+
+Tags: Big Data Analytics, Cloud Computing, SMB Cloud, SMB Cloud Adoption 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+Benefits of Embedded Analytics for the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+What are the Essential Practices of DevOps and How AWS Supports Them?                                    
+
+
+
+
+
+
+
+
+8 ways AWS Redshift is optimizing Business Intelligence in the Healthcare and Life Science industry                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

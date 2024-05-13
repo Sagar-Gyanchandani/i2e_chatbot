@@ -1,0 +1,560 @@
+
+
+
+
+
+
+
+
+
+Manali Dev, Author at i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Home
+ Planisware Orchestra and its role in New Product Development (NPD), from Strategy to execution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+August 30, 2021            
+
+Planisware Orchestra and its role in New Product Development (NPD), from Strategy to execution                
+
+As the name suggests, new product development is nothing but the process of launching a brand-new product – tangible or intangible in the market. With constantly evolving consumer behavior towards different products and services, organizations are driven to make a structured go-to-market strategy that can satisfy customer needs and expand the customer base through increased engagement.   But developing a product from scratch can encounter a lot of unprecedented challenges such as – […]
+
+
+
+Manali Dev                    
+
+
+Planisware, Project Management 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+July 14, 2021            
+
+8 ways AWS Redshift is optimizing Business Intelligence in the Healthcare and Life Science industry                
+
+With the major advancement of pharmaceutical sectors, the increasing volume of data that is being produced each day, each second needs a dynamic storage system, preferably faster and more secure. And by data here, we mean the years and years of organizational data that is stored in traditional on-premises data warehouses which require a huge investment of time, money, and maintenance. To solve this problem, Amazon has introduced redshift, a cloud-based database for data management, and analytics for large-scale data.  […]
+
+
+
+Manali Dev                    
+
+
+Cloud 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+June 30, 2021            
+
+Power Bi Dashboards and its contribution to Data Visualization and Advanced Analytics                
+
+Business Intelligence has given a whole new meaning to the decision-making process of organizations worldwide. Enterprises across the globe are now leveraging the technology-driven solution to make better decisions by quick data mining, data collection, migration, analysis, and interactive data visualization. And when we talk about the most versatile BI tools, we can’t miss one such leader in Gartner’s Magic Quadrant for Analytics and Business Intelligence Platforms for the past 12 years. Power Bi, a self-service analytics tool that helps businesses make powerful decisions.  […]
+
+
+
+Manali Dev                    
+
+
+Data Visualization, Power BI, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15436
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

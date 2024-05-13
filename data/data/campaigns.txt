@@ -1,0 +1,23 @@
+
+
+Cloudflare for Campaigns | CloudflareSolutions By topicBy needBy industryPublic interestContact salesProductsOur productsFor your employeesFor apps and infrastructureFor developersConsumer servicesNeed help choosing?View What's NewContact salesPricingOur plans & pricingEnterprise planCompare all plansNeed help choosing?View FAQsContact salesResourcesDocumentationGetting StartedApplication SecurityApplication ServicesZero Trust ServicesDeveloper PlatformNetwork ServicesInsightsAPIAIResource hubLearningTrends & insightsBlogCloudflare TVCommunity forumGet helpContact salesPartnersPartner networkTechnology partnersPeering portalCloudflare Agency ProgramPartner NetworkWhy CloudflareWhy choose CloudflareLearn about CloudflareComparisonsWhy trust CloudflareResource hubBlogEnterprise level servicesExplore case studiesContact salesSign upSign upContact salesContact salesLog inLog inSupportCommunity SupportHelp CenterContact CloudflareLost account access?Log inLog inskip to contentSales: +1 (650) 319 8930+1 (650) 319 8930SupportLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upSign upContact salesLog inLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upCloudflare for CampaignsSecure your candidate's election website — and your team.Voters routinely turn to the Internet to learn more about and connect with political candidates around the world. Protecting your campaign’s website from hostile attacks and ensuring it stays accessible 24/7 is as challenging as it is essential.
+Cloudflare offers a suite of products tailor-made to assist campaigns in protecting, accelerating, and ensuring the reliability of their websites — with additional solutions designed to keep internal teams and data secure.Talk to an expertSpecial offer for US candidatesGive your candidate the foundation they needThe Cloudflare product suite encompasses a comprehensive solution for safeguarding your candidate's website and your team's most important data.
+Leverage the collective intelligence of the Cloudflare global network of millions of Internet properties — automatically deploying countermeasures to thwart the latest Internet threats as they emerge.Cloudflare for federal campaignsBe prepared for the next electionQualified federal campaigns are eligible to receive a package of products free of charge, proudly provided by Cloudflare in partnership with the nonprofit Defending Digital Campaigns.Learn moreSolutions tailor-made for your campaignProtect your website against hostile attacks, leverage load balancing, and secure your team's vital internal data with Cloudflare — all from the same intuitive dashboard.
+Available solutions include:Download our security and performance guideSidestep common risks for campaign sitesYour campaign website is a critical communications tool. Learn security and performance strategies for:
+
+Keeping your site online during attacks
+Protecting donor and supporter data
+Maintaining smooth performance during traffic spikes
+Download guideSolutions for every campaignRely on Cloudflare for Campaigns to meet the needs of your campaign, including securing your candidate's web presence and safeguarding your internal network and data:
+
+
+Protect your website from hostile actors with our web application firewall, DDoS mitigation, and custom blocking rules
+
+
+Improve site speed and reliability by leveraging the Cloudflare global network, spanning 320 cities in over 120 countries
+
+
+Monitor all traffic passing through your network and secure internal applications with Cloudflare Zero Trust
+
+
+Talk to a Cloudflare representative today to learn more.Get startedIn submitting this form, you agree to receive information from Cloudflare related to our products, events, and special offers. You can unsubscribe from such messages at any time. We never sell your data, and we value your privacy choices. Please see our Privacy Policy for information.Getting StartedFree plansFor enterprisesCompare plansGet a recommendationRequest a demoContact salesResourcesLearning centerAnalyst reportsCloudflare RadarCloudflare TVCase studiesWebinarsWhite PapersDeveloper docsArchitecture CentertheNETBlogSolutionsConnectivity cloudSSE and SASE servicesApplication servicesNetwork servicesDeveloper servicesCommunityCommunity hubProject GalileoAthenian ProjectCloudflare for CampaignsCritical Infrastructure Defense ProjectConnect 2024SupportHelp centerCloudflare statusComplianceGDPRTrust & safetyCompanyAbout CloudflareOur teamInvestor relationsPressCareersDiversity, equity, & inclusionImpact/ESGNetwork mapLogos & press kitBecome a partner© 2024 Cloudflare, Inc.Privacy PolicyTerms of UseReport Security IssuesCookie PreferencesTrademark

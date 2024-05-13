@@ -1,0 +1,58 @@
+
+
+Project Galileo  | CloudflareSolutions By topicBy needBy industryPublic interestContact salesProductsOur productsFor your employeesFor apps and infrastructureFor developersConsumer servicesNeed help choosing?View What's NewContact salesPricingOur plans & pricingEnterprise planCompare all plansNeed help choosing?View FAQsContact salesResourcesDocumentationGetting StartedApplication SecurityApplication ServicesZero Trust ServicesDeveloper PlatformNetwork ServicesInsightsAPIAIResource hubLearningTrends & insightsBlogCloudflare TVCommunity forumGet helpContact salesPartnersPartner networkTechnology partnersPeering portalCloudflare Agency ProgramPartner NetworkWhy CloudflareWhy choose CloudflareLearn about CloudflareComparisonsWhy trust CloudflareResource hubBlogEnterprise level servicesExplore case studiesContact salesSign upSign upContact salesContact salesLog inLog inSupportCommunity SupportHelp CenterContact CloudflareLost account access?Log inLog inskip to contentSales: +1 (650) 319 8930+1 (650) 319 8930SupportLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upSign upContact salesLog inLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upCloudflare cyber security protection for at-risk sitesIf you are an organization working in the arts, human rights, civil society, journalism, or democracy, you can apply for Project Galileo to get free cyber security protection from Cloudflare.
+
+
+
+
+
+
+Ensuring that at-risk public interest groups stay online
+
+
+Founded in 2014, Project Galileo is our response to devastating cyber attacks launched against important yet vulnerable targets, like artistic groups, humanitarian organizations, and the voices of political dissent.
+
+Through Project Galileo, Cloudflare provides free, robust security to enterprises that are the targets of DDoS and other cyber attacks.
+
+The Internet is a powerful tool for spreading and expanding ideas. When journalists, social activists, and minority groups are flooded with malicious traffic in an attempt to knock them offline, the Internet stops fulfilling its promise.
+
+
+
+Such organizations often face attacks from powerful and entrenched opponents, yet operate on limited budgets.
+
+ We offer services through Project Galileo to any proposed recipient if brought to us by or approved by any one of our trusted partners. Such inclusion does not require and should not be understood as endorsement by all our diverse partner organizations.
+
+
+
+
+
+
+
+Join the thousands of voices protected by Project GalileoProgram participantsAny qualified vulnerable public interest site can seek participation in Project Galileo. Examples of participants include, but are not limited to, minority rights organizations, human rights organizations, independent media outlets, arts groups, and democracy protection programs.
+Many of our participants are under threat of persecution. To help keep participants safe from potential backlash, Cloudflare will not reveal sites involved in Project Galileo without explicit permission. We are grateful the following groups were willing to share their stories.ApplyOur partnersCloudflare partners with respected free speech, public interest, and civil society organizations to identify at-risk websites eligible for participation in Project Galileo. By relying on these informed decision-makers, we ensure the program benefits from civil society expertise and is not influenced by our biases.
+Once a partner approves an applicant, Cloudflare extends its security benefits to ensure the organization stays online, protecting their voice from being silenced.
+Learn more about some of our partners below.Project Galileo toolsParticipants in Project Galileo receive the benefits of our Business plan, including:
+
+Unmetered DDoS attack mitigation
+DNS
+CNAME setup compatibility
+SSL certificate
+Web Application Firewall (WAF)
+Content delivery network (CDN)
+Cache analytics
+Cloudflare Workers
+Zero Trust application access
+Cloudflare Gateway
+Image and mobile optimization
+PCI compliance
+
+For more information about taking advantage of Project Galileo features, check out our Impact Portal.Updates on Project GalileoBlogLet’s celebrate the 8th anniversary of Project Galileo!Learn MoreBlogIn Ukraine and beyond, what it takes to keep vulnerable groups onlineLearn MoreBlogA new portal for Project Galileo participantsLearn MoreVisit our partners for sponsorship opportunitiesApply to Project GalileoIf you represent a vulnerable public interest website that wants to participate in Project Galileo, please contact one of our partner organizations and ask them to sponsor you (listed above).
+If you are not affiliated with a partner organization, please fill out this contact form and provide information on these topics:
+
+The domain you are seeking protection for — it must be a live website
+Your mission, activities, and nonprofit status
+How your organization serves the public interest
+Factors that make it a vulnerable target
+
+While you wait to hear back, review the benefits of our Free plan to get started with Cloudflare.
+Getting StartedFree plansFor enterprisesCompare plansGet a recommendationRequest a demoContact salesResourcesLearning centerAnalyst reportsCloudflare RadarCloudflare TVCase studiesWebinarsWhite PapersDeveloper docsArchitecture CentertheNETBlogSolutionsConnectivity cloudSSE and SASE servicesApplication servicesNetwork servicesDeveloper servicesCommunityCommunity hubProject GalileoAthenian ProjectCloudflare for CampaignsCritical Infrastructure Defense ProjectConnect 2024SupportHelp centerCloudflare statusComplianceGDPRTrust & safetyCompanyAbout CloudflareOur teamInvestor relationsPressCareersDiversity, equity, & inclusionImpact/ESGNetwork mapLogos & press kitBecome a partner© 2024 Cloudflare, Inc.Privacy PolicyTerms of UseReport Security IssuesCookie PreferencesTrademark

@@ -1,0 +1,764 @@
+
+
+
+
+
+
+
+
+
+Sri Kanagala, Author at i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Home
+ Pharma Industry Trends 2024: Harnessing the Power of Technology 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+January 4, 2024            
+
+Pharma Industry Trends 2024: Harnessing the Power of Technology                 
+
+Introduction  As we anticipate the year ahead, several pharmaceutical industry trends are set to be redefined by the digital revolution. From data management and technological advancements in deriving insights to the integration of artificial intelligence (AI) and machine learning in healthcare and research, these advancements are poised to revolutionize the field.   The global pharmaceutical market […]
+
+
+
+Sri Kanagala                    
+
+
+Data Analytics 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+March 2, 2023            
+
+Exploring the Opportunities and Challenges of AI in Life Sciences                
+
+AI (Artificial Intelligence) is no longer a theory in our textbooks, it is now involved in our day-to-day lives. Health care companies also started to adopt AI as it is quick to analyze data and perform activities which otherwise took days to complete. The explosion of data in healthcare data and the need to make […]
+
+
+
+Sri Kanagala                    
+
+
+Artificial Intelligence 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+December 7, 2021            
+
+Digital Journey of SMBs in India and Cloud Adoption                
+
+SMBs is the engine that drives the Indian Economy. It shares 34% of the GDP in FY-19 and employed 110 million people, ranking second after agriculture. It was evident that the CoVID-19 pandemic has hurt this sector the most, crippling the economy itself. However, according to a NASSCOM report, SMBs with an online presence are more resilient and have greater revenue growth potential.  The pandemic has induced a digital transformation among businesses. There has been a […]
+
+
+
+Sri Kanagala                    
+
+
+Cloud, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 27, 2021            
+
+Is There a Need for Digital Innovation for SMB Pharma?                
+
+In recent years, the pharma industry has witnessed a noticeable rise in the number of small and medium-sized pharma companies (SMBs) in drug development. However, many SMBs face operational issues and competitive pressures which are major roadblocks to showcasing their full potential.  Digitalization innovation in SMB pharma could be the answer to some of these issues, as it can help SMBs to achieve not only operational efficiencies but also assist in making informed decisions, better data management, and cost-cutting.   In this blog, we will tell you about the various areas where digital […]
+
+
+
+Sri Kanagala                    
+
+
+Data Visualization, Digital Transformation, IT Managed Services, Office 365, Pharma IT Solutions, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+August 5, 2021            
+
+What are the Essential Practices of DevOps and How AWS Supports Them?                
+
+DevOps is a software development practice of blending two critical IT departments-development and operations which are otherwise siloed.   Over time, organizations adopted certain essential practices while adopting DevOps, these practices increased their capacity to deliver applications at high velocity and better quality. Amazon Web Services (AWS) is one of the many players who provide the platform and service to leverage and […]
+
+
+
+Sri Kanagala                    
+
+
+AWS RedShift, Cloud 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+June 4, 2021            
+
+IT Outsourcing- A Smart Way to Reduce Costs and Increase Focus on Your Business.                
+
+IT outsourcing is a business strategy that allows enterprises to focus on their core business activities where they have a competitive advantage. Companies achieve this by outsourcing the non-core activities to third parties.   IT outsourcing helps small and medium-sized businesses to get quality work done at a lower cost. It also opens new opportunities for them to concentrate on their core activities.    i2e is an IT service provider with a team of experts who are certified in technologies […]
+
+
+
+Sri Kanagala                    
+
+
+IT Outsourcing 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 8, 2021            
+
+Cloud approach to 2021                
+
+2020, forced enterprises around the world to enable their employees to work remotely, a mandate made easier with cloud-based systems. Thus, began the reorganization of digital transformation. Organizations embraced cloud for all types of workloads, mission critical legacy systems to cloud native apps. While moving to a cloud only infrastructure does provide agility and cost management, it does have its share of challenges in terms of complexity, […]
+
+
+
+Sri Kanagala                    
+
+
+Cloud 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 27, 2020            
+
+How to collaborate better with Microsoft Teams and SharePoint?                
+
+There is a lot of fuss around SharePoint vs Teams: should use Teams or SharePoint, is Teams better than SharePoint, where should we store files, etc. I have come across multiple articles that attempt to solve such confusion but, they never really put light on how these two products are better together, or what role […]
+
+
+
+Sri Kanagala                    
+
+
+Document Management System SharePoint, Office 365, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 19, 2020            
+
+Microsoft adds RPA to its list of services with Power Automate                
+
+Microsoft is heavily invested in empowering the average business users and is pushing for anyone can develop. In this context, Power Platform, first introduced in 2018 shows tremendous promise especially with the newly revamped Power Automate (previously Microsoft Flow) and Power Agents. The latest edition of Microsoft Ignite declared that the company will be a […]
+
+
+
+Sri Kanagala                    
+
+
+Pharma IT Solutions, Power Automate, Robotic Process Automation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+May 14, 2019            
+
+Customer story: Lilly envisions a workplace where collaboration enables innovation                
+
+#Pharmaceutical company, Lilly, uses teamwork to discover new therapies and accelerate time to market. They use Microsoft 365 to track projects, communicate in real time, and foster innovations at scale.
+At i2e Consulting, we know the power of teamwork and tech to improve communication, increase productivity, and accelerate time to market. Contact us today to learn more about unlocking your business possibilities.
+
+
+
+Sri Kanagala                    
+
+
+Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31524
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

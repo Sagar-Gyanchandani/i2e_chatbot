@@ -1,0 +1,661 @@
+
+
+
+
+
+
+
+
+
+Blog - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Blog
+
+Home
+ Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 7, 2024            
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                  
+
+Generative AI (Artificial Intelligence) comes with a promise of offering unparalleled opportunities to life sciences organizations. Yet, the success of the journey grips on how data ready is your company for gen AI.  From improving drug discovery to enhancing trials and devising marketing strategies, there is a vast potential to take benefit from the use […]
+
+
+
+Krishna Kumar Bhavsar                    
+
+
+Artificial Intelligence 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+May 2, 2024            
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it                 
+
+Change management is a critical component for organizations and projects undergoing transformations be it process or technological. Not addressing changes can lead to disengagement, decreased productivity, wasted resources, ultimately leading to project delays. A well-structured change management plan enables organizations to navigate change smoothly, minimizing disruptions and increasing the likelihood of achieving desired outcomes.  In […]
+
+
+
+Himanshu Arora                    
+
+
+Planisware 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 10, 2024            
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                 
+
+On average, it takes over 10 years and costs upwards of $2.6 billion to get a new drug from initial discovery to approval by regulatory bodies like the FDA. Moreover, processes like clinical trials are long, complex, and expensive that pharmaceutical companies must undertake to test the safety and efficacy of new medical treatments.  A […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 1, 2024            
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                 
+
+Life sciences industry is experiencing its own gen AI revolution resulting in efficient clinical trials, accelerated dug discovery, quicker document summarizations, chatbots taking over repetitive manual tasks, and we are just getting started.  When used effectively, gen AI can assist in almost all the departments and stakeholders right from R&D to commercialization of a drug.  […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+March 19, 2024            
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                
+
+Effective resource allocation and management is a critical success factor for project portfolio management. Projects can only achieve their intended goals when the right resources with the necessary skills and experience are assigned to the appropriate work packages. However, this task is often fraught with challenges which can result in over or under allocations, delayed […]
+
+
+
+Himanshu Arora                    
+
+
+Project Management, Project Portfolio Management 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+March 8, 2024            
+
+Mastering Enterprise Project Portfolio Management: The Planisware Enterprise Advantage                 
+
+In the expansive landscape of Project and Portfolio Management (PPM), the choice of a robust tool can determine the trajectory of success for enterprises. Planisware, distinguished as a leader in the Gartner Magic Quadrant for Adaptive Project Management and Reporting Tools, stands out as a versatile solution designed to meet the diverse needs of organizations […]
+
+
+
+Nilesh Nimbhorkar                    
+
+
+Project Management, Project Portfolio Management 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+March 7, 2024            
+
+Why Planisware Orchestra is a one-stop solution for SMEs in Project Portfolio Management?                
+
+Effective project management is crucial for driving strategic success. However, navigating project portfolios can be challenging due to siloed data, fragmented collaboration, and outdated practices. Planisware Orchestra is a comprehensive PPM solution to streamline decision-making, foster collaboration, and ensure adoption of best practice project management practices across organizations.  This platform is equipped with modules for end-to-end […]
+
+
+
+Himanshu Arora                    
+
+
+Project Management, Project Portfolio Management 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 23, 2024            
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                 
+
+Commercial teams in the life sciences industry need to be agile to drive effective launches, digital Healthcare Practitioners (HCP) experiences, and drive innovation for new commercial models. Be it understanding HCPs preferences or running omnichannel campaigns across various geos, commercial teams need to lead with AI.  An effective way to achieve cross-functional collaboration without compromising […]
+
+
+
+Joel Dsouza                    
+
+
+Digital Transformation, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 19, 2024            
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                
+
+The sensitive nature of the data involved, and the complexity of operations in the life sciences sector makes governance and data security vital.  Moreover, to stay competitive in the face of growing competition, changing consumer needs and emerging markets, businesses must make their operations robust while adhering to the worldwide data-protection and privacy challenges in […]
+
+
+
+Sanjana Lagudu                    
+
+
+Digital Transformation, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 4, 2024            
+
+Pharma Industry Trends 2024: Harnessing the Power of Technology                 
+
+Introduction  As we anticipate the year ahead, several pharmaceutical industry trends are set to be redefined by the digital revolution. From data management and technological advancements in deriving insights to the integration of artificial intelligence (AI) and machine learning in healthcare and research, these advancements are poised to revolutionize the field.   The global pharmaceutical market […]
+
+
+
+Sri Kanagala                    
+
+
+Data Analytics 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+3
+…
+16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

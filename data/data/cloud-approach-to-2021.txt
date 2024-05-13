@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+
+Cloud approach to 2021 - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Cloud approach to 2021 - i2e Consulting                                
+
+January 8, 2021                                
+
+2020, forced enterprises around the world to enable their employees to work remotely, a mandate made easier with cloud-based systems. Thus, began the reorganization of digital transformation. Organizations embraced cloud for all types of workloads, mission critical legacy systems to cloud native apps. While moving to a cloud only infrastructure does provide agility and cost management, it does have its share of challenges in terms of complexity, performance, availability, security, and compliance. Moving applications, data and workloads is a complex undertaking and needs a well thought out plan, investments with proper considerations. if business leaders are pushing you for an ad-hoc public cloud strategy; you got no strategy at all.  
+Through this blog, we will discuss cloud trends that are predicted to hover the scene in 2021, which ones you should weigh, and things you should keep in mind while planning your cloud strategy. 
+Cloud trends 
+Hybrid and Multi-cloud approach: Public, private, hybrid or the multi-cloud. Which best suits your needs. This is not an easy question to answer, each have their advantages and disadvantages. An a-la-carte approach is gaining popularity. The crucial element here would be how service providers compile the user needs and cater to them. Cloud platforms like AWS, Azure, Google have a one-stop-shops approach that covers all your requirements for storage, data, or compute. However, the future is suggesting more of a multi-cloud or hybrid approach for various infrastructure needs. This approach breaks vendor lock-ins and offers customers the flexibility to share data and access with partners in their supply chain with diverse applications and data standards.  
+In the era of multi-cloud and hybrid, organizations need to carefully consider security. Centralized authentication, robust firewalls and DDos (Distributed-Denial of Service) protections, synchronized security protocols, and regular security training need to part of your strategy. 
+AI and cloud computing: AI is expected to improve efficiency and speed of cloud computing. Combining AI and cloud computing could result in significant cost saving and agility. At cloud level, AI tools can aide in data management thereby helping organization to be strategic and insight driven. You can initially start with automating workflows, and over time move to advanced analytical capabilities. AI tools in SaaS platforms are expected to deliver more value in the future. McKinsey estimates that the value creation by AI in cloud computing could be as high as 15.4$ trillion per year. 
+Data containers and Kubernetes: Data containers are a standard application development in the public cloud. With the rise of Kubernetes, extensive use of containers in seen in the private cloud as well. The IDC reposts besides Kubernetes, 95 per cent of more new-micro services will be deployed in containers by 2021. In addition, Gartner predicts organizations will use more than two centralized applications by 2023. This can only be achieved by work efficiency, quicker application development, automation in deployment, scaling and networking by orchestration tools in containers.  
+What drives value in cloud? 
+Many organization can successfully leverage cloud capabilities while the rest aren’t. Going against traditional approaches to try a new technology, using tools available to you, innovation that different service providers offer, and most importantly funding for new capabilities. It’s not just one thing, it’s a combination of all things that make a difference. You need to reimagine the way IT works; legacy tech debts need some serious reckoning. AI cannot add value to your cloud platform if you continue to go for easy solutions instead of better approach.  
+Approach to cloud adoption 
+Assess your organizational landscape: Do you have a cloud strategy? Are you training your workforce for disruptions? Where do you stand in terms of platforms, applications, and human capital—and how that maps to your end goal? Look at priority and concern areas: Divide your concerns into various priority segments. Important, not important, urgent, etc. Address your primary concerns. Give considerable amount of time while exploring your issues, this will help curve a clear roadmap. Take partner help: If you’re unsure, it’s always a good idea to approach a technology partner. They can help you with strategy, design, technology rollout and maintenance.  Resources: Talented, super smart people who can get the work done for you are had to come by or are expensive to hire. Plan how to wish to proceed. Either you could go for a resourcing solution or train them internally, so they are ready in the next 5 years. One positive to COVID-19, it will be easier to employ and manage resources remotely. 
+Wrapping it up, the digital transformation wave will continue in a post-pandemic world, as more companies will continue to hop on the wagon. Although public cloud adoption is seeing a rise, the hybrid will remain popular. Whether or not we get one big cloud with multi-cloud is still up for debate. A crucial factor in all this is how well-prepared are you for digital transformation? What’s your IT bandwidth and overall reliance on legacy systems? How far are you willing to go to remain relevant in an ever-cyber-centric world.  
+
+
+Tags: cloud migration, cloud migration in pharmaceuticals, Cloud Services, Cloud Technology 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Digital Journey of SMBs in India and Cloud Adoption                                    
+
+
+
+
+
+
+
+
+What are the Essential Practices of DevOps and How AWS Supports Them?                                    
+
+
+
+
+
+
+
+
+8 ways AWS Redshift is optimizing Business Intelligence in the Healthcare and Life Science industry                                    
+
+
+
+
+
+
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                                      
+
+
+
+
+
+
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it                                     
+
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

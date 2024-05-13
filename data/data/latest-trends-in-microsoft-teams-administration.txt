@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+Latest trends in Microsoft Teams administration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Latest trends in Microsoft Teams administration                                
+
+February 17, 2020                                
+
+There has been a lot of new security and compliance features being rolled out in Microsoft Teams administration. It’s important to customize the setting to meet your organization’s security and compliance standards. Microsoft Teams admin center provides multiple options to manage teams, customize message setting at team or org level. Most of these features need to be configured by the Teams administrator. Is your company using them? If not, this blog will be more of an update/tutorial for you.
+Get ready for private channels
+This is perhaps the most anticipated feature within Teams, the ability to add a private channel within Teams. This is especially useful to create a focused collaboration within a team. Only the users on the team who are owners or members of the private channel can access the channel. Anyone, including guests, can be added as a member of a private channel if they are already members of the team. The private channel is indicated by a pad lock icon nest to it and is not visible to non-members. Please note, to use this feature you must enable create private channels within Teams Policy in Teams Admin center. 
+To add a private channel, go to team More options  > Add channel
+Add a channel name and description. In the privacy drop-down select Private and click Next
+Once done, you can start adding a member to the private channel.
+
+Here’s how a private channel looks with the pad lock icon by its side.
+
+Block Confidential information sharing over chat
+
+Chat is a very familiar easy-going communication medium, but it is always safe to have certain limitations to the things we send over chats. Things like financial information, Social security numbers are best not shared over chat. However, we often tend to ignore these things. To keep things simple Teams recently introduced a security feature wherein you could automatically block certain information (subject to pre-defined conditions) from the Microsoft 365 compliance center. As shown in the figure below you can see the setting where we block any financial information like credit card number, bank account etc.  
+
+Now, if during a chat someone shares an SSN then the message
+will be blocked. Here is how it will look on the sender’s end.
+The supposed receiver is also sent an indicative message about the blocked message. The message on the other end does indicate that some sensitive information is being sent and the servers have blocked it. 
+
+Information Barriers 
+ Sometimes it is important to keep information secret from certain segments within the organization for reasons such as ethics, compliance, industry standards or regulations. 
+
+ Information barriers (IB) are policies that an admin can configure to prevent individuals or groups from communicating with each other.  This policy prevents unauthorized communication like user search, adding members to teams, having call, chat, or screen sharing. 
+ This can be activated using PowerShell as shown in the below image. This is an example of a banking system where the financial advisor’s team is separated from the mergers and acquisition team. 
+Hello read receipts
+Finally, a fun feature where you’ll get a Seen confirmation to the right of the message. By default, this is enabled within team setting. You can also disable it in the privacy setting, depending on whether your admin decides to have this feature and the ability to turn it off. Turn on or turn off read receipts
+To see or change this option, click your profile pic at the top of Teams, and then select Settings > Privacy. From there, turn on or off Read receipts.
+
+Similarly, you see who’s read your message in a group chat. Go to the message, select More options  > Read by.
+
+Teams provide users with tools they need to be more effective. These new Microsoft Teams security and compliance features will help you meet organizational standards.  Stay in control and manage teams more granularly. 
+
+
+Tags: Microsoft Teams, Microsoft Teams Administration, SharePoint and Teams Collaboration, Teams Administration 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+SharePoint and Teams in Modern Workplace Collaboration                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Integrating Power BI to SharePoint                                    
+
+
+
+
+
+
+
+
+Building Modern Workplaces with Microsoft 365                                    
+
+
+
+
+
+
+
+
+Top 4 cloud migration benefits and infrastructure services                                    
+
+
+
+
+
+
+
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

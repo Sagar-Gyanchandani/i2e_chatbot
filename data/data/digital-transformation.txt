@@ -1,0 +1,761 @@
+
+
+
+
+
+
+
+
+
+Digital Transformation Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Category: Digital Transformation
+
+Home
+ Category: Digital Transformation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 10, 2024            
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                 
+
+On average, it takes over 10 years and costs upwards of $2.6 billion to get a new drug from initial discovery to approval by regulatory bodies like the FDA. Moreover, processes like clinical trials are long, complex, and expensive that pharmaceutical companies must undertake to test the safety and efficacy of new medical treatments.  A […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 1, 2024            
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                 
+
+Life sciences industry is experiencing its own gen AI revolution resulting in efficient clinical trials, accelerated dug discovery, quicker document summarizations, chatbots taking over repetitive manual tasks, and we are just getting started.  When used effectively, gen AI can assist in almost all the departments and stakeholders right from R&D to commercialization of a drug.  […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 23, 2024            
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                 
+
+Commercial teams in the life sciences industry need to be agile to drive effective launches, digital Healthcare Practitioners (HCP) experiences, and drive innovation for new commercial models. Be it understanding HCPs preferences or running omnichannel campaigns across various geos, commercial teams need to lead with AI.  An effective way to achieve cross-functional collaboration without compromising […]
+
+
+
+Joel Dsouza                    
+
+
+Digital Transformation, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 19, 2024            
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                
+
+The sensitive nature of the data involved, and the complexity of operations in the life sciences sector makes governance and data security vital.  Moreover, to stay competitive in the face of growing competition, changing consumer needs and emerging markets, businesses must make their operations robust while adhering to the worldwide data-protection and privacy challenges in […]
+
+
+
+Sanjana Lagudu                    
+
+
+Digital Transformation, SharePoint 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 4, 2022            
+
+Benefits of Embedded Analytics for the Life Sciences Industry                
+
+Analytics always played a pivotal role in the life sciences industry. Owing to the dynamic and complex nature of drug development and marketing, pharma decision-makers rely heavily on data to decide on the future course of action.  According to a Worldwide Health Industry 2020 predictions report, the next decade will be defined by healthcare data […]
+
+
+
+Sanjana Lagudu                    
+
+
+Data Analytics, Data Visualization, Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+December 7, 2021            
+
+Digital Journey of SMBs in India and Cloud Adoption                
+
+SMBs is the engine that drives the Indian Economy. It shares 34% of the GDP in FY-19 and employed 110 million people, ranking second after agriculture. It was evident that the CoVID-19 pandemic has hurt this sector the most, crippling the economy itself. However, according to a NASSCOM report, SMBs with an online presence are more resilient and have greater revenue growth potential.  The pandemic has induced a digital transformation among businesses. There has been a […]
+
+
+
+Sri Kanagala                    
+
+
+Cloud, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 27, 2021            
+
+Is There a Need for Digital Innovation for SMB Pharma?                
+
+In recent years, the pharma industry has witnessed a noticeable rise in the number of small and medium-sized pharma companies (SMBs) in drug development. However, many SMBs face operational issues and competitive pressures which are major roadblocks to showcasing their full potential.  Digitalization innovation in SMB pharma could be the answer to some of these issues, as it can help SMBs to achieve not only operational efficiencies but also assist in making informed decisions, better data management, and cost-cutting.   In this blog, we will tell you about the various areas where digital […]
+
+
+
+Sri Kanagala                    
+
+
+Data Visualization, Digital Transformation, IT Managed Services, Office 365, Pharma IT Solutions, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 13, 2020            
+
+All That You Need To Know About Data Lake And Data Warehousing                
+
+Do you know that more than 2.5 quintillion bytes of data are being generated every single day? With the advancement of technology, the rapid increase of social media use, advanced networks, and communication, we are incredibly fueling data creation. There are over 40,000 Google searches every second. Each minute Instagram is sharing 46,500 photos, while […]
+
+
+
+Aman Singh                    
+
+
+Big Data, Data Visualization, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 7, 2020            
+
+Unlocking the Potential of Data Lakes in the Life Sciences Industry                
+
+Data is the new currency in the healthcare and life sciences industry. A huge amount of data is being generated in this industry every day. Each year the volume of data being generated increases at over 45% and would amount to 2314 exabytes of data (1 exabyte = 1 billion gigabytes) by 2020.[1] How to […]
+
+
+
+Aman Singh                    
+
+
+Big Data, Data Visualization, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 2, 2020            
+
+Analytics for Resourcing Decision Making.                
+
+R&D funds in pharmaceuticals are scares, it is important that they be allocated wisely. Companies often find it difficult to decide on which resources to pursue or, at times even more significant which resources to retire or discontinue.   Are you making these common mistakes?  Guesstimates: Your next project or project phase is about to start, you hold a team meeting, and based […]
+
+
+
+Darshana Barthakur                    
+
+
+Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24356
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

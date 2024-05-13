@@ -1,0 +1,517 @@
+
+
+
+
+
+
+
+
+
+Microsoft Project for the Web | Project Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Microsoft Project for the Web | Project Web                                
+
+February 4, 2020                                
+
+Project for the web, formerly known as Project service, is Microsoft’s most recent offering for cloud-based work and project management. Project for the web provides simple, powerful work management capabilities and can be used by project managers and team members to plan and manage work of any size. 
+“The  new Project is designed to be both simple and powerful, so anyone can  get started quickly and take control of any project right away.” 
+View makes a difference 
+Project offers a fresh new user experience in views. When you start at project home, you have a grid view, the idea is to come in build out these project schedules, include dependencies, update status and assign users tasks, etc. Apart from this, we have two different views, the Board and the Timeline views. The Board view gives you a card-based view of the tasks just like in Planner. If you follow an agile approach to project management, you should use a Board view.  Next, we have is the Timeline view which displays as the name suggests tasks in a timeline; however, it does not just display the tasks it allows you to work with it. You can include dependencies with drag and drop connectors, extend timeline etc. The timeline view works best with the waterfall model. Choose what’s best suits you.  
+https://techcommunity.microsoft.com/t5/project-blog/announcing-project-roadmaps/ba-p/268466
+Roadmaps 
+Roadmap is a visually exciting way to combine information from multiple  Waterfall and Agile projects and share it with co-workers. Best suited for portfolio directors who would love to visually and interactive way to view project status across a program or portfolio.  Building roadmaps in Project is very simple with the intuitive UI, add rows, connect projects, choose tasks milestones, features or initiative and you are done.  
+https://techcommunity.microsoft.com/t5/project-blog/announcing-project-roadmaps/ba-p/268466
+Collaboration within Teams 
+Project is part of the Microsoft 365 family; it works cohesively with Microsoft Teams. You can add Project for the web in a Teams tab with its full fidelity, no need to switch between apps. To help teams stay on track, Project also offers an automated scheduling engine based on effort, duration, and resources. Save time, collaborate more no matter where you are.  
+https://techcommunity.microsoft.com/t5/project-blog/announcing-project-roadmaps/ba-p/268466
+Insights are all we need 
+The new Project provides greater insights across all the projects. You can create stunning interactive dashboards in Power BI to visualize every aspect of each project at a glance.
+“The Microsoft Project is changing, and the future of Project is here.“
+Connectivity makes things easy 
+Everything on Microsoft Cloud is based on what we call as the Common Data Service (CDS) for Apps. This gives one secure common repository and one common source of all Microsoft data. Now Microsoft project for the web is included into the project component of CDS for apps. This means we can easily build custom apps that include information of Project, Power BI, Dynamics etc. The platform, or the group or the way we can include people will help work in a more connected basis.  
+
+Project bridges the gap between Planner and Project Professional 
+Up until the introduction of project for the web to the Microsoft project product family, we had basic work management addressed through Office 365 Planner. People could do simple task management but not a lot of things project management folks would do. To get into full project management, dependencies, schedule algorithms and other things they required a Project Professional subscription plan. With this new offering that is, Project for web, the occasional or accidental project manager or anybody who is not trained to be a project manager, can go in and do simple tasks, plan schedules and be able to use an intuitive interface that feeds into overall project and work management process. Project for the web gives the right tools in the right hands to get things done. 
+
+In conclusion, Project for the web, formerly known as Project service, is Microsoft’s most recent offering for cloud-based work and project management. Project provides straightforward, powerful work management capabilities that  are simple yet powerful. It can be used by both team members and project managers alike for the management of work. Project may be limited for resource management, program or portfolio management; however, it offers the perfect “grow-up” tool for individuals and teams using Planner who find they need things like a grid view, dependencies, scheduling, and a  timeline view.   
+
+
+Tags: Common data service, microsoft cloud, microsoft project for the web, project for the web, project for web, Project Management, Project online 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                                    
+
+
+
+
+
+
+
+
+Mastering Enterprise Project Portfolio Management: The Planisware Enterprise Advantage                                     
+
+
+
+
+
+
+
+
+Why Planisware Orchestra is a one-stop solution for SMEs in Project Portfolio Management?                                    
+
+
+
+
+
+
+
+
+Organizing data for Portfolio Decision Making                                    
+
+
+
+
+
+
+
+
+Why You Should Use PPM (Project Portfolio Management) Software for Project Collaboration                                    
+
+
+
+
+
+
+
+
+Resource Management Made Easy with Microsoft Project Online                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Planisware Orchestra and its role in New Product Development (NPD), from Strategy to execution                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

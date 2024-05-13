@@ -1,0 +1,705 @@
+
+
+
+
+
+
+
+
+
+5 Pharma Resourcing Challenges and How Insights and Dashboards Can Solve Them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+5 Pharma Resourcing Challenges and How Insights and Dashboards Can Solve Them.                                
+
+July 22, 2022                                
+
+
+Pharma resource management can be difficult owing to the long duration of projects and strict compliance requirements. One needs extensive information to not only make the right decisions but also anticipate resourcing bottlenecks beforehand. 
+
+
+For example, poor capacity planning and unrealistic project schedules can lead to under or over-utilization of resources. To overcome such challenges, pharma and biotechnology companies need insights and dashboards which can show them the present scenarios and project future numbers. 
+
+
+This blog will tell you how insights and dashboards can give answers to 5 resource management challenges. 
+
+
+
+Resource forecasting 
+
+
+
+Pharmaceutical R&D involves large uncertainties, so it is critical for companies to keep multiple drugs in the pipeline, which means the company’s resource capacity should be planned to accommodate multiple projects. With hundreds of resources spread globally, and multiple projects in the pipeline, it becomes imperative to not only know the present resource capacity, but also project numbers for the coming months. 
+
+
+If the manager has access to insights of the present and forecasted data, then decision-making can be accurate. These insights will also give an overall picture of the capacity Vs. Utilization and projecting them onto a dashboard gives visual representation making it easier to understand as well as present it to the top management. 
+
+
+
+Accessing resource risks 
+
+
+
+Many pharma and biotech companies prioritize assessing risks related to process, technology, or events; however, resourcing risks should also be considered as any unforeseen events can disrupt process, and technology. For example, if a critical resource steps down from the project at a critical stage, the resourcing manager should be prepared with a contingency plan. 
+
+
+Resourcing insights can help the management foresee any resourcing bottlenecks and prepare a plan to combat them. A projected dashboard can also show the extent of impact when a crucial resource might step down, making it simple for the resource manager to prioritize while allocating resources. 
+
+
+
+Skill management 
+
+
+
+Allocating the right skilled resources to the right job is of utmost importance in pharma resource planning. A project manager can allocate resources based on their skills if they can have a single source of truth for skills, patents, and compliance information for all the resources in an organization. 
+
+
+These insights will also help compare skill vs utilization allocation to understand which skills are required and which skills are under-allocated. This information can come in handy while making hiring decisions. 
+
+
+
+Optimal usage of resources 
+
+
+
+ A resource manager should have visibility into the workload of each resource and be able to identify any under or overutilization and allocation. Having this visibility helps the resource manager make an informed decision for resource allocation. 
+
+
+The resource manager can also project the utilization of a key resource to plan the future utilization of that resource. What more? You can also build a resource utilization dashboard to give the top management a bird’s eye view of the resource management.  
+
+
+Sometimes in a project, the allocated resources are not optimized. This could be because they are working on low-priority projects, or they are not assigned challenging resources according to their skill sets. A project manager needs to be aware of such developments during the project to take the appropriate action.  
+
+
+Insights and dashboards can help the project manager spot such anomalies. For example, if the reported time and percentage of task completed is compared, then it will give any discrepancies if any.  
+
+
+
+Consistently assigning resources 
+
+
+
+The resource manager must decide on the resource pool by analyzing incoming demands, understanding priorities, and considering the organization’s goals.  
+
+
+It is also important to have a holistic view of incoming demand and available resource capacity according to matching skills and roles. Here also, insights play an important role in providing the crucial information needed to make informed decisions. A comprehensive dashboard can provide a holistic view of all the projects, their utilizations, demands, allocations, and much more. Such information can help make accurate decisions. 
+
+
+Almost all pharmaceutical and biotech companies have the necessary data, but the key is to make good use of this data to make informed decisions. Modern PPM solutions have the capability to capture crucial project data; however, you would need to perform data engineering and data visualization to get accurate insights and dashboards. 
+
+
+i2e Consulting has 13+ years of experience in helping global pharmaceutical companies to access insights and prepare dashboards according to their business needs. Keeping in mind the unique requirements of the pharma and biotech industries, i2e Optima, a resourcing solution can take care of data engineering and visualization of your data. 
+
+
+Interested to know more about i2e Optima? Fill in the following form to get in touch with our experts. 
+
+ 
+
+Tags: Resource Management in Project Online, Resource Management Solution, Resourcing Decision Making pharmaceuticals 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them                                    
+
+
+
+
+
+
+
+
+Mastering Enterprise Project Portfolio Management: The Planisware Enterprise Advantage                                     
+
+
+
+
+
+
+
+
+Why Planisware Orchestra is a one-stop solution for SMEs in Project Portfolio Management?                                    
+
+
+
+
+
+
+
+
+Executive Dashboards for Pharmaceutical Companies                                    
+
+
+
+
+
+
+
+
+How Executive Dashboards Drive Strategic Decision Making in Pharma Portfolio Management                                    
+
+
+
+
+
+
+
+
+Organizing data for Portfolio Decision Making                                    
+
+
+
+
+
+
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                                      
+
+
+
+
+
+
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it                                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Peter Green
+
+
+VP Analytics
+
+
+
+ 
+
+
+
+
+
+Peter has 18 years of experience in pharmaceutical data and analytics,
+specifically
+in R&D project and portfolio management. Ask Peter about digital data analytics strategies
+and
+technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+James Jacob Kurian
+
+
+Lead Analytics
+
+
+
+ 
+
+
+
+
+
+When data and analytics are in question, then James is our go to guy. He focuses
+on
+emerging technologies like Blockchain, Conversational AI, and Extended Reality (XR). James is an
+expert in data visualization, especially dashboards.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Name *
+
+
+
+Last Name *
+
+
+
+Work Email *
+
+
+
+Phone *
+
+
+
+Message
+
+
+
+
+
+
+
+
+
+Send Message
+
+
+77263Δ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

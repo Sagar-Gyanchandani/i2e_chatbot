@@ -1,0 +1,615 @@
+
+
+
+
+
+
+
+
+
+Artificial Intelligence Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Category: Artificial Intelligence
+
+Home
+ Category: Artificial Intelligence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+May 7, 2024            
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                  
+
+Generative AI (Artificial Intelligence) comes with a promise of offering unparalleled opportunities to life sciences organizations. Yet, the success of the journey grips on how data ready is your company for gen AI.  From improving drug discovery to enhancing trials and devising marketing strategies, there is a vast potential to take benefit from the use […]
+
+
+
+Krishna Kumar Bhavsar                    
+
+
+Artificial Intelligence 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 10, 2024            
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                 
+
+On average, it takes over 10 years and costs upwards of $2.6 billion to get a new drug from initial discovery to approval by regulatory bodies like the FDA. Moreover, processes like clinical trials are long, complex, and expensive that pharmaceutical companies must undertake to test the safety and efficacy of new medical treatments.  A […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation, Uncategorized 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+April 1, 2024            
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                 
+
+Life sciences industry is experiencing its own gen AI revolution resulting in efficient clinical trials, accelerated dug discovery, quicker document summarizations, chatbots taking over repetitive manual tasks, and we are just getting started.  When used effectively, gen AI can assist in almost all the departments and stakeholders right from R&D to commercialization of a drug.  […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence, Digital Transformation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+May 24, 2023            
+
+Why Analytics-as-a-Service is a Game-Changer for the Life Sciences Companies                
+
+Life sciences companies are under increasing pressure to develop new drugs and therapies, optimize their operations, and remain competitive in a rapidly evolving market. An effective way to achieve this is by utilizing the enormous amount of data to extract valuable insights which can fuel data backed decisions.  Adopting analytics and staying updated with the […]
+
+
+
+Sanjana Lagudu                    
+
+
+Artificial Intelligence 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+March 2, 2023            
+
+Exploring the Opportunities and Challenges of AI in Life Sciences                
+
+AI (Artificial Intelligence) is no longer a theory in our textbooks, it is now involved in our day-to-day lives. Health care companies also started to adopt AI as it is quick to analyze data and perform activities which otherwise took days to complete. The explosion of data in healthcare data and the need to make […]
+
+
+
+Sri Kanagala                    
+
+
+Artificial Intelligence 
+
+1 Comment                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6427
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+AI and ML saves time and increases the success rates of clinical trial protocols - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CASE STUDY
+
+
+
+A global pharma company saves time and improves the success of clinical trial protocols using AI and ML
+
+
+ 
+
+
+Business Case
+
+A global pharmaceutical company clinical trials department was putting in a lot of manual effort in monitoring significant quality events (SQEs’). These are the events that may occur during the trial which impact the study or push the timelines of the entire trial. The subject matter experts (SMEs’) had to manually access the database and study the entire clinical trials records to identify details of an SQE event. The raw information was lengthy which made the whole process tedious and time-consuming.
+
+
+The SMEs were also not able to get any insights to understand the reason, trends and patterns from the historical SQE data. The client approached i2e to reduce the manual effort in monitoring SQEs and design an analytics system for the SQE data. They even wanted an algorithm to identify protocols at risk.
+  Challenges
+
+The data was stored in various tables, collecting it for AI work was challenging
+
+
+Cleaning the massive clinical trials data to fit the summary structure provided by the SMEs
+Training various Machine Learning models to find the optimum one
+
+ Results
+
+
+
+
+ Benefits
+
+SMEs are able to understand SQEs quickly and easily
+
+
+Manual effort in reading the chunk of clinical trials data is eliminated
+
+
+The Clinical trials team is able to get insights from the historical data of SQEs
+Predictive analytics reduced the number of retraining sessions 
+
+ML predictions helped improve the success rate of protocol design saving time and cost.
+
+
+
+ Resolution
+Our team understood the client’s requirements and divided the project into three phases, solving one problem in each phase.
+
+
+The team tackled the manual work challenge by setting up an automated email notification system. This will automatically shoot emails to the SMEs about an SQE event. The email also had a summary table containing site information such as what happened, what needs to be done, and the event’s effect on the study- all the information populated from the raw clinical data. 
+To help the SMEs skip the tedious process of going through the huge chunk of data, the team loaded a list of keywords on SharePoint and highlighted them if present in the event summary within the email. 
+
+Our team set up a system to analyze and find trends and patterns within the data to understand the reason behind the occurrence of various SQEs’.
+The team also built a predictive analytics dashboard which helped the client to identify the sites and protocols where SQEs occurred previously. The information helped in streamlining the training sessions for the clinical site team. This not only reduced the recurrence of SQEs, but also reduced the number of retraining sessions taken per month. 
+
+The team built an ML algorithm to predict the probability of SQEs occurring in a new or existing protocol design. If the probability is yes, then the algorithm is also trained to search historical data and present previously occurred SQEs for similar protocol. This- helped the clinical trials team to increase the success rate of the protocol designs. 
+ 
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

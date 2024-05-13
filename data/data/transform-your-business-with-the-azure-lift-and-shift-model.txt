@@ -1,0 +1,508 @@
+
+
+
+
+
+
+
+
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Transform Your Business With The Azure ‘Lift And Shift’ Model                                
+
+April 21, 2020                                
+
+Migrating to the cloud platform is no longer an option; it has become a  necessity. More and more organizations and companies are migrating to cloud-based, pay as you go model to increase scalability and agility.  Cloud-based services completely transform the IT environment of an organization. Today cloud services are not limited to the traditional compute, network, and storage services. Instead, they include security,  automation, artificial intelligence, machine learning, virtual, and augmented reality. 
+One of the sectors which have been a tad bit slow in adopting the cloud model is the pharma industry. But lately, we are witnessing a shift in the gears as we see more and more pharma companies realize the benefits of cloud services. This industry involves a lot of data and complexities associated with it. Keeping limitations of the existing on-premise services in mind,  pharma companies are shifting to the cloud-based model. There are different cloud migration models. The easiest and safest model being the  Lift and Shift approach.  
+Lift and Shift Migration 
+It is the easiest migration model. Another name for this model is  ‘rehosting‘, as the migration involves no change with the application architecture and minimal changes to the application code. It is merely lifting your application from the on-premise system and transferring it to the cloud systems. No doubt, lift and shift services like Azure migration services offer multiple benefits – 
+No changes to your application code or architecture There is no disruption of service during the migration Simple security and compliance management systems It is the fastest and the most cost-effective solution No change in the existing business processes (AS-IS processes) after cloud migration 
+Now that you have realized the simplicity and benefits of this migration model let us understand the planning and execution part. 
+Planning & Execution 
+The planning process involves three essential steps 
+To gain the maximum benefits of cloud migration, you need to relate it to your business success. Identify the applications which need innovation,  critical business drivers, and growth opportunities. At the same time,  understand the competitive landscape and then determine which applications need cloud migration. You have to create the best application architecture for you. Pharma companies would prefer to keep vital customer data on a virtual private cloud while regulated data on a public cloud. Define a roadmap for the cloud transformation journey. It would ensure that there is no or minimal disruption of business during the cloud migration process. 
+Finally,  before you execute the lift and shift method, there are certain things to be kept in mind to ensure a smooth and successful migration. 
+Determine the application that you want to migrate to the cloud model.  Accordingly, you need to set access levels and data access roles. Carefully configure the interface connections to ensure there is no disruption in operations. In case of migration of multiple applications, you can opt for a batch model where an automatic runbook would take care of the migration one by one. Ensure that all the security and data compliances are in place. Though there is no change in this migration yet, you must test them before you go live on the cloud. Keep adding or reducing the computing power and storage capacity as per your need. 
+Cloud migration is the need of the hour in the pharma industry. The most important part of this journey is the migration model. The Lift and Shift model is not only fast and easy but also simple and effective.  At the same time, you must use the right tools for cloud migration. If you are considering a cloud migration, then check out the Azure Lift and Shift model today. 
+
+
+Tags: azure cloud migration, azure cloud migration benefits, azure lift and shift migration, azure lift and shift migration in pharma, benefit of cloud migration, cloud migration, cloud migration in pharmaceuticals, lift and shift migration 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Building Modern Workplaces with Microsoft 365                                    
+
+
+
+
+
+
+
+
+Top 4 cloud migration benefits and infrastructure services                                    
+
+
+
+
+
+
+
+
+Application Migration and Modernization with Azure                                    
+
+
+
+
+
+
+
+
+Modernize your infrastructure and future-proof  your technology                                    
+
+
+
+
+
+
+
+
+Latest trends in Microsoft Teams administration                                    
+
+
+
+
+
+
+
+
+Microsoft Project for the Web is here!                                    
+
+
+
+
+
+
+
+
+How to collaborate better with Microsoft Teams and SharePoint?                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

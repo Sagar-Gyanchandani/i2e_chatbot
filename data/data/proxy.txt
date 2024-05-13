@@ -1,0 +1,54 @@
+
+
+
+
+Usage Statistics and Market Share of Reverse Proxy Services for Websites, May 2024
+
+
+
+
+
+
+
+
+
+
+
+
+advertise here
+provided byQ-Success
+
+
+Home
+Technologies
+Reports
+API
+Sites
+Quality
+Users
+Blog
+Forum
+FAQ
+Search
+Featured products and servicesadvertise here
+Technologies
+Content ManagementServer-side LanguagesClient-side LanguagesJavaScript LibrariesCSS FrameworksWeb ServersWeb PanelsOperating SystemsWeb HostingData CentersReverse ProxiesDNS ServersEmail ServersSSL Certificate AuthoritiesContent DeliveryTraffic Analysis ToolsAdvertising NetworksTag ManagersSocial WidgetsSite ElementsStructured DataMarkup LanguagesCharacter EncodingsImage File FormatsTop Level DomainsServer LocationsContent LanguagesTrendsUsage HistoryMarket Share HistoryMarketTop Site UsageMarket PositionPerformancePage SpeedBreakdownRankingContent ManagementServer-side LanguagesClient-side LanguagesJavaScript LibrariesCSS FrameworksWeb ServersWeb PanelsOperating SystemsWeb HostingData CentersDNS ServersEmail ServersSSL Certificate AuthoritiesContent DeliveryTraffic Analysis ToolsAdvertising NetworksTag ManagersSocial WidgetsSite ElementsStructured DataMarkup LanguagesCharacter EncodingsImage File FormatsTop Level DomainsServer LocationsContent Languagessee FAQ for explanationson advanced reportsTechnologies > Reverse ProxiesUsage statistics and market shares of reverse proxy servicesRequest an extensive reverse proxy services market report.Learn moreThis diagram shows the percentages of websites using various reverse proxy services. See technologies overview for explanations on the methodologies used in the surveys. Our reports are updated daily.How to read the diagram:76.2% of the websites use none of the reverse proxy services that we monitor.Cloudflare is used by 19.1% of all the websites, that is a reverse proxy service market share of 80.3%.None76.2%Cloudflare19.1%80.3%Amazon CloudFront1.5%6.5%Akamai1.0%4.3%Fastly1.0%4.1%Sucuri0.4%1.8%DDoS-Guard0.4%1.6%Imperva0.2%0.8%Ezoic0.1%0.6%ArvanCloud0.1%0.3%QUIC.cloudless than 0.1%0.2%GoCacheless than 0.1%0.2%Varitiless than 0.1%0.2%Qratorless than 0.1%0.2%Webscale CloudFlowless than 0.1%0.1%Bunny CDNless than 0.1%0.1%Edgioless than 0.1%0.1%Wangsuless than 0.1%0.1%W3Techs.com, 9 May 2024absolute usage percentagemarket sharePercentages of websites using various reverse proxy servicesNote: a website may use more than one reverse proxy serviceThe following reverse proxy services have a market share of less than 0.1%RadwareStackPathDOSarrestBelugaCDNLink11Tata CommunicationsYottaaMedianovaCacheFlyIs there a technology missing?Registered users can make a proposal to add a technology.Do you want to stay informed about this survey?Use our monthly technology survey  RSS Feed.Registered users can also subscribe to a monthly technology survey email.Share this pageTechnology BriefReverse Proxy ServicesA reverse proxy service is an intermediary for a website which handles request from web clients on behalf of the website's server. Common uses for reverse proxies are content delivery networks (CDNs, typically located in different geographical regions) and DDoS (distributed denial of service) protection services.Reverse proxy information is partly based on data provided by ipinfo.io.Latest related posting  read allWeb Technologies of the Year 20232 January 2024We compiled the list of web technologies that saw the largest increase in usage in 2023.
+» moreLatest related forum entry  read allTechnology proposal: QUIC.cloud CDN3 May 2022» moreadvertise here
+
+About Us
+Disclaimer
+Terms of Use
+Privacy Policy
+Advertising
+Contact
+
+
+W3Techs on  
+ LinkedIn
+ Twitter
+ Mastodon
+ Bluesky
+
+
+Copyright © 2009-2024 Q-Success
+

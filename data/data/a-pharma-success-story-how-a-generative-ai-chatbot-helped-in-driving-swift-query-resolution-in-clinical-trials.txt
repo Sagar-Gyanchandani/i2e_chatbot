@@ -1,0 +1,538 @@
+
+
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                 
+
+April 10, 2024                                
+
+On average, it takes over 10 years and costs upwards of $2.6 billion to get a new drug from initial discovery to approval by regulatory bodies like the FDA. Moreover, processes like clinical trials are long, complex, and expensive that pharmaceutical companies must undertake to test the safety and efficacy of new medical treatments. 
+A major factor behind these daunting timelines and costs is the organizational challenge of coordinating and managing thousands of human participants across multiple research sites during trials that can last months or years. Manual and repetitive administrative/training tasks become immensely tedious to cope with. This inevitably leads to inefficiencies that inflate costs and delay results. 
+Let us bring you a real-time example of how a pharma company embraced the power of generative AI to streamline their clinical trial operations. 
+With over 500 active clinical studies spread across the country, the Research Pharmacists (RPs) were spending at least 50% of their time handling queries from the study teams. Most of these queries were repetitive and hindered the RPs productivity in the other crucial areas of the study. 
+The project leader opted to re-engineer the clinical trial operations by including robotic process automation, and bots to not only make the process efficient, but also bridge the knowledge gaps between the study team training and patient enrollment. Administrative tasks which were repetitive and taking up a lot of time were identified and were first in line to either get automated or handed over to a bot. 
+Initially, the bot was challenged by the RPs on how it could effectively answer the study team’s questions. Also, they were skeptical regarding the process of redirecting any out-of-the-manual queries or escalations which required immediate attention. 
+Generative AI Bot Intervention in Clinical Trial Operations 
+Interactions between study teams and research pharmacists are a crucial aspect of ensuring the smooth progress of trials. Study teams and RPs often establish clear communication channels early in the trial. They mutually exchange information which includes details such as the drug’s mechanism of action, formulation, dosage, administration protocols, and any unique considerations. The study team may enquire about proper storage, preparation, dispensing if methods are unclear, appropriate documentation practices. 
+
+
+With handling over 500 clinical sites, the RPs were constantly getting tons of questions from different study teams. Though most of these questions were repetitive, timely responses were required for the smooth functioning of the clinical trial process. i2e Consulting was engaged to design a solution using which repetitive queries could be answered on behalf of the RPs. The Pharma client also wanted the solution to be capable of redirecting escalations and out-of-the-manual questions to the respective RP for immediate attention. 
+Implementing the Gen AI Chatbot: Challenges & Accomplishments 
+There were two challenges in front of team i2e,  
+(1) to identify the repetitive questions directed towards the RPs, and  
+(2) to design a process to handle any out-of-the-manual queries. 
+Team i2e developed an advanced chatbot leveraging Amazon SageMaker’s generative AI capabilities along with a wrapper around Kore.ai to build a user friendly chatbot interface capable of answering queries pertaining to Investigational Product (IP). 
+Utilizing sophisticated prompt engineering capabilities resulted in enhanced performance and efficiency in delivering precise responses. The backend web platform was built to store and process the vast IP manual documents and direct user’s inputs to relevant responses and escalations. The team also built a notification system which triggers emails to the CRPs in case of out-of-the-manual questions or escalations. 
+
+
+
+
+
+
+
+Result? A significant reduction in repetitive queries, and 2X expedited query response, most importantly, the CRPs were able to invest their time in other crucial areas of the clinical trials, and the study team was able to clear off their questions instantly which contributed to the smooth progression of the clinical trial.  
+The gen AI chatbot was a critical piece of the puzzle the client was trying to solve. The Clinical Research Coordinator wanted to plug the knowledge gaps resulting in repetitive questions directed towards the RPs. With the chatbot recording the questions and their answers, it became a central repository to identify knowledge gaps and bring about changes in the IP manual and the training modules. 
+Expanding the Chatbot Footprint 
+After successful implementation in two therapeutic areas, the project leader then expanded the chatbot to clinical trials in other areas. The solution designed was easy-to-deploy and had the scalability to include more clinical trials teams, and still delivered a similar output. 
+The Future of Generative AI in Clinical Trails 
+The possibilities of AI and ML do not end with chatbots, it can be extended to monitoring patient health. Herer are a few areas where AI can increase precision and productivity in clinical trials. 
+
+Monitoring patient health and compliance 
+
+Keeping human trial participants closely engaged and supported is crucial for productive trials. However, regular check-ins and counseling on a global scale has traditionally strained staff bandwidth. AI chatbots present a scalable solution, acting as always-available virtual health assistants. 
+Integrating seamlessly into messaging apps people already use daily, bots can automatically check symptoms, deliver health information, manage medication intake alerts, collect progress self-reports, offer motivating behavioral interventions, and more. Working around the clock at marginal cost, they can provide responsive support with more reliability than overworked nurses across scattered trial sites. 
+Bots further enable continuous remote patient monitoring to improve compliance rates that directly impact trial integrity. By establishing ongoing dialogue at scale, they also facilitate early detection of adverse reactions or mental health issues so coordinators can rapidly respond and keep participants engaged. 
+
+Extracting powerful insights from trial data 
+
+The data collected across a multi-year clinical trial is vast and complex, usually amounting to terabytes of medical records, genomic sequences, imaging scans, biomarker assays, questionnaire responses, and more. Manually combing through such immense datasets using legacy analytics tools is just not feasible. 
+This is where generative AI truly shines, capable of intelligently parsing mountains of structured and unstructured data to uncover subtle patterns that lead to actionable insights. As natural language models, chatbots can further analyze doctors’ notes, patient messages, and open-ended survey responses. 
+Generative AI promises to transform every facet of clinical trials, from participant engagement to research analytics and everything in between. Chatbots and other models like GPT-3 mark an exciting shift toward cloud-based software that keeps getting smarter, allowing pharmaceutical experts to focus on innovation and strategy rather than getting bogged down in manual processes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations                                      
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+Executive Dashboards for Pharmaceutical Companies                                    
+
+
+
+
+
+
+
+
+Why Analytics-as-a-Service is a Game-Changer for the Life Sciences Companies                                    
+
+
+
+
+
+
+
+
+Exploring the Opportunities and Challenges of AI in Life Sciences                                    
+
+
+
+
+
+
+
+
+Benefits of Embedded Analytics for the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

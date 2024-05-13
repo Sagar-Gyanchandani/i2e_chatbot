@@ -1,0 +1,243 @@
+
+
+Login and account issues · Cloudflare Fundamentals docs
+ 
+
+
+Skip to contentCloudflare Docs logomarkCloudflare
+DocsCloudflare Fundamentals
+Navigation menu iconOpen external linkCloudflare Docs logomarkCloudflare
+DocsCloudflare FundamentalsDropdown iconCloudflare Fundamentals menuHow Cloudflare worksCloudflare homepage
+Overview
+
+Expand: Concepts
+
+
+Concepts
+What is Cloudflare?
+How Cloudflare works
+Cloudflare IP addresses
+Our free plan
+Reference architecturesExternal link icon
+Open external link
+The Internet
+
+Expand: How to use Cloudflare
+
+
+How to use Cloudflare
+
+Expand: Manage account
+
+
+Manage account
+Create account
+Verify email address
+Log into Cloudflare
+Manage email notifications
+Submit abuse reports
+
+Expand: Account security
+
+
+Account security
+Allow Cloudflare access
+Login and account issues
+Manage active sessions
+Multi-Factor Email Authentication
+Provision with SCIM
+Review audit logs
+Secure compromised account
+Set up SSOExternal link icon
+Open external link
+Two-factor authentication
+Zone holds
+
+Expand: Account customizations
+
+
+Account customizations
+Account name
+Appearance
+Communication preferences
+Language preference
+
+Expand: Manage domains
+
+
+Manage domains
+Add a site
+Add multiple sites via automation
+Change your domain version
+Connect your domain
+Manage subdomains
+Move a domain between Cloudflare accounts
+Pause Cloudflare
+Redirect one domain to another
+Remove a domain
+Star websites
+
+Expand: Manage members
+
+
+Manage members
+Manage
+Roles
+Role scopes
+Set up SSOExternal link icon
+Open external link
+Accounts, zones, and profiles
+Find zone and account IDs
+Use Cloudflare without changing nameservers
+Troubleshooting
+
+Expand: Subscriptions and billing
+
+
+Subscriptions and billing
+Create billing profile
+Billing PolicyExternal link icon
+Open external link
+Cancel Cloudflare subscriptions
+Change domain plan
+Change password or email
+Change Super Administrator
+Delete your Cloudflare account
+Preview services
+Troubleshoot failed payments
+Understand Cloudflare invoices
+Update billing information
+
+Expand: Basic tasks
+
+
+Basic tasks
+Enable basic features in bulk
+Improve SEO
+Interacting with Cloudflare
+Maintenance mode
+Minimize downtime
+Optimize site speedExternal link icon
+Open external link
+Prepare for surges or spikes in web traffic
+Prevent DDoS attacksExternal link icon
+Open external link
+Protect your origin server
+Recovering from a hacked site
+Scan for PCI compliance
+Secure your websiteExternal link icon
+Open external link
+Test speed
+
+Expand: Trace a request
+
+
+Trace a request
+How to
+Limitations
+Changelog
+Under a DDoS attack?
+
+Expand: Cloudflare's API
+
+
+Cloudflare's API
+
+Expand: Get started
+
+
+Get started
+Create API token
+Get Global API key (legacy)
+Get Origin CA keys
+
+Expand: How to
+
+
+How to
+Make API calls
+Create tokens via API
+Control API Access
+Restrict tokens
+Roll tokens
+
+Expand: Reference
+
+
+Reference
+Limits
+API token permissions
+API token templates
+API deprecations
+SDKs
+Troubleshooting
+Building custom views
+
+Expand: Reference
+
+
+Reference
+
+Expand: Policies
+
+
+Policies
+Cloudflare Cookies
+Compliance documentation
+Content Security Policies (CSPs)
+Incident Management PolicyExternal link icon
+Open external link
+Project Cybersafe Schools
+
+Expand: Report abuse
+
+
+Report abuse
+Review abuse policiesExternal link icon
+Open external link
+Complaint types
+Providing specific URLs
+Submit reportExternal link icon
+Open external link
+/cdn-cgi/ endpoint
+Cloudflare and Google Analytics
+Cloudflare crawlers
+Cloudflare HTTP request headers
+Cloudflare Ray ID
+Cryptographic Attestation of Personhood
+Glossary
+Network Layers
+Network ports
+Partners
+Redirects
+TCP connections
+Under Attack modeGive FeedbackGitHub iconEdit this page on GitHubSearch icon (depiction of a magnifying glass)
+Light theme icon (depiction of a sun)Dark theme icon (depiction of a moon)Set theme to dark (⇧+D)↑ TopProductsCloudflare Fundamentals......Account securityLogin and account issuesLogin and account issues​​
+Forgot your email?​​
+Enterprise plansIf you forget the email address associated with your account, contact your Customer Success Manager.​​
+Free, Pro, and Business plansIf you forget the email address associated with your application:Go to the Cloudflare dashboardExternal link icon
+Open external link and select Forgot your email?.Enter your domain name.Cloudflare will send an email to the email address associated with your domain name. If you do not receive an email within 20 minutes, check your spam folder. The message will be sent from [email protected] or [email protected].This process does not affect your account or share your email address with anyone.If you still cannot access the email address associated with your Cloudflare account, you may need to move your domain to another account.Cloudflare requires these steps to prevent account hijacking.​​
+Forgot your password?If you forget your account password:Go to the Cloudflare dashboardExternal link icon
+Open external link and select Forgot your password?.Enter your email address.Cloudflare will send an email to your email address to reset your password. If you do not receive it within 20 minutes, check your spam folder. The message will be sent from [email protected] or [email protected].Select the password reset link in the email. This link will expire after two hours.Cloudflare recommends strong passwords. Minimum requirements are:Password must be at least 8 characters.Password must contain a digit.Password must contain a special character.​​
+Email verification issuesRefer to Verify email address.​​
+Change your Cloudflare email address or passwordRefer to Change password or email address.​​
+Secure a compromised accountIf you observe suspicious activity within your Cloudflare account, secure your account using these steps.​​
+Sign-in optionsYou have several sign-in options for the Cloudflare dashboardExternal link icon
+Open external link
+:Email and password: Enter your email address and password to log in.Single sign on (SSO): Enter your email address (so long as your admin has configured SSO as a sign in option).Sign in with Apple:Same Cloudflare account email as Apple ID: You can either sign in with your email and password or sign in with Apple.Different Cloudflare account email as Apple ID: Will create a new Cloudflare account if you sign in with Apple. If you want to log into an existing account, change your email address to match the one used for your Apple ID.If you login to your Cloudflare user account with Single Sign-On (SSO), you will not be able to sign in with Apple.​​
+Related resourcesMove domains between Cloudflare accountsSecure user access with two-factor authentication (2FA)Change your domain nameservers to CloudflareManage API keys and tokensCloudflare DashboardExternal link icon
+Open external link
+  ·  
+CommunityExternal link icon
+Open external link
+  ·  
+Learning CenterExternal link icon
+Open external link
+  ·  
+Support PortalExternal link icon
+Open external link
+  ·  
+Cookie SettingsEdit on GitHubExternal link icon
+Open external link
+  ·  
+Updated January 31, 2024

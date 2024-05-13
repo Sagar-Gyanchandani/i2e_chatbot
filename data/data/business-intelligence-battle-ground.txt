@@ -1,0 +1,526 @@
+
+
+
+
+
+
+
+
+
+Power BI vs. Tableau | Business Intelligence Battle Ground
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power BI vs. Tableau | Business Intelligence Battle Ground                                
+
+December 6, 2019                                
+
+Power BI vs Tableau 
+If you are looking for a Business Intelligence or data visualization solution, chances are you have come across Power BI and Tableau.  
+Founded in 2003, Tableau is often regarded as the gold-standard in data visualization and has been so for a long time. With intuitive data exploration capabilities, Tableau makes a strong case of data visualization. Power BI, on the other hand, debuted in 2013, it is Microsoft’s BI option. It’s strong integrations with the Microsoft ecosystem enable performance and support productivity. 
+Through this blog, I intend to provide a concise yet comprehensive guide to help you decide which should suit your requirements better.  
+From the research undertaken for writing this article (which I can say is substantial), we can assure you that ultimately it all comes down to business requirements. What problem are you looking to solve and how much are you willing to pay for it. We will discuss these two products one-on-one on three parameters: Functionality, Deployment Options and Cost. Next, we will briefly touch upon Gartner’s magic quadrant report, 2019 and what it means, and finally we will wrap up. 
+
+Functionality 
+Tableau is a sophisticated product built to explore data visually. It provides a wide range of data representation, dashboard design, and user functionalities. It works very well with users with large datasets from multiple data sources. You can ask a question about your data and get insights almost immediately. Tableau is available for both cloud and on-premise. Its no-code powerful drag and drop analytics makes it very popular among the users. It has a large community and quality customer service. 
+Image source: www.tableau.com
+Power BI with its common foundation as Excel provides a familiar experience to Excel users. One of the biggest selling points of Power BI is integration with the Microsoft environment. Power BI integrates natively with Azure data services. Power BI also offers unique experiences for business users like Natural Language Query and custom visualizations. The Power BI community is not as strong as Tableau and customer service is just okay. Power Bi comes in two different variants, Power BI Basic and Power BI Premium, the basic version does not address on-premise analytics.  
+Image source: powerbi.microsoft.com
+Bottom line: Tableau is the best tool when it comes to Data Visualization (seeing and exploring data) whereas Power BI focuses more on predictive modeling and reporting. For processing large data sets from multiple sources, you can go for either Tableau or Power BI premium, the basic version does not address on-premise analytics. 
+Deployment
+Power BI’s deployment option are limited. It is available as a SaaS (software as a service) model and on-premise; on-premise is only supported by Power BI Premium licensing flexibility. Tableau, on the other hand, is much more flexible in its deployment and is available both on-premises and cloud.
+Bottom line: Tableau is flexible offers both on-premise and cloud service. If the SAAS model works for you then you can have Power BI basic for free with Microsoft 365. Also, if you are invested in Microsoft technology, then Power Bi may still be profitable from a deployment perspective. 
+Cost
+
+Both
+the products offer a subscription-based licensing model. While both these
+products offer comparable services, Power BI is way cheaper to Tableau. Power
+BI premium does increase the cost considerably. If you have a small budget
+(less than $30 per user) Power BI is your product you will settle for.  It is easy to use and does not require a power
+user. However, if you are looking for a data visualization option for your
+analysts looking to leverage data, Tableau totally justifies its price. 
+To have a better picture here is a pricing break down for both:  
+FeaturesPower BITableauAuthoring and data preparation Power BI Desktop ​ Free  Creator ​ $70 user/month  Self-service BI, sharing and collaboration Power BI Pro ​ $9.99 user/month)  Tableau Server ​ $35 user/month​ or​ Tableau Online ​ 42 user/month)  Viewing and Interaction Power BI Pro ​ $9.99 user/month​ or​ Power BI Premium ​  viewer ​ On-premise or Public Cloud ​ 12 user/month ​ Or​ SaaS​ or $15 user/month​  
+Tableau publicly available pricing here. Power BI publicly available pricing here. 
+Bottom line: On of the biggest advantage Power BI has over Tableau is its rock bottom price. It’s a cost-effective BI product. Tableau, on the other hand, is a sophisticated product and justifies its bigger price tag. 
+
+Gartner’s Magic quadrant 2019 
+In 2018, Power BI tied with Tableau in terms of functionality but strongly outplaced it in “completeness of vision” because it is embedded with the Microsoft stack. This year, however, Microsoft has left Tableau marginally behind, thereby improving on the ‘ability to execute’ axis. No surprise there considering the value for money and ease of use. That being said, Tableau is still placed comfortably among the leaders and is still popular among its users with strong customer ratings.  
+
+
+As the saying goes, the most challenging part of buying a BI solution is figuring out which one meets your needs. I hope it will help you decide on a BI solution. If you are a Microsoft 365 user, I would suggest you go for Power BI and if you are not satisfied you could always upgrade to Tableau.  
+
+
+
+Tags: data visualization solution, power BI Price, Power BI Solutions, Power bi vs Tableau, Tableau Solutions, tableau vs power BI 
+
+
+
+
+
+
+
+
+
+
+
+
+     Prev Post 
+
+Next Post       
+
+
+
+
+
+
+
+You might also like
+
+
+
+
+
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials                                     
+
+
+
+
+
+
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it                                     
+
+
+
+
+
+
+
+
+Enhancing Sales and Marketing Collaborations with SharePoint and AI                                     
+
+
+
+
+
+
+
+
+Data Security Matters: Safeguarding Pharma Information in SharePoint Implementation                                    
+
+
+
+
+
+
+
+
+Benefits of Embedded Analytics for the Life Sciences Industry                                    
+
+
+
+
+
+
+
+
+Digital Journey of SMBs in India and Cloud Adoption                                    
+
+
+
+
+
+
+
+
+Is There a Need for Digital Innovation for SMB Pharma?                                    
+
+
+
+
+
+
+
+
+Power Bi Dashboards and its contribution to Data Visualization and Advanced Analytics                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

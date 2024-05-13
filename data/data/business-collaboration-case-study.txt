@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+Business Collaboration Dashboard for Pharmaceuticals Company
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CASE STUDY
+
+
+
+Pharma Client Enhances Cross Organizational Collaboration Whilst Maintaining Confidentiality of Sensitive Data
+
+
+ 
+
+
+Business Case
+
+A pharmaceutical leader sought to create value by enabling smooth collaboration between data experts of their company with another organization. Their goal was to gain mutual business and scientific insights to advance highly competitive programs. However, the main challenge faced was consolidating external data while preserving confidentiality commitments.  They turned to i2e to build a tailored, agile collaboration-based solution which can continue to evolve after initial implementation in simplifying day-to-day collaboration tasks and provide easy access to information concerning materials, results and reports across both teams.
+They turned to i2e to build a tailored, agile collaboration-based solution which can continue to evolve after initial implementation in simplifying day-to-day collaboration tasks and provide easy access to information concerning materials, results and reports across both teams.
+ Our Solution
+Team i2e tailored a custom dashboard solution, after a thorough comprehension of client needs.
+
+Our data experts first aggregated the unstructured data and constructed a streamlined data pipeline, which enabled the teams to seamlessly collaborate whilst maintaining the necessary data confidentiality between teams.
+We leveraged SharePoint deployment with user-friendly HTML5 and CSS-based dashboard creation, ensuring user friendly navigation and presentation.
+Challenges Overcome
+
+Managing and integrating diverse data sets from various stages of the pharmaceutical value chain posed a significant challenge due to the sheer volume and diversity of data.
+
+
+Enabling collaboration between the two organizations to improve performance while maintaining data privacy and security.
+
+
+Providing easy access to critical information such as materials, results, and reports across multiple teams was challenging, considering the vast amount of data generated daily.
+
+
+Benefits
+
+Centralized dashboard enabled seamless collaboration while maintaining confidentiality.
+
+
+Digital signatures, restricted access, security keys enhanced document security, safeguarding distribution.
+
+Folder organization and search function improved document retrieval efficiency for users.
+
+Search time for data or documents reduced significantly.
+
+Tracking improved accountability, monitoring user actions for organizational transparency.
+
+There is no additional licensing cost for SharePoint since the client already used Microsoft Office 365.
+ Results
+
+ 
+ 
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

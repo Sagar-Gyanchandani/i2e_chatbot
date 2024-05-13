@@ -1,0 +1,26 @@
+
+
+Cloudflare Registrar Abuse Process | CloudflareSolutions By topicBy needBy industryPublic interestContact salesProductsOur productsFor your employeesFor apps and infrastructureFor developersConsumer servicesNeed help choosing?View What's NewContact salesPricingOur plans & pricingEnterprise planCompare all plansNeed help choosing?View FAQsContact salesResourcesDocumentationGetting StartedApplication SecurityApplication ServicesZero Trust ServicesDeveloper PlatformNetwork ServicesInsightsAPIAIResource hubLearningTrends & insightsBlogCloudflare TVCommunity forumGet helpContact salesPartnersPartner networkTechnology partnersPeering portalCloudflare Agency ProgramPartner NetworkWhy CloudflareWhy choose CloudflareLearn about CloudflareComparisonsWhy trust CloudflareResource hubBlogEnterprise level servicesExplore case studiesContact salesSign upSign upContact salesContact salesLog inLog inSupportCommunity SupportHelp CenterContact CloudflareLost account access?Log inLog inskip to contentSales: +1 (650) 319 8930+1 (650) 319 8930SupportLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upSign upContact salesLog inLog inSolutionsProductsPricingResourcesPartnersWhy CloudflareSupportSign upCloudflare Registrar Abuse Process
+Cloudflare Registrar offers secure domain name registration and management services. To report abuse of a domain name or other concerns specifically related to our registrar services, please select a “Registrar -” report category on Cloudflare's abuse form. To file an abuse complaint about content or other issues that are not specific to Cloudflare's registrar services, please visit Cloudflare's abuse page.
+We've included some examples of common registrar-specific issues below.
+Trademark. If you have concerns about a particular domain name, we would encourage you to contact the domain name registrant directly using the WHOIS lookup process. You may also file an administrative proceeding against the registrant pursuant to ICANN's Uniform Domain Name Dispute Resolution (UDRP) or (for new TLDs) the Uniform Rapid Suspension Policy (URS) process. Consistent with ICANN regulations, Cloudflare will not intervene in domain name disputes between domain name registrants and third parties until instructed to take action by the dispute resolution expert.
+Inaccurate WHOIS information. ICANN requires registrars to update information about a domain in the WHOIS records in a timely manner to ensure the information is current and accurate. To report WHOIS information that is inaccurate or incomplete, please visit Cloudflare's abuse page to file a report. Cloudflare will take reasonable steps to investigate claims of inaccurate data.
+Domain hijacking. Domain hijacking occurs when the registration of a domain name is changed without the permission of the original registrant. If you believe your domain has been moved to Cloudflare's registrar without your permission, please visit Cloudflare's abuse page to file a report.
+For all other types of abuse reports please visit Cloudflare's abuse page to file a report.
+What if I'm a law enforcement official?
+Law enforcement officials can contact us directly at abuse+law@cloudflare.com. You must include your badge & case number when contacting us to receive a response. It is a crime to falsely impersonate a law enforcement official.
+Law enforcement officials can also contact Cloudflare at +1.4153197517.
+Additional Information
+
+Cloudflare Registrar Domain Registration Agreement
+Abuse Reporting Form
+Customer Service Information
+ICANN Registrants' Benefits and Responsibilities
+People Page
+
+Contact
+Cloudflare.com
+101 Townsend St.
+San Francisco, CA 94107
+registrar-abuse@cloudflare.com
+1.4153197517Getting StartedFree plansFor enterprisesCompare plansGet a recommendationRequest a demoContact salesResourcesLearning centerAnalyst reportsCloudflare RadarCloudflare TVCase studiesWebinarsWhite PapersDeveloper docsArchitecture CentertheNETBlogSolutionsConnectivity cloudSSE and SASE servicesApplication servicesNetwork servicesDeveloper servicesCommunityCommunity hubProject GalileoAthenian ProjectCloudflare for CampaignsCritical Infrastructure Defense ProjectConnect 2024SupportHelp centerCloudflare statusComplianceGDPRTrust & safetyCompanyAbout CloudflareOur teamInvestor relationsPressCareersDiversity, equity, & inclusionImpact/ESGNetwork mapLogos & press kitBecome a partner© 2024 Cloudflare, Inc.Privacy PolicyTerms of UseReport Security IssuesCookie PreferencesTrademark

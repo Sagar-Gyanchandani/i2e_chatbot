@@ -1,0 +1,643 @@
+
+
+
+
+
+
+
+
+
+Pharma IT Solutions Archives - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+   Category: Pharma IT Solutions
+
+Home
+ Category: Pharma IT Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 4, 2022            
+
+Benefits of Embedded Analytics for the Life Sciences Industry                
+
+Analytics always played a pivotal role in the life sciences industry. Owing to the dynamic and complex nature of drug development and marketing, pharma decision-makers rely heavily on data to decide on the future course of action.  According to a Worldwide Health Industry 2020 predictions report, the next decade will be defined by healthcare data […]
+
+
+
+Sanjana Lagudu                    
+
+
+Data Analytics, Data Visualization, Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 27, 2021            
+
+Is There a Need for Digital Innovation for SMB Pharma?                
+
+In recent years, the pharma industry has witnessed a noticeable rise in the number of small and medium-sized pharma companies (SMBs) in drug development. However, many SMBs face operational issues and competitive pressures which are major roadblocks to showcasing their full potential.  Digitalization innovation in SMB pharma could be the answer to some of these issues, as it can help SMBs to achieve not only operational efficiencies but also assist in making informed decisions, better data management, and cost-cutting.   In this blog, we will tell you about the various areas where digital […]
+
+
+
+Sri Kanagala                    
+
+
+Data Visualization, Digital Transformation, IT Managed Services, Office 365, Pharma IT Solutions, Power Platform 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 14, 2021            
+
+Pandemic Lessons: Why Healthcare Industry Should Engage Managed IT Services Provider.                
+
+Technology helped the healthcare industry to cope up with the growing patient demands and competition in the market. However, when the pandemic hit, it exposed other technological challenges they were facing and highlighted the need for robust digital solutions. But the healthcare industry’s core capabilities do not lie in technology, so how do they innovate? They can do it with the help of IT managed services.  Read this blog […]
+
+
+
+Sanjana Lagudu                    
+
+
+IT Managed Services, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+September 2, 2020            
+
+Analytics for Resourcing Decision Making.                
+
+R&D funds in pharmaceuticals are scares, it is important that they be allocated wisely. Companies often find it difficult to decide on which resources to pursue or, at times even more significant which resources to retire or discontinue.   Are you making these common mistakes?  Guesstimates: Your next project or project phase is about to start, you hold a team meeting, and based […]
+
+
+
+Darshana Barthakur                    
+
+
+Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+January 19, 2020            
+
+Microsoft adds RPA to its list of services with Power Automate                
+
+Microsoft is heavily invested in empowering the average business users and is pushing for anyone can develop. In this context, Power Platform, first introduced in 2018 shows tremendous promise especially with the newly revamped Power Automate (previously Microsoft Flow) and Power Agents. The latest edition of Microsoft Ignite declared that the company will be a […]
+
+
+
+Sri Kanagala                    
+
+
+Pharma IT Solutions, Power Automate, Robotic Process Automation 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+October 14, 2019            
+
+Top Pharma IT solution trends you should practice                
+
+The end of last century witnessed Industrial revolution 3 popularly known as the digital revolution and now industries are gearing for industrial revolution 4.0 or IR 4.0 For those who are not aware of this, Technology writer, Alasdair Gilchrist, describes Industry 4.0 as the convergence of people, physical systems, and data within an industrial process to increase […]
+
+
+
+Vishal Rane                    
+
+
+Digital Transformation, Pharma IT Solutions 
+
+No Comments                
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11671
+Categories
+
+App Modernization
+
+Artificial Intelligence
+
+Augmented & Virtual Reality
+
+AWS RedShift
+
+Big Data
+
+Blockchain
+
+Cloud
+
+Data Analytics
+
+Data Visualization
+
+Digital Transformation
+
+Document Management System SharePoint
+
+Enterprise Mobility
+
+IT Managed Services
+
+IT Outsourcing
+
+Latest Blog
+
+Microsoft Azure
+
+Microsoft Teams
+
+News
+
+Office 365
+
+Pharma IT Solutions
+
+Planisware
+
+Power Apps
+
+Power Automate
+
+Power BI
+
+Power Platform
+
+Project Management
+
+Project Online
+
+Project Portfolio Management
+
+Resource Management
+
+Robotic Process Automation
+
+SharePoint
+
+Staff Augmentation
+
+Tips
+
+Uncategorized
+
+Windows Virtual Desktop
+
+Work Culture
+
+
+
+
+Recent Posts
+
+
+Is Your Data Ready for Generative AI: A Guide for Life Sciences Organizations  
+
+
+Change Management- What is it? And Why Should Project Managers Understand and Own it 
+
+
+A Pharma Success Story: How a Generative AI Chatbot Helped in Driving Swift Query Resolution in Clinical Trials 
+
+
+What is Generative AI & How Can Life Sciences Organizations Benefit from it 
+
+
+Common Resource Allocation Challenges and How Digital PPM Solutions can Solve them
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

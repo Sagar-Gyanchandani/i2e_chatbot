@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+
+Pharma Data Migration to AWS Cloud - i2e Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CASE STUDY
+
+
+
+A Pharma Client Broke Data Siloes and Achieved Streamlined Analytics Using our Custom-Built Data Analytics Pipeline
+
+
+ 
+
+
+Business Case
+
+A global pharmaceutical giant was facing limitations in data management due to a traditional on-premises analytical pipeline. The current system was slow and did not offer flexibility and scalability to accommodate their growing data needs. Moreover, multiple siloed data sets, and lack of provision for using AI, analytics was depriving the teams of key opportunities to make data-backed decision-making.
+The client was looking for an expert partner to migrate their analytical pipeline to AWS and utilize its advanced security features such as security groups and network access control lists, to enable inbound and outbound filtering.
+Our Solution
+Our AWS experts at i2e understood the client’s requirements and developed a scalable and serverless data pipeline using AWS services. The team integrated data from multiple sources, they then cleaned, de-duplicated and transformed the data to AWS Redshift for use of data analysts and scientists in S3 buckets.
+The team used AWS Glue for preparing and loading the data for downstream analytics. The client had an existing Tableau license, so we integrated the pipeline with Tableau for data visualization and reporting.
+This serverless approach gave the client not only the cost advantage, but also solved data siloes, flexibility and scalability issues. The entire infrastructure was built within an Amazon Virtual Private Cloud (VPC) setup which is easy-to-use, customizable and provides advanced security features.
+Challenges Overcome
+
+Consolidating data from multiple data sources
+
+Converting raw data to structured data suitable for downstream analytics
+
+
+
+Benefits
+
+Efficient end-to-end data analytics pipeline for data backed decision-making
+
+
+Pay-per-use cloud infrastructure, reducing maintenance costs
+
+Advanced security with network access controls
+
+Easy to implement, scalable, and flexible infrastructure
+
+Results
+
+ 
+ 
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+Early Warning Systems: ML-Powered Competitive Intelligence for Life Sciences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+Technologies
+
+Planisware Generative AI Project Online AI/ML SharePoint Cloud Big Data
+
+Solutions
+
+Strategy & Consulting
+
+Strategic Portfolio Management R&D Portfolio Management Portfolio Decision Analytics Medical Affairs 
+Business Research
+
+Competitive Intelligence EWS Market Assessment 
+Business Development & Licensing
+
+Indication and Asset Prioritization Forecasting and Valuation Target Product Profile (TPP) & Partnering Package Preparation Partner Identification and Reach Out 
+Commercial
+
+Forecasting and Valuation BI Dashboards Marketing and Digital Services Market Access Sales Analytics 
+
+
+About Us
+
+About i2e Work at i2e Contact Us
+
+Partners
+
+Partners
+
+Resource Center
+
+Blog Case Studies Webinars Events & News
+
+Planisware Exchange 24 
+
+
+X
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+CASE STUDY
+
+
+
+Pharma invests in game theory to
+predict competitive events and act
+more decisively on medicine investments
+
+
+ 
+
+
+Business Case
+
+A global pharma giant was looking to make their competitive Intelligence agile, and with less manual intervention. Originally, subject matter experts (SMEs) used to research hundreds of news articles, and manually discuss the impact of the global events with their colleagues. Their current system neither had collaborative capabilities nor gave the SMEs a platform to save and share the predictions among the team and discuss their extent of impact on the business.
+The SMEs also had to go through numerous news articles to come to a conclusion on the nature of the event (how much of a threat or an opportunity it is). While doing so they had to navigate through hundreds of duplicate articles, and sometimes, even miss out on a related global event. Such instances were skewing their Predictions.
+The client approached i2e to digitalize their competitive intelligence process which can allow the SMEs to focus more on decision-making and less on manual data processing
+Key  Challenges
+ 
+
+
+Manual competitive intelligence process
+
+
+ 
+
+
+Lack of collaboration and inability to save/share predictions
+
+
+ 
+
+
+SMEs had to sort through numerous news articles to identify threats/opportunities
+
+
+ 
+
+
+Discussions with colleagues impacted decision-making
+
+Our Solution
+
+Team i2e divided the project into two phases, developing solutions for each problem.
+
+Phase 1Collaborative Competitive Intelligence Platform
+
+The team built a competitive intelligence platform on Angular-a modern web application framework. This platform helped the SMEs to start and save the prediction flow digitally.  
+
+
+They can also attach the selected news articles to validate their predictions. Once the prediction is complete, the SMEs can share it with other colleagues, discuss, and approve it.
+
+
+The platform also helped the senior management to have a consolidated view of the predictions and make an informed strategic decision.
+
+Dataiku’s deployer node for API deployment saved a lot of time while deploying the ML model.
+
+
+Phase 2Algorithm for filtering out unwanted noise
+
+Our team used the Dataiku platform to develop and deploy ML algorithms to filter, sort, and deduplicate the news articles. Result- the SMEs were presented with the most authoritative information.  
+
+
+The algorithm was also smart enough to do a secondary and a tertiary search of the other factors which can influence the global event.
+
+
+This reduced the number of articles that the SMEs must go through and helped them concentrate on predicting.
+
+Challenges Overcome
+
+Selection of algorithms required multiple iterations.  
+
+
+Training the algorithm to identify the noise from the actual content.
+
+
+
+Benefits
+
+The SMEs were able to collaborate and work on the predictions hassle free.  
+
+
+They were able to validate the predictions by attaching news articles.
+
+All the prediction information is saved on one platform for easy viewing.
+
+The algorithm helped the SMEs save time separating noise from actual information.
+
+The secondary and tertiary searches broadened the scope of their predictions.
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+×
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Solutions 
+
+
+
+ Strategy & Consulting 
+
+
+
+Business Research 
+
+
+
+Business Development and Licensing 
+
+
+
+Commercial 
+
+
+
+
+
+Technologies 
+
+
+
+PPM 
+
+
+
+AI/ML 
+
+
+
+Cloud 
+
+
+
+Big Data 
+
+
+
+
+
+Products 
+
+
+
+Executive Dashboards 
+
+
+
+Resource Management 
+
+
+
+Competitive Intelligence 
+
+
+
+
+
+About Us 
+
+
+
+Blog 
+
+
+
+Case Studies 
+
+
+
+Contact Us 
+
+
+
+
+
+
+
+
+
+© 2024 i2e Consulting. All Rights Reserved. 
+
+
+
+
+
+Privacy Policy | Disclaimer 
+
+
+
+
+
+ 
+
+
+Linkedin
+ 
+
+
+
+Facebook
+ 
+
+
+
+Instagram
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
